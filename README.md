@@ -12,4 +12,4 @@
 ***
 
 ### 카테고리
-+ ARTICIFIAL INTELLIGENCE(인공지능)
++ [A.I(인공지능)](https://github.com/BOSOEK/TIL/edit/main/)
