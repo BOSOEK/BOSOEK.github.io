@@ -13,3 +13,7 @@
 
 ### 카테고리
 + [A.I(인공지능)](https://github.com/BOSOEK/TIL/blob/main/A.I/A.I_intro.md)
+
+***
+
+### 프로그래밍 언어
