@@ -12,7 +12,7 @@
 ***
 
 ### 카테고리
-+ [A.I(인공지능)](https://github.com/BOSOEK/TIL/blob/main/A.I/A.I_intro.md)
++ [A.I(인공지능)](https://github.com/BOSOEK/TIL/blob/main/A.I/README.md)
 
 ***
 
