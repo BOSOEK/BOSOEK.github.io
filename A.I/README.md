@@ -1,4 +1,5 @@
-# ARTICIFIAL INTELLIGENCE(인공지능)
+# A.I(인공지능)
+
 
 
 ***
