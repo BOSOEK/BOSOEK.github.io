@@ -14,7 +14,7 @@
 * [퍼지 이론](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
 * [머신러닝]()
 * [인공 신경망]()
-* [유전 알고리즘]()
+* [유전 알고리즘](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
 * [인지 컴퓨팅]()
 * [BDI 아키텍처]()
 * [인공 생명체]()
