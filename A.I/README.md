@@ -23,3 +23,6 @@
 ### 로드맵
 
 ![A I_roadmap](https://user-images.githubusercontent.com/68007145/104094621-5b683600-52d5-11eb-91d7-16ec750f8e91.png)
+***
+### 인공지능 관련 사이트들
+* #### [인공지능 뉴스](https://artificialintelligence-news.com/)
