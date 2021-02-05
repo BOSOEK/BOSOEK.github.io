@@ -9,7 +9,7 @@
 ***
 ### 인공지능 구현 기술
 * [데이터 시각화](https://github.com/BOSOEK/TIL/blob/main/A.I/Data%20visualization.md)
-* [데이터 분석]()
+* [데이터 분석](https://github.com/BOSOEK/TIL/blob/main/A.I/Data%20analysis.md)
 * [전문가 시스템]()
 * [퍼지 이론](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
 * [머신러닝](https://github.com/BOSOEK/TIL/blob/main/A.I/Machine%20learning.md)
