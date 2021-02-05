@@ -18,7 +18,7 @@
 * [인지 컴퓨팅]()
 * [BDI 아키텍처]()
 * [인공 생명체]()
-* [라이브러리]()
+* [라이브러리](https://github.com/BOSOEK/TIL/blob/main/A.I/library.md)
 ***
 ### 로드맵
 
