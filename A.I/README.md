@@ -12,7 +12,7 @@
 * [데이터 분석]()
 * [전문가 시스템]()
 * [퍼지 이론](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
-* [머신러닝]()
+* [머신러닝](https://github.com/BOSOEK/TIL/blob/main/A.I/Machine%20learning.md)
 * [인공 신경망]()
 * [유전 알고리즘](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
 * [인지 컴퓨팅]()
