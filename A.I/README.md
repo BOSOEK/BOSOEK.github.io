@@ -8,7 +8,7 @@
 > 특정 분야에서만 활용 가능하며 알골즘은 물론 기초 데이터와 규칙을 입력해야 하고 이를 바탕으로 학습하기에 규칙을 벗어난 창조는 불가능하다. 즉 유용한 도구로 사용하기 위해 설계된 인공지능이다.
 ***
 ### 인공지능 구현 기술
-* [데이터 시각화]()
+* [데이터 시각화](https://github.com/BOSOEK/TIL/blob/main/A.I/Data%20visualization.md)
 * [데이터 분석]()
 * [전문가 시스템]()
 * [퍼지 이론](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
