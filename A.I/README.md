@@ -15,7 +15,7 @@
 * [머신러닝](https://github.com/BOSOEK/TIL/blob/main/A.I/Machine%20learning.md)
 * [인공 신경망](https://github.com/BOSOEK/TIL/blob/main/A.I/Artificial%20neural%20network.md)
 * [유전 알고리즘](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
-* [인지 컴퓨팅]()
+* [인지 컴퓨팅](https://github.com/BOSOEK/TIL/blob/main/A.I/Cognitive%20computing.md)
 * [BDI 아키텍처](https://github.com/BOSOEK/TIL/blob/main/A.I/BDI%20Architecture.md)
 * [인공 생명체]()
 * [라이브러리](https://github.com/BOSOEK/TIL/blob/main/A.I/library.md)
