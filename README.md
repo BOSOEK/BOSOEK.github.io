@@ -12,11 +12,11 @@
 ***
 
 ### 카테고리
-+ [A.I(인공지능)](https://github.com/BOSOEK/TIL/blob/main/A.I/README.md)
+#### + [A.I(인공지능)](https://github.com/BOSOEK/TIL/blob/main/A.I/README.md)
 
 ***
 
 ### 프로그래밍 언어
-+ [Arduino](https://github.com/BOSOEK/TIL/tree/main/language/Arduino)
-+ [RaspberryPi]()
-+ [ATmega128]()
+#### + [Arduino](https://github.com/BOSOEK/TIL/tree/main/language/Arduino)
+#### + [RaspberryPi]()
+#### + [ATmega128]()
