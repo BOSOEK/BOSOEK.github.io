@@ -22,6 +22,8 @@
 ***
 ### 로드맵
 
+![machine-learning-map](https://user-images.githubusercontent.com/68007145/110240279-834edf80-7f8e-11eb-9b6e-692c83ca65a4.png)
+
 ![A I_roadmap](https://user-images.githubusercontent.com/68007145/104094621-5b683600-52d5-11eb-91d7-16ec750f8e91.png)
 ***
 ### 인공지능 관련 사이트들
