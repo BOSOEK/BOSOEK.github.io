@@ -4,7 +4,7 @@
 > 시작날짜 : 2021-01-01
 
 ## 카테고리
-### A.I(인공지능)
+### artificial intelligence
 * [Supervised learning(지도학습)]()
 * [Unsupervised learning(비지도학습)]()
 * [Reinforcement learning(강화 학습)]()
@@ -12,7 +12,7 @@
 * [Fuzzy theory(퍼지 이론)]()
 * [DCI 아키텍쳐]()
 
-### 마이크로 프로세서
-* [Micro controller Unit(MCU)마이크로 프러세서란?]()
- ### Raspberry Pi
-### 마이크로 컨트롤러
+### Micro controller Unit (MCU)
+* [마이크로 컨트롤러란?]()
+   ### Raspberry Pi
+### Micro Processor Unit (MPU)
