@@ -10,9 +10,10 @@
 * [Fuzzy theory(퍼지 이론)](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
 
 ### Raspberry Pi
-* [Micro controller Unit (MCU)란?](https://hjeon.tistory.com/20)
+* [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
+* [Raspberry Pi란?]()
 
 ### Arduino
-* [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
+* [Micro controller Unit (MCU)란?](https://hjeon.tistory.com/20)
 * [Arduino란?](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino.md)
 * [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
