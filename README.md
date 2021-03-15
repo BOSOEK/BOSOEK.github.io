@@ -13,5 +13,5 @@
 * [DCI 아키텍쳐]()
 
 ### 마이크로 프로세서
-  ### * Raspberry Pi
+> ### Raspberry Pi
 ### 마이크로 컨트롤러
