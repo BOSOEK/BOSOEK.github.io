@@ -14,9 +14,9 @@
 
 ### Micro controller Unit (MCU)
 * [마이크로 컨트롤러란?](https://hjeon.tistory.com/20)
-  ### Raspberry Pi
+* ### Raspberry Pi
 ### Micro Processor Unit (MPU)
 * [마이크로 프로세서란?](https://hjeon.tistory.com/20)
-  ### Arduino
+* ### Arduino
   * [Arduino model]()
-  ### ATmega
+* ### ATmega
