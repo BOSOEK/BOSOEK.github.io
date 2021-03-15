@@ -1,6 +1,6 @@
 # Today I Learned
 
-#### 오늘 내가 한 공부 & 겪은 경험을 는다  )
+#### 오늘 내가 한 공부 & 겪은 경험을 적는다 :)
 > 시작날짜 : 2021-01-01
 
 ## 카테고리
@@ -9,11 +9,10 @@
 * [Genetic algorithm(유전 알고리즘)](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
 * [Fuzzy theory(퍼지 이론)](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
 
-### Micro controller Unit (MCU)
-* [마이크로 컨트롤러란?](https://hjeon.tistory.com/20)
-* ### Raspberry Pi
-### Micro Processor Unit (MPU)
-* [마이크로 프로세서란?](https://hjeon.tistory.com/20)
-* ### Arduino
-> * [Arduino란?](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino.md)
-> * [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
+### Raspberry Pi
+* [Micro controller Unit (MCU)란?](https://hjeon.tistory.com/20)
+
+### Arduino
+* [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
+* [Arduino란?](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino.md)
+* [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
