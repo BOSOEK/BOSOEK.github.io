@@ -10,12 +10,13 @@
 * [Reinforcement learning(강화 학습)]()
 * [Genetic algorithm(유전 알고리즘)]()
 * [Fuzzy theory(퍼지 이론)]()
-* [DCI 아키텍쳐]()
+* [BDI 아키텍쳐]()
 
 ### Micro controller Unit (MCU)
-* [마이크로 컨트롤러란?]()
+* [마이크로 컨트롤러란?](https://hjeon.tistory.com/20)
   ### Raspberry Pi
 ### Micro Processor Unit (MPU)
-* [마이크로 프로세서란?]()
+* [마이크로 프로세서란?](https://hjeon.tistory.com/20)
   ### Arduino
+  * [Arduino model]()
   ### ATmega
