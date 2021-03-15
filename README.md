@@ -5,11 +5,11 @@
 
 ## 카테고리
 ### Artificial Intelligence
-* [Supervised learning(지도학습)]()
+* [Supervised learning(지도학습)](https://github.com/BOSOEK/TIL/blob/main/A.I/Supervised%20learning.md)
 * [Unsupervised learning(비지도학습)]()
 * [Reinforcement learning(강화 학습)]()
-* [Genetic algorithm(유전 알고리즘)]()
-* [Fuzzy theory(퍼지 이론)]()
+* [Genetic algorithm(유전 알고리즘)](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
+* [Fuzzy theory(퍼지 이론)](https://github.com/BOSOEK/TIL/tree/main/A.I/Fuzzy)
 * [BDI 아키텍쳐]()
 
 ### Micro controller Unit (MCU)
@@ -19,4 +19,3 @@
 * [마이크로 프로세서란?](https://hjeon.tistory.com/20)
 * ### Arduino
 > * [Arduino model](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
-* ### ATmega
