@@ -15,4 +15,5 @@
 ### Micro Processor Unit (MPU)
 * [마이크로 프로세서란?](https://hjeon.tistory.com/20)
 * ### Arduino
-> * [Arduino model](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
+> * [Arduino란?](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino.md)
+> * [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
