@@ -11,9 +11,7 @@
 
 ### Raspberry Pi
 * [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
-* [Raspberry Pi란?](https://github.com/BOSOEK/TIL/blob/main/Raspberry%20Pi/Raspberry%20Pi%EB%9E%80.md)
 
 ### Arduino
 * [Micro controller Unit (MCU)란?](https://hjeon.tistory.com/20)
-* [Arduino란?](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino.md)
 * [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
