@@ -19,4 +19,4 @@
 ### Django
 
 ### Kotlin
-
+* [Android Studio SDK Setting](https://github.com/BOSOEK/TIL/blob/main/Kotlin/sdk_setting.md)
