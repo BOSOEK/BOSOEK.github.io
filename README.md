@@ -17,6 +17,7 @@
 * [Arduino models](https://github.com/BOSOEK/TIL/blob/main/Arduino/Arduino_model.md)
 
 ### Django
+* [Django Setting](https://github.com/BOSOEK/TIL/blob/main/Django/Django_Setting.md)
 
 ### Kotlin
 * [Android Studio SDK Setting](https://github.com/BOSOEK/TIL/blob/main/Kotlin/sdk_setting.md)
