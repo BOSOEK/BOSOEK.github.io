@@ -10,7 +10,7 @@
 ```
 D:\venvs> python -m venv mysite
 ```
-  - 'python -m venv'는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
-  - 'mysite'는 만들 가상환경 이름이다.
+  + 'python -m venv'는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+  + 'mysite'는 만들 가상환경 이름이다.
 
 * 가상환경에 진입한다.
