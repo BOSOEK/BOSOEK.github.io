@@ -25,6 +25,10 @@
 
 ## 비지도학습(Unsupervised Learning)
 비지도 학습은 __정답을 알려주지 않고(Label 없이)__ 비슷한 데이터들을 군집화 하는 것으로 일종의 그룹핑 알고리즘이다.
+라벨링 없는 데이터로부터 __패턴 & 형태__ 를 찾아야 해서 지도학습보다 난이도가 높다.
+지도 학습에서 적절한 __피처(특성)을 찾기 위한 전처리 방법__ 으로 비지도 학습을 이용하기도 한다.
+__군집화나 차원축소를 사용한다.__  
+> 알고리즘 : 클러스터링(Clustering), Dimentionality Reduction, Hidden Markov Model, K Means, Density Estimation, Exception Maximization, Pazen Window, DBSCAN
 
 ***
 
