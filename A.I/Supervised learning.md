@@ -2,9 +2,9 @@
 > 머신러닝 모델은 학습 방법에 따라 크게 지도학습, 비지도 학습, 강화 학습으로 나뉜다.
 
 ### 카테고리
-* #### [지도 학습](#지도학습(supervised-learning))
-* #### [비지도 학습](#비지도학습(unsupervised-Learning))
-* #### [강화학습](#강화학습(reinforcement-Learning))
+* #### [지도 학습](#지도학습\(supervised-learning\))
+* #### [비지도 학습](#비지도학습\(unsupervised-Learning\))
+* #### [강화학습](#강화학습\(reinforcement-Learning\))
 
 ## 지도학습(Supervised learning)
 지도 학습은 __정답이 있는 데이터를__ 활용해 데이터를 학습시키는 것이다. 입력 값(X data)이 주어지면 입력값에 대한 Label(Y data)를 주어 학습시키며 대표적으로 분류, 회귀 문제가 있습니다.
