@@ -66,7 +66,7 @@ D:\projects>D:\venvs\mysite\Scripts\activate
 > 'python manage.py runserver' 명령으로 개발 서버가 구동되며 'Ctrl+C'를 누르면 개발 서버가 종료된다.
 > 개발 서버는 127.0.0.1:8000 또는 localhost:8000에서 장고의 기본 웹사이트를 볼수 있다.
 
-* Path 환경변수를 통한 가상 환경 진입 -> 방법을 못찾은(추후에 커밋함)
+* Path 환경변수를 통한 가상 환경 진입 -> 방법을 못찾음(추후에 커밋함)
 
 * 장고(파이썬) 개발 에디터 파이참 설치하기.
 > 파이참은 www.jetbrains.com/ko-kr/pycharm/download/#section=windows 에서 설치 가능하며 <Next>만 선택하면 된다.
