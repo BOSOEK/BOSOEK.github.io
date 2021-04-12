@@ -8,9 +8,9 @@
 * [Learning method(모델 학습 방법)](https://github.com/BOSOEK/TIL/blob/main/A.I/Supervised%20learning.md)
 * [Genetic algorithm(유전 알고리즘)](https://github.com/BOSOEK/TIL/tree/main/A.I/Genetic%20algorithm)
 * [Fuzzy theory(퍼지 이론)](https://github.com/BOSOEK/TIL/blob/main/A.I/puzzy_logic.md)
-### &nbsp;&nbsp;라이브러리 정리
+### &nbsp;&nbsp;A.I Library
 
-### &nbsp;&nbsp;논문 정리
+### &nbsp;&nbsp;Treatises
 
 ### Raspberry Pi
 * [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
