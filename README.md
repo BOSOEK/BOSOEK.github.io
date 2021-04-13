@@ -10,8 +10,6 @@
 * [Fuzzy theory(퍼지 이론)](https://github.com/BOSOEK/TIL/blob/main/A.I/puzzy_logic.md)
 ### &nbsp;&nbsp;A.I Library
 
-### &nbsp;&nbsp;Treatises
-
 ### Raspberry Pi
 * [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
 
@@ -25,6 +23,3 @@
 ### Kotlin
 * [Android Studio SDK Setting](https://github.com/BOSOEK/TIL/blob/main/Kotlin/sdk_setting.md)
 * [Android Studio에서 코틀린 import error 해결법](https://github.com/BOSOEK/TIL/blob/main/Kotlin/Kotlin_setting_error.md)
-
-### ROBOT
-  * ### RPA
