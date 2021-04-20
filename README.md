@@ -10,7 +10,7 @@
 
 ### Raspberry Pi
 * [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
-* [라즈베리 원격 연결](https://github.com/BOSOEK/TIL/tree/main/Raspberry%20Pi)
+* [라즈베리 원격 연결](https://github.com/BOSOEK/TIL/blob/main/Raspberry%20Pi/Rpa_network_cc.md)
 
 ### Django
 * [Django Setting](https://github.com/BOSOEK/TIL/blob/main/Django/Django_Setting.md)
