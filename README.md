@@ -9,12 +9,7 @@
 ### &nbsp;&nbsp;A.I Library
 
 ### Raspberry Pi
-<<<<<<< HEAD
 * ### [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
-=======
-* [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
-* [라즈베리 원격 연결](https://github.com/BOSOEK/TIL/blob/main/Raspberry%20Pi/Rpa_network_cc.md)
->>>>>>> 99a97eea048275f9b40a2c1621e2d5a9e632ac08
 
 ### Django
 * ### [Django Setting](https://github.com/BOSOEK/TIL/blob/main/Django/Django_Setting.md)
