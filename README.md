@@ -7,6 +7,7 @@
 ### Artificial Intelligence
 * ### [Learning method(모델 학습 방법)](https://github.com/BOSOEK/TIL/blob/main/A.I/Supervised%20learning.md)
 ### &nbsp;&nbsp;A.I Library
+  * ### [Numpy]()
 
 ### Raspberry Pi
 * ### [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
