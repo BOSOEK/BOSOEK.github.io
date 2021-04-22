@@ -102,3 +102,6 @@ import numpy as np
 > 변수에 np.array를 넣으면 복사가 되는게 아닌 같은 주소를 참조할 뿐이다.
 * ```a = b.view()``` : a와 b가 같은 주소값을 가르킨다(한 변수의 값을 바꾸면 다른 변수의 값도 바뀜)  
 * ```a = b.copy()``` : a와 b가 같은 데이터를 가진다.(한 변수 값을 바꾸면 다른 변수 값 안바뀜)
+
+***
+참고 사이트 : 괭이쟁이(https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/)
