@@ -1,4 +1,4 @@
-# 변수(변수)
+# 변수 & 자료형
 > Dart의 자료형들
 
 ### int & double
@@ -49,5 +49,38 @@
     b = '나다';
     b = 30;  //오류 안남, dynamic으로 사용 가능
     ```
+### final & const
+* 변수값 변경 불가
+    ```
+    final name = "boso";   //형 지정 안함
+    final String name2 = "boso";  //형지정
+
+    const name3 = "key";  //형지정 안함
+    const String name4 = "keys";  //형지정
+    ```
+* 단 final은 run타입에 값이 지정되어도 상관없지만 const는 빌드타입에 꼭 값이 지정되어있어야 한다.
+    ```
+    //DateTime.now() : 현재 시간 가져옴(run타임)
+    final now = new DateTime.now();
+    const now2 = new DateTime.now();  //오류
+    //const는 빌드 타입때 값을 알수 없기에 오류가 난다.
+    ```
+### enum
+* 열거 타입(상수값 나열)
+    ```
+    enum Color {
+        red, blue, yellow
+    }
+    void main() {
+        Color c = Color.red;
+        print(c); //Color.red 출력
+    }
+    ```
+* enum.values
+    >  for문도 사용 가능
+    ```
+    print(Color.values); //Color.red, Color.blue, Color.yellow 출력
+    ```
+
 
 

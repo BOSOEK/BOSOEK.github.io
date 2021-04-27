@@ -15,7 +15,7 @@
     print(a[1]);
     print(a[2]);
     ```
-* 리스트 길이
+* List.length : 리스트 길이
     ```
     print(a.length);  //리스트 길이 출력
     ```
