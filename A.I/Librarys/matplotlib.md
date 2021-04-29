@@ -11,4 +11,3 @@ import matplotlib.pyplot as plt
 %matplotlib inline # jupyter에서 Shift+Enter를 치지 않고 Run으로 실행하여 그래프를 그릴 수 있음.
 ```
 
-* d
