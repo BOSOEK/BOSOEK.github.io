@@ -13,8 +13,9 @@ import numpy as np
 > Numpy에서는 모든 배열 값이 같은 타입이여야 하며, 각 차원을 축이라고 표현한다.
 > Numpy에서 배열은 ```ndarray``` 또는 ```array```라고 하며 Python의 array와는 다르다.   
 ```
-1차원 축(행) : axis(축) 1 -> Vector
-2차원 축(행) : axis(축) 2 -> Matrixw
+스칼라(Scalar : 0D 텐서) : 0차원 축(행 & 차원) 즉, 숫자 한개
+벡터(Vector : 1D 텐서) : 1차원 축(행 & 차원)
+행렬(Matrix : 2D 텐서) : 2차원 축(행 & 차원)
 ``` 
 
 * ### ```numpy.ndarray```의 대표 속성값
