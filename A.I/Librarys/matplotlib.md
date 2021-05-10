@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline # jupyter에서 Shift+Enter를 치지 않고 Run으로 실행하여 그래프를 그릴 수 있음.
 ```
 ## 기본 그래프
-
+* pyplot.plot() : 선 또는 마커 그래프 그리기에 사용되는 함수.
 
 
 
