@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
     > 선 또는 마커 그래프 그리기에 사용되는 함수로 리스트를 인수로 받는다.
     * y 값 : ```[1, 2, 3, 4]```처럼 리스트가 한개인 경우 y값이라고 가정후 x값을 0부터 1씩 커지게 자동으로 만들어 낸다.
     * x, y 값 : ```[1, 2, 3, 4,], [2,4,6,8]```처럼 리스트가 두개면 각각 x, y로 그래프로 나타내준다.
-    * 두개의 그래프 : 두개 이상의 리스트들은 새로운 그래프로 그려진다.
+    * 두개의 그래프 : 두개 이상의 리스트들은 새로운 그래프로 그려진다.(한 그래프에 여러 곡선들 제작 가능)
     ![image](https://user-images.githubusercontent.com/68007145/118938613-cf080700-b989-11eb-9281-3afe2c769293.png)
     
     __plot() 함수에 매개변수에 'bo'(파란 원형마커) 형식으로 색과 마커 방식을 지정할 수 있다__
@@ -62,6 +62,22 @@ import matplotlib.pyplot as plt
     * #### 'd' : 앏은 다이아몬드
     * #### '|' : | 마크
     * #### '_' : _ 마크
+* ### title()
+    > 그래프의 제목 지정(타이틀을 여러개 지정할 수도 있다)
+    * 매개변수로 타이틀 글을 준다
+    * loc = 'right/left/center' : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다
+    * pad : 타이틀과 그래프와의 관계를 설정한다.
+    * fontdict : fontsize(포인트 단위 숫자나 'smaller', 'x-large' 등의 상대적인 설정)와 fontweight('normal', 'bold', 'heavy', 'light', 'ultrabold', 'ultralight' 설정 가능)를 딕셔너리 형태로 받는다
+    ```
+    plt.title('Sample graph', loc='right', pad=20)
+    title_font = {
+        'fontsize': 16,
+        'fontweight': 'bold'
+    }
+    plt.title('Sample graph', fontdict=title_font, loc='left', pad=20)
+    ```
+    ![image](https://user-images.githubusercontent.com/68007145/118962326-38931000-b9a0-11eb-8e74-8f567e551327.png)
+    
 ## 축 레이블 및 범위 설정
 * ### xlabel() 
     > 그래프에서 x축에 대한 레이블 표시
@@ -86,7 +102,7 @@ import matplotlib.pyplot as plt
     plt.plot(x, y)
     plt.fill_between(x[1:3], y[1:3], alpha=0.5)
     ```
-    > (x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다  
+    > (x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다    
     ![image](https://user-images.githubusercontent.com/68007145/118950473-311a3980-b995-11eb-878f-5624431058c8.png)
 
 * ### fill_betweenx()
@@ -99,7 +115,7 @@ import matplotlib.pyplot as plt
     plt.plot(x, y)
     plt.fill_between(y[2:4]), x[2:4], alpha=0.5)
     ```
-    > (x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다    
+    > (x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다      
     ![image](https://user-images.githubusercontent.com/68007145/118950897-94a46700-b995-11eb-9dff-180f293b77b1.png)
 * ### 두 그래프 사이 영역 채우기
     > 두 그래프 사이를 채워서 강조
@@ -114,12 +130,103 @@ import matplotlib.pyplot as plt
     plt.fill_between(x[1:3], y1[1:3], y2[1:3])
     # fill_betweenx도 가능
     ```
-    > (x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다  
+    > (x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다     
     ![image](https://user-images.githubusercontent.com/68007145/118951549-23b17f00-b996-11eb-8e27-423992274f43.png)
 * ### fill()
     > 임의의 영역을 채워서 강조
     * 영역을 그릴 4가지 지점의 X, Y좌표 지정
     ```
     plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])
-    ```
+    ```    
     ![image](https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png)
+## 그리드 및 눈금 표시하기
+* ### grid() 
+    > 그래프에 격자 표시
+    * True : True로 설정시 그리드 표시됨(X, Y). default는 False.
+    * axis = 'both/x/y' : 그리드 방향 지정. default는 both
+    * color : 색 지정
+    * alpha : 투명도
+    * linestyle : 선 스타일
+    * which = 'major/minor/both' : 주눈금, 보조눈금 표시
+* ### xticks()
+    > X축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)
+    * 리스트나 넘파이 배열을 입력시 해당 위치에 눈금 & 숫자 레이블 표시
+    * labels = ['1번', '2번' ...] : 눈금 레이블을 명시적으로 지정 가능
+    > lebels 파라미터 대신 튜블로 지정해도 가능 
+* ### yticks()
+    > Y축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)
+    * 리스트나 넘파이 배열을 입력시 해당 위치에 눈금 & 숫자 레이블 표시
+    * labels = ['1번', '2번' ...] : 눈금 레이블을 명시적으로 지정 가능
+    > lebels 파라미터 대신 튜블로 지정해도 가능
+* ### tick_params()
+    > 눈금 스타일 지정
+    * axis : 설정 적용 축 지정(X, Y, both)
+    * direction : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)
+    * length : 눈금이 길이
+    * pad : 눈금과 레이블과의 거리
+    * labelsize : 레이블의 크기 지정
+    * labelcolor : 레이블의 색상 지정
+    * top = True : 눈금이 위에 표시됨(default:False)
+    * bottom = True : 눈금이 아래에 표시됨(default:False)
+    * left = True : 눈금이 왼쪽에 표시됨(default:False)
+    * right = True : 눈금이 오른쪽에 표시됨(default:False)
+    * width : 눈금의 너비 지정
+    * color : 눈금의 색상 지정
+## 수직선 / 수평선 표시
+* ### axhline()
+    > 그래프 특정 y(가로)값에 수평선 표시
+    * 첫번째 인자 : y값으로서 수평선의 위치
+    * 두번째 인자 : xmin -> 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다
+    * 세번째 인자 : xmax -> 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다
+    > xmin과 xmax에 선이 생기는 것
+    * color : 색
+    * linestyle : 선 스타일
+    * linewidth = 선 두께(수 지정)
+* ### axvline()
+    > 그래프 특정 x(세로)값에 수직선 표시
+    * 첫번째 인자 : x값으로서 수평선의 위치
+    * 두번째 인자 : xmin -> 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다
+    * 세번째 인자 : xmax -> 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다
+    > xmin과 xmax에 선이 생기는 것
+    * color : 색
+    * linestyle : 선 스타일
+    * linewidth = 선 두께(수 지정)
+    ```
+    a = np.arange(0, 2, 0.2)
+    plt.plot(a, a, 'bo')
+    plt.plot(a, a**2, color='#e35f62', marker='*', linewidth=2)
+    plt.plot(a, a**3, color='springgreen', marker='^', markersize=9)
+    plt.xticks(np.arange(0, 2, 0.2), labels=['Jan', '', 'Feb', '', 'Mar', '', 'May', '', 'June', '', 'July'])
+    plt.yticks(np.arange(0, 7), ('0', '1GB', '2GB', '3GB', '4GB', '5GB', '6GB'))
+    plt.axhline(1, 0, 0.55, color='gray', linestyle='--', linewidth='1')
+    plt.axvline(1, 0, 0.16, color='lightgray', linestyle=':', linewidth='2')
+    plt.axhline(5.83, 0, 0.95, color='gray', linestyle='--', linewidth='1')
+    plt.axvline(1.8, 0, 0.95, color='lightgray', linestyle=':', linewidth='2')
+    plt.show()
+    ```   
+    ![image](https://user-images.githubusercontent.com/68007145/118963728-b4da2300-b9a1-11eb-9a9a-64e30d2f73c9.png)
+* ### hlines()
+    > Y를 따라 수평선 표시
+    * 첫번째 인자 : Y 좌표
+    * 두번째 인자 : xmin -> 수평선 시작 지점
+    * 세번째 인자 : xmax -> 수평선 끝나는 지점
+    > 점(xmin, y)에서 점(xmax, y)를 따라 수평선 표시
+    * color : 색
+    * linewidth : 선두께
+
+* ### vlines()
+    > X를 따라 수평선 표시
+    * 첫번째 인자 : X 좌표
+    * 두번째 인자 : ymin -> 수평선 시작 지점
+    * 세번째 인자 : ymax -> 수평선 끝나는 지점
+    > 점(x, ymin)에서 점(x, ymax)를 따라 수평선 표시
+    * color : 색
+    * linewidth : 선두께
+    ```  
+    plt.hlines(4, 1, 1.6, colors='pink', linewidth=3)
+    plt.vlines(1, 1, 4, colors='pink', linewidth=3) 
+    ```    
+    ![image](https://user-images.githubusercontent.com/68007145/118964444-785af700-b9a2-11eb-9238-095c84cbb879.png)
+## 막대 그래프 그리기
+* ### bar()
+    > 그래프 개수와 값을 리스트 형태로 받아 막대 그래프로 출력
