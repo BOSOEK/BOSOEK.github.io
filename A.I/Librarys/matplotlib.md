@@ -20,8 +20,9 @@ import matplotlib.pyplot as plt
 * ### [5. 수직선/수평선 표시](#수직선/수평선-표시)
 * ### [6. 막대 그래프 그리기](#막대-그래프-그리기)
 * ### [7. 산점도 그리기](#산점도-그리기)
-* ### []()
-* ### []()
+* ### [8. 히스토그램 그리기](#히스토그램-그리기)
+* ### [9. 오차막대 그리기](#오차막대-그리기)
+* ### [10. 파이(원형)차트 그리기](#파이-차트-그리기)
 
 ***
 
@@ -285,3 +286,99 @@ import matplotlib.pyplot as plt
 > __산점도__ 는 두 변수 상관 관계를 직교 좌표계의 평면에 데이터를 점으로 표현하는 그래프
 * ### scatter()
     > 산점도 출력
+    ### 2차원 산점도 그리기
+    * X : X위치
+    * Y : Y위치
+    * s = '크기' : 마커의 면적
+    * c = '색' : 마커의 색깔
+    * alpha = 값 : 투명도
+    > 각각의 인자들은 리스트 형태로 여러개 지정하여 한번에 여러개의 마커들을 만들 수도 있다.
+    ### 3차원 산점도 그리기
+    > 3차원 그래프를 위해서는 ```from mpl_toolkits.mplot3d import Axes3D``` 추가(맷플로팁 3.1 이상부터는 자동으로 포함되있음)
+    * rcParams로 figure의 사이즈 설정(figure란 그래프가 들어있는 객체)
+    ```
+    plt.rcParams["figure.figsize"] = (6, 6)
+    ```
+    * 3D axes를 위해 add_subplot()에 3D를 입력해준다
+    ```
+    ax = fig.add_subplot(111, projection='3d')
+    ```
+    > 매개인자들
+    * X : X좌표
+    * Y : Y좌표
+    * Z : Z좌표
+    * c ='색' : 색깔
+    * marker='마크' : 마크 형태
+    * s=값 : 크기
+    * cmap = '색' : 맵 색깔           
+    ![image](https://user-images.githubusercontent.com/68007145/118970084-cbd04380-b9a8-11eb-860f-68bfe6dc4a49.png)
+## 히스토그램 그리기
+> __히스토그램__ 은 도수분포표를 그래프로 나타낸 것으로, 가로는 계급, 세로는 도수를 나타낸다
+* ### hist()
+    * 첫번째 인자 : 리스트 형태로 값 입력
+    * bins = 값 : 몇 개의 영역으로 쪼갤지 설정
+    * density = True : 밀도 함수가 되어 막대 아래 면적이 1이된다.
+    * alpha : 투명도
+    * histtype = 'step/stepfilled' : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.
+    ```
+    a = 2.0 * np.random.randn(10000) + 1.0
+    b = np.random.standard_normal(10000)
+    c = 20.0 * np.random.rand(5000) - 10.0
+
+    plt.hist(a, bins=100, density=True, alpha=0.7, histtype='step')
+    plt.hist(b, bins=50, density=True, alpha=0.5, histtype='stepfilled')
+    plt.hist(c, bins=100, density=True, alpha=0.9, histtype='step')
+    plt.show()
+    ```   
+    ![image](https://user-images.githubusercontent.com/68007145/118970655-6d579500-b9a9-11eb-8a5a-84ed525977b0.png)
+## 오차막대 그리기
+> 데이터의 편차를 표시하기 위한 그래프 형태
+* ### errorbar()
+    > 에러바 그래프를 그릴 수 있다.
+    * x : X값
+    * y : Y값
+    * yerr = yerr값 : 데이터 편차 리스트
+    * uplims = True/False : 상한가 기호 표시
+    * lolims = True/False : 하한가 기호 표시
+    ```
+    x = [1, 2, 3, 4]
+    y = [1, 4, 9, 16]
+    yerr = [2.3, 3.1, 1.7, 2.5]
+
+    plt.errorbar(x, y, yerr=yerr)
+    ```       
+    ![image](https://user-images.githubusercontent.com/68007145/118971263-2a49f180-b9aa-11eb-8d85-d4d628e230e4.png)
+
+    > 비대칭인 편차를 표시하려면 (2, N) 형태의 값들을 입력.
+    * 첫번째 튜플 : 아래 방향 편차
+    * 두번째 튜플 : 위 방향 편차
+    ```
+    x = [1, 2, 3, 4]
+    y = [1, 4, 9, 16]
+    yerr = [(2.3, 3.1, 1.7, 2.5), (1.1, 2.5, 0.9, 3.9)]
+
+    plt.errorbar(x, y, yerr=yerr)
+    ```
+    ![image](https://user-images.githubusercontent.com/68007145/118971402-57969f80-b9aa-11eb-88a6-f18d87405953.png)
+## 파이 차트 그리기
+> 원그래프는 범주별 구성 비율을 원형으로 표현한 그래프이다.
+* ### pie()
+    * 첫번째 인자 : 각 영역의 비율 리스트
+    * labels = 리스트 : 각 영역의 이름 리스트
+    * autopct = '%.1f%%' : 표시될 숫자의 형식
+    * startangle = 값 : 시작 각도(default : 0도) 지정
+    * counterclock = False : 시계 방향 순서로 부채꼴 영역이 표시됨
+    * explode = 리스트 : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)
+    * shadow = True : 그림자 표시
+    * colors = 리스트 : 각 영역당 색상 지정(리스트로)
+    * wedgeprops = 딕셔너리 : 부채꼴 영역의 스타일 설정(딕셔너리의 'width'-너비, 'edgecolor'- 테두리 색깔, 'linewidth'- 테두리 선의 너비)
+    ```
+    ratio = [34, 32, 16, 18]
+    labels = ['Apple', 'Banana', 'Melon', 'Grapes']
+    colors = ['#ff9999', '#ffc000', '#8fd9b6', '#d395d0']
+    wedgeprops={'width': 0.7, 'edgecolor': 'w', 'linewidth': 5}
+
+    plt.pie(ratio, labels=labels, autopct='%.1f%%', startangle=260, counterclock=False, colors=colors, wedgeprops=wedgeprops)
+    plt.show()
+    ```  
+    ![image](https://user-images.githubusercontent.com/68007145/118972808-ee179080-b9ab-11eb-9ed3-e409211cb310.png)
