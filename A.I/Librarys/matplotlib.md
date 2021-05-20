@@ -75,6 +75,51 @@ import matplotlib.pyplot as plt
     __입력값이 없으면 데이터에 맞게 자동으로 범위를 지정함__
 ## 그래프 영역 채우기
 * ### fill_between()
-    > 그래프의 특정 영역을 채워서 강조
+    > X-Label 그래프의 특정 영역을 채워서 강조
+    * X 배열 : X 레이블의 어떤 지점을 그릴것인지 지정
+    * Y 배열 : Y 레이블의 어떤 지점까지 그릴것인지 지정
+    * color : 색 지정
+    * alpha : 투명도(1이 최대)
+    ```
+    x = [1, 2, 3, 4]
+    y = [1, 4, 9, 16]
+    plt.plot(x, y)
+    plt.fill_between(x[1:3], y[1:3], alpha=0.5)
+    ```
+    > (x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다
+    ![image](https://user-images.githubusercontent.com/68007145/118950473-311a3980-b995-11eb-878f-5624431058c8.png)
+
 * ### fill_betweenx()
+    > X-Label 그래프의 특정 영역을 채워서 강조
+    * Y 배열 : Y 레이블의 어떤 지점까지 그릴것인지 지정
+    * X 배열 : X 레이블의 어떤 지점을 그릴것인지 지정
+    * color : 색 지정
+    * alpha : 투명도(1이 최대)
+    ```
+    plt.plot(x, y)
+    plt.fill_between(y[2:4]), x[2:4], alpha=0.5)
+    ```
+    > (x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다
+    ![image](https://user-images.githubusercontent.com/68007145/118950897-94a46700-b995-11eb-9dff-180f293b77b1.png)
+* ### 두 그래프 사이 영역 채우기
+    > 두 그래프 사이를 채워서 강조
+    * 영역을 채울 X값 지정
+    * 영역을 채울 두 그래프의 Y값 지정
+    * 나머지는 동일
+    ```
+    x = [1, 2, 3, 4]
+    y1 = [1, 4, 9, 16]
+    y2 = [1, 2, 4, 8]
+
+    plt.fill_between(x[1:3], y1[1:3], y2[1:3])
+    # fill_betweenx도 가능
+    ```
+    > (x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다
+    ![image](https://user-images.githubusercontent.com/68007145/118951549-23b17f00-b996-11eb-8e27-423992274f43.png)
 * ### fill()
+    > 임의의 영역을 채워서 강조
+    * 영역을 그릴 4가지 지점의 X, Y좌표 지정
+    ```
+    plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])
+    ```
+    ![image](https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png)
