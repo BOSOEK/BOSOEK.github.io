@@ -86,7 +86,7 @@ import matplotlib.pyplot as plt
     plt.plot(x, y)
     plt.fill_between(x[1:3], y[1:3], alpha=0.5)
     ```
-    > (x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다
+    > (x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다  
     ![image](https://user-images.githubusercontent.com/68007145/118950473-311a3980-b995-11eb-878f-5624431058c8.png)
 
 * ### fill_betweenx()
@@ -99,7 +99,7 @@ import matplotlib.pyplot as plt
     plt.plot(x, y)
     plt.fill_between(y[2:4]), x[2:4], alpha=0.5)
     ```
-    > (x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다
+    > (x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다    
     ![image](https://user-images.githubusercontent.com/68007145/118950897-94a46700-b995-11eb-9dff-180f293b77b1.png)
 * ### 두 그래프 사이 영역 채우기
     > 두 그래프 사이를 채워서 강조
@@ -114,7 +114,7 @@ import matplotlib.pyplot as plt
     plt.fill_between(x[1:3], y1[1:3], y2[1:3])
     # fill_betweenx도 가능
     ```
-    > (x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다
+    > (x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다  
     ![image](https://user-images.githubusercontent.com/68007145/118951549-23b17f00-b996-11eb-8e27-423992274f43.png)
 * ### fill()
     > 임의의 영역을 채워서 강조
