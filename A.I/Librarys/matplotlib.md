@@ -13,19 +13,19 @@ import matplotlib.pyplot as plt
 ```
 
 ## 목차
-* ### [1. 기본 그래프](#1-기본-그래프)
-* ### [2. 축 레이블 및 범위 설정](#2-축-레이블-및-범위-설정)
-* ### [3. 그래프 영역 채우기](#3-그래프-영역-채우기)
-* ### [4. 그리드 및 눈금 표시](#4-그리드-및-눈금-표시하기)
-* ### [5. 수직선/수평선 표시](#5-수직선/수평선-표시)
-* ### [6. 막대 그래프 그리기](#6-막대-그래프-그리기)
-* ### [7. 산점도 그리기](#7-산점도-그리기)
+* ### [1. 기본 그래프](#기본-그래프)
+* ### [2. 축 레이블 및 범위 설정](#축-레이블-및-범위-설정)
+* ### [3. 그래프 영역 채우기](#그래프-영역-채우기)
+* ### [4. 그리드 및 눈금 표시](#그리드-및-눈금-표시하기)
+* ### [5. 수직선/수평선 표시](#수직선/수평선-표시)
+* ### [6. 막대 그래프 그리기](#막대-그래프-그리기)
+* ### [7. 산점도 그리기](#산점도-그리기)
 * ### []()
 * ### []()
 
 ***
 
-## 1. 기본 그래프
+## 기본 그래프
 * ### pyplot.show()
     > 그렸던 그래프들 출력하는 함수
 * ### pyplot.plot() 
@@ -92,7 +92,7 @@ import matplotlib.pyplot as plt
     ```
     ![image](https://user-images.githubusercontent.com/68007145/118962326-38931000-b9a0-11eb-8e74-8f567e551327.png)
     
-## 2. 축 레이블 및 범위 설정
+## 축 레이블 및 범위 설정
 * ### xlabel() 
     > 그래프에서 x축에 대한 레이블 표시
     * 표시할 레이블을 인수로 받는다
@@ -103,7 +103,7 @@ import matplotlib.pyplot as plt
     > x, y축이 표시되는 범위를 지정
     * 매개변수 : (xmin, xmax, ymin, ymax)
     __입력값이 없으면 데이터에 맞게 자동으로 범위를 지정함__
-## 3. 그래프 영역 채우기
+## 그래프 영역 채우기
 * ### fill_between()
     > X-Label 그래프의 특정 영역을 채워서 강조
     * X 배열 : X 레이블의 어떤 지점을 그릴것인지 지정
@@ -153,7 +153,7 @@ import matplotlib.pyplot as plt
     plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])
     ```    
     ![image](https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png)
-## 4. 그리드 및 눈금 표시하기
+## 그리드 및 눈금 표시하기
 * ### grid() 
     > 그래프에 격자 표시
     * True : True로 설정시 그리드 표시됨(X, Y). default는 False.
@@ -186,7 +186,7 @@ import matplotlib.pyplot as plt
     * right = True : 눈금이 오른쪽에 표시됨(default:False)
     * width : 눈금의 너비 지정
     * color : 눈금의 색상 지정
-## 5. 수직선/수평선 표시
+## 수직선/수평선 표시
 * ### axhline()
     > 그래프 특정 y(가로)값에 수평선 표시
     * 첫번째 인자 : y값으로서 수평선의 위치
@@ -241,7 +241,7 @@ import matplotlib.pyplot as plt
     plt.vlines(1, 1, 4, colors='pink', linewidth=3) 
     ```    
     ![image](https://user-images.githubusercontent.com/68007145/118964444-785af700-b9a2-11eb-9238-095c84cbb879.png)
-## 6. 막대 그래프 그리기
+## 막대 그래프 그리기
 * ### bar()
     > 그래프 개수와 값을 리스트 형태로 받아 막대 그래프로 출력
     * 첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])
@@ -281,7 +281,7 @@ import matplotlib.pyplot as plt
             edgecolor="gray", linewidth=3, tick_label=years, log=False)
     ```   
     ![image](https://user-images.githubusercontent.com/68007145/118965906-22874e80-b9a4-11eb-90da-b8a8445b0095.png)
-## 7. 산점도 그리기
+## 산점도 그리기
 > __산점도__ 는 두 변수 상관 관계를 직교 좌표계의 평면에 데이터를 점으로 표현하는 그래프
 * ### scatter()
     > 산점도 출력
