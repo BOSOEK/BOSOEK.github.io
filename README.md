@@ -27,7 +27,3 @@
   - ### [함수](https://github.com/BOSOEK/TIL/blob/main/Dart/%20function.md)
   - ### [클래스](https://github.com/BOSOEK/TIL/blob/main/Dart/class.md)
   - ### [Cascade](https://github.com/BOSOEK/TIL/blob/main/Dart/Casecade.md)
-
-### Raspberry Pi
-
-- ### [Micro Processor Unit (MPU)란?](https://hjeon.tistory.com/20)
