@@ -31,7 +31,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/68007145/123586968-83663a00-d820-11eb-8935-b91936284e66.jpg" width="330"</p>   
 
 ***
-# <center>🚀 코드와 함께 성장하는 GSM 저장소 🚀</center>
+<h1 align="center">🚀 코드와 함께 성장하는 GSM 저장소 🚀</h1>
+  
 ## :scroll: Fly_With_Code에서 지켜야 할 ```규칙```! 
 * 각자 자신만의 :books: 폴더를 만들고 푼 문제의 ```코드 올리기```
 * 일주일에 최소 __한번 이상__ 코딩 문제 :pencil2: 풀고 커밋 하기!
