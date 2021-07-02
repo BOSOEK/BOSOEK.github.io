@@ -31,6 +31,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/68007145/123586968-83663a00-d820-11eb-8935-b91936284e66.jpg" width="330"</p>   
 
 ***
-#  <center>:rocket: 문제 풀며 함께 성장하는 ```GSM``` 저장소 :rocket:</center>
+# :rocket: 코드와 함께 성장하는 ```GSM``` 저장소 :rocket:
+## Fly_With_Code에서 지켜야 할 규칙! :scroll:
+* 일주일에 최소 한번 이상 코딩 ```:pencil2: 문제 풀고 커밋``` 하기!
 
 
