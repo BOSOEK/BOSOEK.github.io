@@ -31,4 +31,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/68007145/123586968-83663a00-d820-11eb-8935-b91936284e66.jpg" width="330"</p>   
 
 ***
-# :rocket: <center>문제 풀며 함께 성장하는 GSM</center>  :rocket:
+# :rocket: <center>문제 풀며 함께 성장하는 ```GSM``` 저장소</center>  :rocket: {: .text-center }
+
