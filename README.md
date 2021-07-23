@@ -9,7 +9,7 @@
 ### Artificial Intelligence
 
 - ### [Learning method(모델 학습 방법)](https://github.com/BOSOEK/TIL/blob/main/A.I/Supervised%20learning.md)
-- ### [NN]()
+- ### [NN](https://github.com/BOSOEK/TIL/blob/main/A.I/NN.md)
 - ### &nbsp;&nbsp;A.I Library
   - ### [Numpy](https://github.com/BOSOEK/TIL/blob/main/A.I/Librarys/Numpy.md)
   - ### [Matplotlib](https://github.com/BOSOEK/TIL/blob/main/A.I/Librarys/matplotlib.md)
