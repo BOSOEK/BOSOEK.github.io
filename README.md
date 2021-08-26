@@ -4,7 +4,7 @@
 
 > 시작날짜 : 2021-01-01
 
-## 카테고리
+## Category
 
 ### Artificial Intelligence
 
