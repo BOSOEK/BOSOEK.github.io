@@ -1,1 +1,3 @@
-# 머신러닝에 필요한 라이브러리들을 정리해두는 저장소 입니다.
+# Machine Learning 관련 라이브러리들 정리
+* matplotlib
+* numpy
