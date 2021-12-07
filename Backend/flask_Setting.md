@@ -30,5 +30,33 @@ D:\venvs\mysite\Scripts> activate
 * flask 설치하기
 > 플라스크는 가상환경 안에 설치한다
 ```
-(가상환경명) D:\venvs\mysite\Scripts> pip install Flask
+(가상환경명) D:\venvs\mysite\Scripts> pip install flask
 ```
+
+* 애플리케이션 만들기
+```
+from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_pybo():
+    return 'Hello, Pybo!'
+```
+> 가장 기본적인 플라스크 서버 코드이다.   
+> ```app = Flask(__name__)``` : 플라스크 애플리케이션 실행 코드, 이때 __name__에는 해당 모듈 명(파일 이름)이 들어간다.   
+> ```@app.route```는 특정 URL에 접속하면 바로 다음 줄에 있는 함수를 호출하는 플라스크의 데코레이터다.   
+> 위 코드에서는 기본 url로 접속시 'Hello, Pybo!' 라는 글이 출력된다.
+
+* 기본 애플리케이션 설정하기
+> 환경변수 FLASK APP에 애플리케이션을 지정한다.
+```
+(가상환경명) D:\venvs\mysite\Scripts> set FLASK_APP=파일명
+```
+
+* 플라스크 서버 개발 환경으로 설정
+> 플라스크 서버를 개발 모드로 연다.
+```
+(가상환경명) D:\venvs\mysite\Scripts> set FLASK_ENV=development
+```
+
+* 플라스크 개발 환경 설치 & 설정 완료!
