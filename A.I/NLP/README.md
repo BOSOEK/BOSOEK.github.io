@@ -1,1 +1,1 @@
-# Neuro-Linguistic Programming(신경-언어프로그래밍, NLP)
+# Neuro-Linguistic Programming
