@@ -1,9 +1,9 @@
 {
   "name": "BEKSI",
-  "description": "Soohwan Kim's Personal Blog",
+  "description": "Bosoek Kim's Personal Blog",
   "version": "0.0.0",
   "private": false,
-  "author": "Soohwan Kim <sh951011@gmail.com>",
+  "author": "Bosoek Kim <boseoggim08@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -12,7 +12,8 @@
     "lint:fix": "eslint --fix --ext .js,.ts,.tsx .",
     "start": "npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public"
+    "predeploy": "gatsby build",
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
   },
   "dependencies": {
     "@emotion/react": "11.4.1",

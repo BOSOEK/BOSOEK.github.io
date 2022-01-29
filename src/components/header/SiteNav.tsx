@@ -104,8 +104,8 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/tags/speech" activeClassName="nav-current">
-                    Speech
+                  <Link to="/tags/speechs" activeClassName="nav-current">
+                    Vision
                   </Link>
                 </li>
                 <li role="menuitem">
@@ -129,13 +129,13 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/news" activeClassName="nav-current">
-                    NEWS
+                  <Link to="/resume" activeClassName="nav-current">
+                    Project
                   </Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/resume" activeClassName="nav-current">
-                    RESUME
+                  <Link to="/news" activeClassName="nav-current">
+                    NEWS
                   </Link>
                 </li>
               </ul>
