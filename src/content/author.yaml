@@ -1,11 +1,10 @@
-- id: Soohwan Kim
-  avatar: avatars/soohwan.png
-  bio: Co-founder/A.I. engineer at TUNiB.
-  facebook: sooftware95
-  twitter: sooftware
-  website: https://sooftware.io
+- id: Bosoek Kim
+  avatar: avatars/bosoek.png
+  bio: A.I. developer and robot engineer
+  facebook: profile.php?id=100011713266028
+  website: https://bosoek.github.io
   location: South Korea
-  profile_image: img/alex-knight-326705-unsplash.jpg
+  profile_image: avatars/background.png
 - id: Another Author
   avatar: avatars/ghost.png
   bio: This is another test author with a profile background image
@@ -14,10 +13,4 @@
   website: https://ghost.org/
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg
-- id: Bosoek Kim
-  avatar: avatars/bosoek.png
-  bio: A.I. developer and robot engineer
-  facebook: profile.php?id=100011713266028
-  website: https://bosoek.github.io
-  location: South Korea
-  profile_image: avatars/background.png
+
