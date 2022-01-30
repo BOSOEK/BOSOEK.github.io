@@ -159,7 +159,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaGithub />
                 </a>
-              )},
+              )}
               {config.facebook && (
                 <a
                   className="social-link-fb"
@@ -171,7 +171,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaFacebook />
                 </a>
-              )},
+              )}
               {config.linkedin && (
                 <a
                   className="social-link-fb"
@@ -183,7 +183,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaLinkedinIn />
                 </a>
-              )},
+              )}
             </SocialLinks>
             {config.showSubscribe && (
               <SubscribeButton onClick={this.openModal}>Subscribe</SubscribeButton>
