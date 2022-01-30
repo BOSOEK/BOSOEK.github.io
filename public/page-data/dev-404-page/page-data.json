@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/"},{"path":"/mentoring_programme/"},{"path":"/harvard_and_google/"},{"path":"/tags/record/"},{"path":"/tags/book/"},{"path":"/author/bosoek-kim/"},{"path":"/404.html"},{"path":"/404/"},{"path":"/about/"},{"path":"/news/"},{"path":"/resume/"},{"path":"/author/another-author/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/404.html"},{"path":"/404/"},{"path":"/about/"},{"path":"/news/"},{"path":"/resume/"}]}},"pageContext":{}},
     "staticQueryHashes": []}
