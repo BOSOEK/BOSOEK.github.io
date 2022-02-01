@@ -19,10 +19,9 @@ export interface WebsiteConfig {
   /**
    * full url, no username
    */
-  github?: string;
-  /**
-   * full url, no username
-   */
+  github?: string;/**
+  * full url, no username
+  */
   linkedin?: string;
   /**
    * full url, no username

@@ -133,11 +133,6 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                     Project
                   </Link>
                 </li>
-                <li role="menuitem">
-                  <Link to="/news" activeClassName="nav-current">
-                    HISTORY
-                  </Link>
-                </li>
               </ul>
               {isPost && (
                 <NavPostTitle ref={this.titleRef} className="nav-post-title">
@@ -178,7 +173,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   css={[SocialLink, SocialLinkFb]}
                   href={config.linkedin}
                   target="_blank"
-                  title="Facebook"
+                  title="LinkedinIn"
                   rel="noopener noreferrer"
                 >
                   <FaLinkedinIn />
