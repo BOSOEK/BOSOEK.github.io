@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 우주 사진 생성 GAN
+title: '우주 사진 생성 GAN'
 image: img/mentoring_projrem.jpg
 author: [Bosoek Kim]
 date: 2022-01-30T10:00:00.000Z

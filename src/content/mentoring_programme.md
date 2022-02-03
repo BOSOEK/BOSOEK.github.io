@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 멘토링 프로그램을 끝내며
+title: '멘토링 프로그램을 끝내며'
 image: img/mentoring_projrem.jpg
 author: [Bosoek Kim]
 date: 2022-01-30T10:00:00.000Z
 tags: [record]
 excerpt: 성찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록
+draft: true
 ---
 
 ---

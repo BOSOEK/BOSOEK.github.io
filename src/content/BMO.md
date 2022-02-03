@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BMO
+title: 'BMO'
 image: img/mentoring_projrem.jpg
 author: [Bosoek Kim]
 date: 2022-01-30T10:00:00.000Z

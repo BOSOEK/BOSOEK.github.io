@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enforest
+title: 'Enforest'
 image: img/mentoring_projrem.jpg
 author: [Bosoek Kim]
 date: 2021-01-30T10:00:00.000Z
