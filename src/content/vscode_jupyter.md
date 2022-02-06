@@ -47,3 +47,11 @@ pip install jupyter
 2. Kernel died with exit code 1......
    * python만 사용하시는 경우 python 재설치 
    * Anaconda 사용하시는 경우 ```conda install ipykernel --update-deps --force-reinstall```
+
+---
+
+
+>### 올바로 동작하지 않더라도 걱정말아라.
+> Don't worry if it doesn't work right.
+>### 모든 것이 그랬다면, 넌 직업을 잃었을테니까. -소프트웨어 공학에서의 모셔의 법칙(Mosher's Law)
+> If everything did, you'd be out of a job.

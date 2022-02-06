@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 'Klue Baseline'
-image: img/mentoring_projrem.jpg
+image: img/klue.png
 author: [Bosoek Kim]
-date: 2022-01-30T10:00:00.000Z
+date: 2021-09-15T10:00:00.000Z
 tags: [record, project, nlp]
 ---
 
-# 멘토링 프로그램을 끝내며
-__성찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록__
+---
+# Klue Baseline
 
-21년도 12월 4일부터 시작한 대학생 멘토링 프로그램이 다음번을 마지막으로 끝난다. 마이스터고의 특성상 대학과는 거리가 멀 수 밖에 없지만 대학 이야기도 들어 보고 싶었고, 
+새로이 블로그를 정리하며 이전에 참여했던 
 
->### 고인물은 언젠가 썩기 마련이야 
->### 그래서 우리는 계속 흘러야만해 -성찬우
+>### 말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds)
+> Talk is cheap. Show me the code.

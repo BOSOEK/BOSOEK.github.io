@@ -49,7 +49,11 @@ draft: false
 
 
 >### 인생에 있어 '절대로 확실함'이란 있을 수 없다.
+> There can be no 'absolute certainty' in life.
 >### 단지 '기회'가 있을 뿐이다.
+> There is only an 'opportunity'.
 
 >### 전부가 잘못되고 있을 리는 없다.
+> There is no way that everything is going wrong.
 >### 망가진 어떤 시계라도 하루에 두 번은 정확한 시간을 알리기 때문이다. -마크 트웨인(Mark Twain)
+> This is because any broken watch informs the exact time twice a day.

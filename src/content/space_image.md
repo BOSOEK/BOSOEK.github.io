@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '우주 사진 생성 GAN'
+title: 'GAN으로 우주 사진 생성하기'
 image: img/mentoring_projrem.jpg
 author: [Bosoek Kim]
 date: 2022-01-30T10:00:00.000Z
-tags: [project, vision]
+tags: [project, vision, GAN]
 ---
 
 # 멘토링 프로그램을 끝내며

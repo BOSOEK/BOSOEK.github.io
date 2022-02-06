@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/"},{"path":"/enforest/"},{"path":"/harvard_and_google/"},{"path":"/BMO/"},{"path":"/klue_baseline/"},{"path":"/space_image/"},{"path":"/tags/project/"},{"path":"/tags/book/"},{"path":"/tags/record/"},{"path":"/tags/nlp/"},{"path":"/tags/vision/"},{"path":"/author/bosoek-kim/"},{"path":"/author/another-author/"},{"path":"/404.html"},{"path":"/404/"},{"path":"/about/"},{"path":"/news/"},{"path":"/resume/"},{"path":"/vscode_jupyter/"},{"path":"/tags/substack/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/"},{"path":"/enforest/"},{"path":"/vscode_jupyter/"},{"path":"/klue_baseline/"},{"path":"/harvard_and_google/"},{"path":"/BMO/"},{"path":"/space_image/"},{"path":"/tags/project/"},{"path":"/tags/substack/"},{"path":"/tags/record/"},{"path":"/tags/nlp/"},{"path":"/tags/book/"},{"path":"/tags/vision/"},{"path":"/author/bosoek-kim/"},{"path":"/author/another-author/"},{"path":"/404.html"},{"path":"/404/"},{"path":"/about/"},{"path":"/news/"},{"path":"/resume/"}]}},"pageContext":{}},
     "staticQueryHashes": []}
