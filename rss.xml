@@ -1,198 +1,84 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 29 Jan 2022 18:40:23 GMT</lastBuildDate><item><title><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)]]></title><description><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google…]]></description><link>https://bosoek.github.io/harvard_and_google/</link><guid isPermaLink="false">https://bosoek.github.io/harvard_and_google/</guid><pubDate>Thu, 20 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 09 Feb 2022 14:05:27 GMT</lastBuildDate><item><title><![CDATA[멘토링 프로그램을 끝내며]]></title><description><![CDATA[멘토링 프로그램을 끝내며 찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록 21년도 12월…]]></description><link>https://bosoek.github.io/mentoring_programme/</link><guid isPermaLink="false">https://bosoek.github.io/mentoring_programme/</guid><pubDate>Sun, 06 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;멘토링 프로그램을 끝내며&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;21년도 12월 4일부터 시작한 대학생 멘토링 프로그램이 이번주 일요일을 마지막으로 끝났다. 마이스터고의 특성상 대학 진학과는 거리가 멀 수 밖에 없지만 대학 생활은 어떨지 이야기라도 들어 보고 싶었고, 또 대학 공부도 한번쯤 접해보면 좋겠다는 생각으로 신청했던 프로그램이 거의 2달 동안의 여정을 끝으로 마무리 되었다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/153209118-362034e1-2f12-4221-9fea-55b7f5861a18.jpg&quot; width=&quot;500&quot;&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;고인물은 언젠가 썩기 마련이야 그래서 우리는 계속 흘러야만해 -성찬우&lt;/h3&gt;
+&lt;p&gt;Old water will rot someday, so we have to keep flowing&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)]]></title><description><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google…]]></description><link>https://bosoek.github.io/harvard_and_google/</link><guid isPermaLink="false">https://bosoek.github.io/harvard_and_google/</guid><pubDate>Thu, 20 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)&lt;/h1&gt;
-&lt;p&gt;일본의 고등학교를 자퇴후 미국의 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 작성한 책으로 하버드 및 구글에서 근무하며 얻었던 마음가짐 및 업무 진행 방식과 삶의 방향을 적어둔 책이다.&lt;/p&gt;
-&lt;p&gt;특히나 하버드에서 그녀가 얻은 가치관이나 신념들을 보다 보면 교육 환경과 의욕넘치는 주변 사람들이 학습 및 인생에 있어서 얼마나 중요한지 깨닫게 된다.&lt;/p&gt;
-&lt;p&gt;현재 나도 대학 진학과 취업 중에서 고민 중이고 뭘 하고 싶은지, 뭘 원하는지 나도 잘 모르는거 같다. 아직은 하고 싶은 것이 너무 많지만 이제는 선택과 집중을 해야 할 시기이고 그 과정에서 필요한 나만의 우선순위를 선정하게 도와준 이 책이 고맙다.&lt;/p&gt;
-&lt;p&gt;나처럼 진로 고민 중인 학생들, 현재 뭘 하고 싶은 건지 그리고 인간관계에서 너무 힘든 사람들에게 이 책을 추천하고 싶고, 아래의 5개 장들은 꼭 읽어보라고 추천하고 싶다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;ol start=&quot;10&quot;&gt;
-&lt;li&gt;그 실패는 ‘독창적’인가?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&quot;11&quot;&gt;
-&lt;li&gt;전신전력을 다해 실패하라!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&quot;23&quot;&gt;
-&lt;li&gt;지금 이 순간을 살아라!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&quot;29&quot;&gt;
-&lt;li&gt;자신의 개밥을 먹어라!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ol start=&quot;31&quot;&gt;
-&lt;li&gt;‘그건 몰라’라고 말하라!&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;늘 망설이기만 하는 분들이 토모에님처럼 다음 의자를 기다리기만 하는 것이 아닌 스스로 변화를 쟁취하는 삶을 살았으면 좋겠다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;인생에 있어 &apos;절대로 확실함&apos;이란 있을 수 없다.
-단지 &apos;기회&apos;가 있을 뿐이다.
-
-전부가 잘못되고 있을 리는 없다.
-망가진 어떤 시계라도 하루에 두 번은 정확한 시간을 알리기 때문이다.
-                                        -마크 트웨인(Mark Twain)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Streamlit]]></title><description><![CDATA[Streamlit The fastest way to build data apps in Python github repository: https://github.com/streamlit/streamlit tutorial: https://docs…]]></description><link>https://bosoek.github.io/streamlit/</link><guid isPermaLink="false">https://bosoek.github.io/streamlit/</guid><pubDate>Mon, 30 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Streamlit&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The fastest way to build data apps in Python&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&quot;https://github.com/streamlit/streamlit/raw/develop/docs/_static/img/Streamlit_overview.gif&quot; width=&quot;700&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;github repository: &lt;a href=&quot;https://github.com/streamlit/streamlit&quot;&gt;https://github.com/streamlit/streamlit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;tutorial: &lt;a href=&quot;https://docs.streamlit.io/en/stable/getting_started.html&quot;&gt;https://docs.streamlit.io/en/stable/getting_started.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;는 파이썬 기반으로 손쉽게 웹 어플리케이션을 개발하는 오픈소스입니다. 웹에 대한 이해 없이도 간단한 파이썬 코드만으로 대부분의 웹 어플리케이션 구현이 가능합니다. 간단한 데이터 Visualization 혹은 인공지능 모델 시연 등 여러 분야에 활용될 수 있을 것 같습니다.&lt;/p&gt;
-&lt;h2&gt;Installation&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Install command&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ pip install streamlit
-$ streamlit hello&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;  👋 Welcome to Streamlit!
-
-  If you&apos;re one of our development partners or you&apos;re interested in getting
-  personal technical support or Streamlit updates, please enter your email
-  address below. Otherwise, you may leave the field blank.
-
-  Email: sh951011@gmail.com
-
-  Privacy Policy:
-  As an open source project, we collect usage statistics. We cannot see and do
-  not store information contained in Streamlit apps. You can find out more by
-  reading our privacy policy at: https://streamlit.io/privacy-policy
-
-  If you&apos;d like to opt out of usage statistics, add the following to
-  ~/.streamlit/config.toml, creating that file if necessary:
-
-    [browser]
-    gatherUsageStats = false
-
-
-  Welcome to Streamlit. Check out our demo in your browser.
-
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.35.186:8501
-
-  Ready to create your own Python apps super quickly?
-  Head over to https://docs.streamlit.io
-
-  May you create awesome apps!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;Get Started&lt;/h2&gt;
-&lt;h3&gt;Create your first Streamlit app&lt;/h3&gt;
+&lt;p&gt;일본의 고등학교를 재학중 진로에 대한 고민으로 자퇴후 미국으로 넘어가 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 작성한 책이다.&lt;/p&gt;
+&lt;p&gt;책에는 일본에서 공부하시던 토모에님이 미국으로 넘어가 하버드에서 배운점들, 그리고 구글에서 근무하며 얻은 마이드들과 관련 경험들을 적으셨다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284983-2d545284-08a0-46ce-8f41-d10097fed23d.jpg&quot; width=&quot;500&quot;&gt;  
+&lt;p&gt;위 구절이 하버드 MBA의 사명인데, 단순히 회사의 예산에서 자신의 몫을 키우는 것만이 아닌 회사의 비즈니스를 키워 사회 전체의 파이를 키워야 한다고 말하는 구절이다.&lt;/p&gt;
+&lt;p&gt;아마 일반적인 대학들은 각각의 회사의 이익을 키우는 것에 집중을 하며 그를 학습하는 대다수의 학생들도 개개인의 회사의 이익만을 집중한다. 물론 이런 점들이 나쁜 것은 아니지만 그 결과 뉴스에서 종종 접하는 사기 사건, 기업간의 갈등이 생기는 것이라고 책은 말한다.
+그리고 이에 대해 하버드는 회사를 키움으로써 사회 전반을 키우는 것이 중요하다라고 말하는 관점의 변화가 신선했다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284990-581b72a5-4d00-4639-bdb2-4062859b5eca.jpg&quot; width=&quot;500&quot;&gt;  
+&lt;p&gt;아마 대다수의 사람들은 경제적인 안정을 위한 승진, 급여 인상을 단순한 커리어의 목표로써 세운다. 그리고 나 또한 급여를 목표로써 취직을 준비 중이였고 생각 중이였다. 하지만 그에 대해 책은 승진을 목표로써 커리어를 키운다면 보는 시야가 줄어든다.&lt;/p&gt;
+&lt;p&gt;때문에 내가 재밌는것, 나를 멀리 데려다 줄 수 있는 것을 분석하며 나아가라고 말한다.&lt;/p&gt;
+&lt;p&gt;이처럼 이 책에서는 계속 단순한 이익만이 아닌 자기 자신의 가치를 키우고 발전시키는 것의 중요성을 언급한다. 끊임 없기 고민하고 분석하며, 자신만의 프라이드를 세우고 계속해서 성장해 나가는것, 그것이 본인의 삶의 방식이라고 설명하고 있다.&lt;/p&gt;
+&lt;p&gt;이를 가르친 하버드와 구글, 그리고 그곳들에서 배출된 여러 사람들을 보면 나도 단순한 돈만을 쫓아 가는게 아닌 나만의 가치를 발전시키는 것에 대해 진지하게 생각해 봐야 할 시기라고 생각했다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284991-56a934da-cc81-4ea9-8fe2-4d84bf4fc735.jpg&quot; width=&quot;500&quot;&gt;
+&lt;p&gt;개인적으로 많은 사람들에게 해당되는 이야기라는 생각이 들었다. 늘 지금 당장 해결할 수 있지도 않으면서 추상적인 미래의 일들을 미리 걱정하고 스트레스 받는 것보다는 당장 뭔가를 할 수 있는것도 아니고 적어도 지금은 닥친 일들을 해결해야하며 &lt;strong&gt;‘눈앞에 집중한다.’&lt;/strong&gt; 라는 말이 많은 사람들에게 꼭 필요한 말이었던것 같았다.&lt;/p&gt;
+&lt;p&gt;책을 읽어보면 알 수 있지만 원래 일본에서는 보수적이고 경직된 사고방식을 가졌던 그녀가 미국의 하버드와 구글에서 얻은 가치관이나 마음가짐들, 신념들에 대해 읽다 보면 질 좋은 교육 환경과 의욕넘치는 주변 사람들이 학습 및 인생에 있어서 얼마나 중요한지 깨닫게 된다.&lt;/p&gt;
+&lt;p&gt;현재 나도 대학 진학과 취업 중에서 고민 중이고 뭘 하고 싶은지, 뭘 원하는지 나도 잘 모르는 시기이고 아직은 하고 싶은 것이 너무 많지만 이제는 선택과 집중을 해야 할 시기이고 그 과정에서 필요한 나만의 우선순위를 선정하게 도와준 이 책이 고맙다.&lt;/p&gt;
+&lt;p&gt;나처럼 진로 고민 중인 학생들, 현재 뭘 하고 싶은 건지 그리고 인간관계에서 너무 힘든 사람들에게 이 책을 추천하고 싶고, 늘 망설이기만 하는 분들이 토모에님처럼 다음 의자를 기다리기만 하는 것이 아닌 스스로 변화를 쟁취하는 삶을 살았으면 좋겠다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284993-cd3d4970-ac38-432c-a99c-19f543e41074.jpg&quot; width=&quot;500&quot;&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;인생에 있어 ‘절대로 확실함’이란 있을 수 없다.&lt;/h3&gt;
+&lt;p&gt;There can be no ‘absolute certainty’ in life.&lt;/p&gt;
+&lt;h3&gt;단지 ‘기회’가 있을 뿐이다.&lt;/h3&gt;
+&lt;p&gt;There is only an ‘opportunity’.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;전부가 잘못되고 있을 리는 없다.&lt;/h3&gt;
+&lt;p&gt;There is no way that everything is going wrong.&lt;/p&gt;
+&lt;h3&gt;망가진 어떤 시계라도 하루에 두 번은 정확한 시간을 알리기 때문이다. -마크 트웨인(Mark Twain)&lt;/h3&gt;
+&lt;p&gt;This is because any broken watch informs the exact time twice a day.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Klue Baseline]]></title><description><![CDATA[Klue Baseline 새로이 블로그를 정리하며 이전에 참여했던 말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds) Talk is cheap. Show me the code.]]></description><link>https://bosoek.github.io/klue_baseline/</link><guid isPermaLink="false">https://bosoek.github.io/klue_baseline/</guid><pubDate>Wed, 15 Sep 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Klue Baseline&lt;/h1&gt;
+&lt;p&gt;새로이 블로그를 정리하며 이전에 참여했던&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds)&lt;/h3&gt;
+&lt;p&gt;Talk is cheap. Show me the code.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[VSCode에서 Jupyter notebook 사용하기]]></title><description><![CDATA[VSCode에서 Jupyter notebook 사용하기 Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter…]]></description><link>https://bosoek.github.io/vscode_jupyter/</link><guid isPermaLink="false">https://bosoek.github.io/vscode_jupyter/</guid><pubDate>Sun, 22 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;VSCode에서 Jupyter notebook 사용하기&lt;/h1&gt;
+&lt;p&gt;Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter Notebook은 특유의 답답함으로 개발자 편의성이 중요해진 요즘에는 사용이 다소 꺼려집니다.&lt;/p&gt;
+&lt;p&gt;하지만 모든 코드를 코랩에서만 할 수는 없기에 이번 시간에는 vscode로 편하게 Jupyter Notebook을 사용하는 방법을 포스팅 해 보도록 하겠습니다.😝&lt;/p&gt;
+&lt;h3&gt;1. 우선 vscode에 들어가서 python과 jupyter Extentions을 설치합니다&lt;/h3&gt;
+&lt;img src=&quot;https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fme1xP%2FbtrcMGclmyB%2FkGpqTLFr9DSwdAnPauDy1k%2Fimg.png&quot; width=&quot;700&quot;&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. 프로젝트의 가상 환경에서 jupyter를 설치 합니다&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;python -m venv &amp;lt;가상환경 이름&gt;
+&amp;lt;가상환경 이름&gt;\Scripts\activate
+pip install jupyter&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. 새로운 .ipynb 파일을 만들고 &lt;strong&gt;&amp;#x3C;커널 선택&gt;&lt;/strong&gt; 과 &amp;#x3C;Ctrl + Shift + P&gt; -&gt; &amp;#x3C;Select Interpreter&gt; 로 가상 환경을 선택하고 jupyter를 실행합니다.&lt;/h3&gt;
+&lt;img src=&quot;https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&amp;amp;fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbCtuEh%2FbtrcMWFM8YV%2FkAvUidFRnBixZMK53SWvj1%2Fimg.png&quot; width=&quot;700&quot;&gt;
+&lt;p&gt;이러면 끝~! 다들 즐거운 ML 코딩 하세요~😝&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152316247-ec5c30b2-b506-4ed8-99db-db64e7b49053.png&quot; width=&quot;200&quot;&gt;
+&lt;h3&gt;# Trouble Shooting&lt;/h3&gt;
+&lt;p&gt;설치 과정에서 생기는 에러는 대부분 2개입니다. 각각의 해결법을 남겨놓겠습니다.&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;first_app.py&lt;/code&gt;를  만들고 streamlit를 import 합니다.&lt;/li&gt;
+&lt;li&gt;Kernel died with exit code 1073741845…
+&lt;ul&gt;
+&lt;li&gt;사용자의 이름이 한글인지 확인하고 수정합니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Kernel died with exit code 1…
+&lt;ul&gt;
+&lt;li&gt;python만 사용하시는 경우 python 재설치&lt;/li&gt;
+&lt;li&gt;Anaconda 사용하시는 경우 &lt;code class=&quot;language-text&quot;&gt;conda install ipykernel --update-deps --force-reinstall&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; streamlit &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; st
-&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; pandas &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; pd&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;pandas&lt;/code&gt;는 데이터프레임을 다루는 예시를 보여주기 위해 import 합니다.&lt;/p&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;st.write()&lt;/code&gt;을 사용합니다.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;title&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;My first app&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;write&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Here&apos;s our first attempt at using data to create a table:&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;write&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;DataFrame&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token string&quot;&gt;&apos;first column&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;token string&quot;&gt;&apos;second column&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;40&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;st.write()&lt;/code&gt;는 &lt;code class=&quot;language-text&quot;&gt;str&lt;/code&gt; 타입뿐만 아니라 &lt;code class=&quot;language-text&quot;&gt;pandas&lt;/code&gt;의 &lt;code class=&quot;language-text&quot;&gt;DataFrame&lt;/code&gt;도 손쉽게 write 할 수 있습니다.&lt;/p&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Run by streamlit&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;$ streamlit run first_app.py&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132123087-47e303cc-bdaf-4550-ab4a-d802807c3cb9.png&quot; width=&quot;600&quot;&gt;
-&lt;p&gt;여기까지만 해도 &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;을 활용하면 상당히 편리하게 데이터를 보여줄 수 있습니다. 다음으로는 &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;을 이용해서 데이터 visualization하는 방법에 대해 살펴보겠습니다.&lt;/p&gt;
-&lt;h3&gt;Draw charts and maps&lt;/h3&gt;
-&lt;p&gt;웹 어플리케이션에 bar chart, line chart, map을 추가하는 법을 대해 배워봅시다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Draw a line chart&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;파이썬에서는 &lt;code class=&quot;language-text&quot;&gt;matplotlib&lt;/code&gt;과 같은 라이브러리를 이용하면 쉽게 line chart를 그릴 수 있습니다만, 웹 어플리케이션에서 이런 이미지를 띄우려면 상황에 따라 복잡해질 수도 있습니다. 하지만 &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;에서는 &lt;code class=&quot;language-text&quot;&gt;st.line_chart()&lt;/code&gt; 메서드로 편리하게 line chart를 추가할 수 있습니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;chart_data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;DataFrame&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-     np&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;random&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;randn&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-     columns&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;a&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;b&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;c&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;line_chart&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;chart_data&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132123628-b96bdf1c-caf1-4821-89ca-2a5ecaa9ee1a.png&quot; width=&quot;400&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;Plot a map&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;지도 역시 마찬가지입니다. 노 베이스로 지도를 그린다면 굉장히 어려운 프로젝트입니다만, &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;에서는 지도 역시 &lt;code class=&quot;language-text&quot;&gt;st.map()&lt;/code&gt; 메서드로 편리하게 지원합니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;map_data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;DataFrame&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-    np&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;random&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;randn&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;37.76&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;122.4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    columns&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;lat&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;lon&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token builtin&quot;&gt;map&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;map_data&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132123664-f8b4cc20-99b2-4045-b9a7-188f7fed5b22.png&quot; width=&quot;400&quot;&gt;
-&lt;h3&gt;Add interactivity with widgets&lt;/h3&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;은 체크박스, 버튼, 슬라이더 등 여러 interactive 위젯 API를 제공합니다. &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;에서 제공하는 모든 API는 &lt;a href=&quot;https://docs.streamlit.io/en/stable/api.html&quot;&gt;여기&lt;/a&gt;에서 확인할 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Checkbox show/hide data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;st.checkbox()&lt;/code&gt;를 이용하면 체크박스를 이용해서 데이터 show/hide 설정을 할 수 있습니다. &lt;code class=&quot;language-text&quot;&gt;st.checkbox()&lt;/code&gt;는 위젯명을 argument로 받아서 처리합니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;checkbox&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Show dataframe&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
-    chart_data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;DataFrame&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-       np&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;random&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;randn&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-       columns&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;a&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;b&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;c&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-    chart_data&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132123949-a1b434bb-4d28-4fa2-8431-9e88eb9ee372.png&quot; width=&quot;250&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;Selectbox for options&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;st.selectbox()&lt;/code&gt;는 &lt;code class=&quot;language-text&quot;&gt;pandas.Series&lt;/code&gt;를 입력으로 받아서 옵션을 선택받게 할 수 있습니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; streamlit &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; st
-&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; pandas &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; pd
-
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;title&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;TUNiBerse&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-option &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;selectbox&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;token string&quot;&gt;&apos;당신의 직책을 선택해주세요.&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-     pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Series&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;CEO&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;AI Engineer&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Intern&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Product Manager&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token string&quot;&gt;&apos;You selected: &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; option&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132124085-9ebe7fe4-9e73-434b-82f0-d6e0c34d7c32.png&quot; width=&quot;600&quot;&gt;
-&lt;h3&gt;Lay out your app&lt;/h3&gt;
-&lt;p&gt;웹 어플리케이션을 구현할 때 중요한 점 중 하나를 레이아웃입니다. 어떻게 화면을 구성하냐에 따라서 더 깔끔하고 직관적이게 보일 수가 있습니다. &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;은 이런 기능 또한 손쉽게 다룰 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Selectbox를 사이드로&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;방금 앞에서 했던 selectbox를 사이드로 옮기고 싶다면 어떻게 해야할까요? &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;에서는 아래와 같이 간단하게 구현 가능합니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; streamlit &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; st
-&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; pandas &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; pd
-
-st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;title&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;TUNiBerse&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-option &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;sidebar&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;selectbox&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;token string&quot;&gt;&apos;당신의 직책을 선택해주세요.&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-     pd&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Series&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;CEO&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;AI Engineer&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Intern&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Product Manager&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token string&quot;&gt;&apos;You selected: &apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; option&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132124325-2436bb57-85d4-4be4-b90a-41968ecce758.png&quot; width=&quot;600&quot;&gt;
-&lt;p&gt;위와 같이 &lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;에서 제공하는 대부분의 element는 &lt;code class=&quot;language-text&quot;&gt;st.sidebar. [element_name]()&lt;/code&gt; 포맷으로 사용 가능합니다. 위의 위젯 외에도 button, expander 등 여러 위젯이 있으니 다양하게 사용해보시길 바랍니다.&lt;/p&gt;
-&lt;h3&gt;Show progress&lt;/h3&gt;
-&lt;p&gt;이번에는 웹페이지에 진행현황을 표시해봅시다. &lt;code class=&quot;language-text&quot;&gt;st.progress()&lt;/code&gt;를 이용하면 아래처럼 쉽게 사용이 가능합니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; time
-
-&lt;span class=&quot;token string&quot;&gt;&apos;Starting a long computation...&apos;&lt;/span&gt;
-
-&lt;span class=&quot;token comment&quot;&gt;# Add a placeholder&lt;/span&gt;
-latest_iteration &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;empty&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-bar &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; st&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;progress&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;for&lt;/span&gt; i &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
-  &lt;span class=&quot;token comment&quot;&gt;# Update the progress bar with each iteration.&lt;/span&gt;
-  latest_iteration&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string-interpolation&quot;&gt;&lt;span class=&quot;token string&quot;&gt;f&apos;Iteration &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;i&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-  bar&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;progress&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;i &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-  time&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;sleep&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0.1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;token string&quot;&gt;&apos;...and now we\&apos;re done!&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/42150335/132124609-1dc526b4-5e3c-438b-8e38-4374aa6739f2.png&quot; width=&quot;600&quot;&gt;
-&lt;h2&gt;Share your app&lt;/h2&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;streamlit&lt;/code&gt;으로 개발한 app은 &lt;strong&gt;Streamlit Cloud&lt;/strong&gt;로 deploy, manage, share가 모두 가능합니다. 현재 Streamlit Cloud는 초대를 받은 멤버에 한해서 사용이 가능합니다. &lt;a href=&quot;https://streamlit.io/sharing-sign-up&quot;&gt;Request an invite&lt;/a&gt;에 몇 가지 사항을 제출하고 사용해주시면 됩니다.&lt;/p&gt;
-&lt;p&gt;다음 3 스텝으로 간단하게 구현 가능합니다.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Put your app in a public Github repo (and make sure it has a requirements.txt!)&lt;/li&gt;
-&lt;li&gt;Sign into share.streamlit.io&lt;/li&gt;
-&lt;li&gt;Click ‘Deploy an app’ and then paste in your GitHub URL&lt;/li&gt;
-&lt;/ol&gt;</content:encoded></item></channel></rss>
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;올바로 동작하지 않더라도 걱정말아라.&lt;/h3&gt;
+&lt;p&gt;Don’t worry if it doesn’t work right.&lt;/p&gt;
+&lt;h3&gt;모든 것이 그랬다면, 넌 직업을 잃었을테니까. -소프트웨어 공학에서의 모셔의 법칙(Mosher’s Law)&lt;/h3&gt;
+&lt;p&gt;If everything did, you’d be out of a job.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>
