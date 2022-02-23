@@ -9,6 +9,7 @@ import { colors } from '../../styles/colors';
 import { SocialLink, SocialLinkFb, SocialLinkGithub } from '../../styles/shared';
 import config from '../../website-config';
 import { FaFacebook, FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { SiKaggle } from 'react-icons/si';
 import { SubscribeModal } from '../subscribe/SubscribeModal';
 import { SiteNavLogo } from './SiteNavLogo';
 
@@ -159,7 +160,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaGithub />
                 </a>
-              )}
+              )},
               {config.facebook && (
                 <a
                   className="social-link-fb"
@@ -171,7 +172,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaFacebook />
                 </a>
-              )}
+              )},
               {config.linkedin && (
                 <a
                   className="social-link-fb"
@@ -182,6 +183,18 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   rel="noopener noreferrer"
                 >
                   <FaLinkedinIn />
+                </a>
+              )},
+              {config.kaggle && (
+                <a
+                  className="social-link-fb"
+                  css={[SocialLink, SocialLinkFb]}
+                  href={config.kaggle}
+                  target="_blank"
+                  title="Kaggle"
+                  rel="noopener noreferrer"
+                >
+                  <SiKaggle />
                 </a>
               )}
             </SocialLinks>
