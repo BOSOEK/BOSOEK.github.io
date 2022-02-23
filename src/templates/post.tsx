@@ -5,6 +5,7 @@ import * as _ from 'lodash';
 import { lighten, setLightness } from 'polished';
 import React from 'react';
 import { Helmet } from 'react-helmet';
+import Utterances from '../components/Utterances';
 
 import { css } from '@emotion/react';
 import styled from '@emotion/styled';
@@ -243,6 +244,8 @@ const PageTemplate = ({ data, pageContext, location }: PageTemplateProps) => {
           relatedPosts={data.relatedPosts}
           pageContext={pageContext}
         />
+        
+        <Utterances repo='BOSOEK/BOSOEK.github.io' theme='dark-blue' />
 
         <Footer />
       </Wrapper>

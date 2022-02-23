@@ -11,7 +11,6 @@ import Pagination from '../components/Pagination';
 import { PostCard } from '../components/PostCard';
 import { Wrapper } from '../components/Wrapper';
 import IndexLayout from '../layouts';
-import Utterances from '../components/Utterances'
 import {
   inner,
   outer,
@@ -126,7 +125,6 @@ const IndexPage: React.FC<IndexProps> = props => {
           />
         )}
         <Footer />
-        <Utterances repo='BOSOEK/BOSOEK.github.io' theme='dark-blue' />
       </Wrapper>
     </IndexLayout>
   );
