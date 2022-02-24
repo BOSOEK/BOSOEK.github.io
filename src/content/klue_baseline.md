@@ -4,7 +4,7 @@ title: 'Klue Baseline'
 image: img/klue.png
 author: [Bosoek Kim]
 date: 2021-09-15T10:00:00.000Z
-tags: [record, project, nlp]
+tags: [record, project, nlp, ml&dl]
 ---
 
 ---

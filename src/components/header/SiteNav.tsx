@@ -96,7 +96,12 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 </li>
                 <li role="menuitem">
                   <Link to="/about" activeClassName="nav-current">
-                    Resume
+                    ABOUT
+                  </Link>
+                </li>
+                <li role="menuitem">
+                  <Link to="/tags/ml-dl" activeClassName="nav-current">
+                    ML&DL
                   </Link>
                 </li>
                 <li role="menuitem">
