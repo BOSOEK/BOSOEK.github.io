@@ -1,7 +1,7 @@
 ---
 title: '데이터 중요도 파악'
 author: [Bosoek Kim]
-tags: [substack, django]
+tags: [ml&dl]
 image: img/data_importance.png
 date: '2021-08-20T10:00:00.000Z'
 draft: false

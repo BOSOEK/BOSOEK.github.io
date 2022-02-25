@@ -4,7 +4,7 @@ title: 'GAN으로 우주 사진 생성하기'
 image: img/space_image.jpg
 author: [Bosoek Kim]
 date: 2022-01-30T10:00:00.000Z
-tags: [project, vision, GAN]
+tags: [project, vision, GAN, ml&dl]
 draft: false
 ---
 

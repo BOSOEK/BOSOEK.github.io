@@ -1,7 +1,7 @@
 ---
 title: 'Keras 모델 생성 방법'
 author: [Bosoek Kim]
-tags: [substack, django]
+tags: [ml&dl]
 image: img/keras_model.png
 date: '2021-08-20T10:00:00.000Z'
 draft: false
