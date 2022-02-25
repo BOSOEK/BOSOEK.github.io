@@ -1,17 +1,17 @@
 ---
-title: 'Matplotlib 튜토리얼'
+title: 'Matplotlib Tutorial'
 author: [Bosoek Kim]
 tags: [ml&dl]
 image: img/matplotlib.png
-date: '2021-08-20T10:00:00.000Z'
+date: '2021-07-20T10:00:00.000Z'
 draft: false
 ---
 
 ---
 
-# Matplotlib 튜토리얼
-> Matplotlib은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
-> matplotlib.pyplot 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다.
+# Matplotlib Tutorial
+> ```Matplotlib```은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
+> ```matplotlib.pyplot``` 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다.
 ```
 # 설치 코드
 pip search matplotlib
@@ -22,20 +22,8 @@ pip install --upgrade matplotlib
 import matplotlib.pyplot as plt
 %matplotlib inline # jupyter에서 Shift+Enter를 치지 않고 Run으로 실행하여 그래프를 그릴 수 있음.
 ```
+---
 
-## 목차
-* ### [1. 기본 그래프](#기본-그래프)
-* ### [2. 축 레이블 및 범위 설정](#축-레이블-및-범위-설정)
-* ### [3. 그래프 영역 채우기](#그래프-영역-채우기)
-* ### [4. 그리드 및 눈금 표시](#그리드-및-눈금-표시하기)
-* ### [5. 수직선/수평선 표시](#수직선/수평선-표시)
-* ### [6. 막대 그래프 그리기](#막대-그래프-그리기)
-* ### [7. 산점도 그리기](#산점도-그리기)
-* ### [8. 히스토그램 그리기](#히스토그램-그리기)
-* ### [9. 오차막대 그리기](#오차막대-그리기)
-* ### [10. 파이(원형)차트 그리기](#파이-차트-그리기)
-
-***
 
 ## 기본 그래프
 * ### pyplot.show()
@@ -49,52 +37,53 @@ import matplotlib.pyplot as plt
     
     __plot() 함수에 매개변수에 'bo'(파란 원형마커) 형식으로 색과 마커 방식을 지정할 수 있다__
     ### Color
-    > 'b'처럼 일반 지정도 되고 color='green' 처럼 키워드로 지정해도 된다. 단, 키워드 지정에서는 css 색상과 Hex code도 사용할 수 있다.
-    * #### 'b' : blue
-    * #### 'g' : green
-    * #### 'r' : red
-    * #### 'c' : cyan
-    * #### 'm' : magenta
-    * #### 'y' : yellow
-    * #### 'k' : black
-    * #### 'w' : white
+    > ```b```처럼 일반 지정도 되고 ```color='green'``` 처럼 키워드로 지정해도 된다. 단, 키워드 지정에서는 css 색상과 Hex code도 사용할 수 있다.
+    *  ```b``` : blue
+    *  ```g``` : green
+    *  ```r``` : red
+    *  ```c``` : cyan
+    *  ```m``` : magenta
+    *  ```y``` : yellow
+    *  ```k``` : black
+    *  ```w``` : white
     ### Line Styles
-    > '-'처럼 일반 지정도 되고 linestyle='-'처럼 키워드로 지정해도 된다.
-    * #### '-' : 실선 스타일
-    * #### '--' : 파선 스타일
-    * #### '-.' : 점-선 스타일
-    * #### ':' : 점선 스타일
+    > ```-```처럼 일반 지정도 되고 ```linestyle='-'```처럼 키워드로 지정해도 된다.
+    * ```-``` : 실선 스타일
+    * ```--``` : 파선 스타일
+    * ```-.``` : 점-선 스타일
+    * ```:``` : 점선 스타일
     ### Markers
-    > 'o'처럼 일반 지정도 되고 marker='o'처럼 키워드로 지정해도 된다.
-    * #### '.' : 포인트 
-    * #### ',' : 픽셀 
-    * #### 'o' : 원형
-    * #### 'v' : 아래쪽 삼각형
-    * #### '^' : 위쪽 삼각형
-    * #### '<' : 왼쪽 삼각형
-    * #### '>' : 오른쪽 삼각형
-    * #### '1' : 아래쪽 삼각별
-    * #### '2' : 위쪽 삼각별
-    * #### '3' : 왼쪽 삼각별
-    * #### '4' : 오른쪽 삼각별
-    * #### 's' : 사각형
-    * #### 'p' : 오각형
-    * #### '*' : 별
-    * #### 'h' : 육각형 1
-    * #### 'H' : 육각형 2
-    * #### '+' : + 마크
-    * #### 'x' : x 마크
-    * #### 'D' : 다이아몬드
-    * #### 'd' : 앏은 다이아몬드
-    * #### '|' : | 마크
-    * #### '_' : _ 마크
+    > ```o```처럼 일반 지정도 되고 ```marker='o'```처럼 키워드로 지정해도 된다.
+    * ```.``` : 포인트 
+    * ```,``` : 픽셀 
+    * ```o``` : 원형
+    * ```v``` : 아래쪽 삼각형
+    * ```^``` : 위쪽 삼각형
+    * ```<``` : 왼쪽 삼각형
+    * ```>``` : 오른쪽 삼각형
+    * ```1``` : 아래쪽 삼각별
+    * ```2``` : 위쪽 삼각별
+    * ```3``` : 왼쪽 삼각별
+    * ```4``` : 오른쪽 삼각별
+    * ```s``` : 사각형
+    * ```p``` : 오각형
+    * ```*``` : 별
+    * ```h``` : 육각형 1
+    * ```H``` : 육각형 2
+    * ```+``` : + 마크
+    * ```x``` : x 마크
+    * ```D``` : 다이아몬드
+    * ```d``` : 앏은 다이아몬드
+    * ```|``` : | 마크
+    * ```_``` : _ 마크
 * ### title()
     > 그래프의 제목 지정(타이틀을 여러개 지정할 수도 있다)
-    * 매개변수로 타이틀 글을 준다
-    * loc = 'right/left/center' : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다
-    * pad : 타이틀과 그래프와의 관계를 설정한다.
-    * fontdict : fontsize(포인트 단위 숫자나 'smaller', 'x-large' 등의 상대적인 설정)와 fontweight('normal', 'bold', 'heavy', 'light', 'ultrabold', 'ultralight' 설정 가능)를 딕셔너리 형태로 받는다
+    매개변수로 타이틀 글을 준다
+    * ```loc = 'right/left/center'``` : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다
+    * ```pad``` : 타이틀과 그래프와의 관계를 설정한다.
+    * ```fontdict``` : fontsize(포인트 단위 숫자나 ```smaller```, ```x-large``` 등의 상대적인 설정)와 fontweight(```normal```, ```bold```, ```heavy```, ```light```, ```ultrabold```, ```ultralight``` 설정 가능)를 딕셔너리 형태로 받는다
     ```
+    # 예제 코드
     plt.title('Sample graph', loc='right', pad=20)
     title_font = {
         'fontsize': 16,
@@ -106,14 +95,11 @@ import matplotlib.pyplot as plt
     
 ## 축 레이블 및 범위 설정
 * ### xlabel() 
-    > 그래프에서 x축에 대한 레이블 표시
-    * 표시할 레이블을 인수로 받는다
+    그래프에서 x축에 대한 레이블 표시(표시할 레이블을 인수로 받는다)
 * ### ylabel() 
-    > 그래프에서 y축에 대한 레이블 표시
-    * 표시할 레이블을 인수로 받는다
+    그래프에서 y축에 대한 레이블 표시(표시할 레이블을 인수로 받는다)
 * ### axis()
-    > x, y축이 표시되는 범위를 지정
-    * 매개변수 : (xmin, xmax, ymin, ymax)
+    x, y축이 표시되는 범위를 지정(매개변수 : ```xmin```, ```xmax```, ```ymin```, ```ymax```)
     __입력값이 없으면 데이터에 맞게 자동으로 범위를 지정함__
 ## 그래프 영역 채우기
 * ### fill_between()
@@ -123,6 +109,7 @@ import matplotlib.pyplot as plt
     * color : 색 지정
     * alpha : 투명도(1이 최대)
     ```
+    # 예제 코드
     x = [1, 2, 3, 4]
     y = [1, 4, 9, 16]
     plt.plot(x, y)
@@ -138,6 +125,7 @@ import matplotlib.pyplot as plt
     * color : 색 지정
     * alpha : 투명도(1이 최대)
     ```
+    # 예제 코드
     plt.plot(x, y)
     plt.fill_between(y[2:4]), x[2:4], alpha=0.5)
     ```
@@ -149,6 +137,7 @@ import matplotlib.pyplot as plt
     * 영역을 채울 두 그래프의 Y값 지정
     * 나머지는 동일
     ```
+    # 예제 코드
     x = [1, 2, 3, 4]
     y1 = [1, 4, 9, 16]
     y2 = [1, 2, 4, 8]
@@ -162,42 +151,43 @@ import matplotlib.pyplot as plt
     > 임의의 영역을 채워서 강조
     * 영역을 그릴 4가지 지점의 X, Y좌표 지정
     ```
+    # 예제 코드
     plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])
     ```    
     ![image](https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png)
 ## 그리드 및 눈금 표시하기
 * ### grid() 
     > 그래프에 격자 표시
-    * True : True로 설정시 그리드 표시됨(X, Y). default는 False.
-    * axis = 'both/x/y' : 그리드 방향 지정. default는 both
-    * color : 색 지정
-    * alpha : 투명도
-    * linestyle : 선 스타일
-    * which = 'major/minor/both' : 주눈금, 보조눈금 표시
+    * ```True``` : True로 설정시 그리드 표시됨(X, Y). default는 False.
+    * ```axis``` = 'both/x/y' : 그리드 방향 지정. default는 both
+    * ```color``` : 색 지정
+    * ```alpha``` : 투명도
+    * ```linestyle``` : 선 스타일
+    * ```which``` = 'major/minor/both' : 주눈금, 보조눈금 표시
 * ### xticks()
     > X축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)
     * 리스트나 넘파이 배열을 입력시 해당 위치에 눈금 & 숫자 레이블 표시
-    * labels = ['1번', '2번' ...] : 눈금 레이블을 명시적으로 지정 가능
+    * ```labels = ['1번', '2번' ...]``` : 눈금 레이블을 명시적으로 지정 가능
     > lebels 파라미터 대신 튜블로 지정해도 가능 
 * ### yticks()
     > Y축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)
     * 리스트나 넘파이 배열을 입력시 해당 위치에 눈금 & 숫자 레이블 표시
-    * labels = ['1번', '2번' ...] : 눈금 레이블을 명시적으로 지정 가능
+    * ```labels = ['1번', '2번' ...]``` : 눈금 레이블을 명시적으로 지정 가능
     > lebels 파라미터 대신 튜블로 지정해도 가능
 * ### tick_params()
     > 눈금 스타일 지정
-    * axis : 설정 적용 축 지정(X, Y, both)
-    * direction : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)
-    * length : 눈금이 길이
-    * pad : 눈금과 레이블과의 거리
-    * labelsize : 레이블의 크기 지정
-    * labelcolor : 레이블의 색상 지정
-    * top = True : 눈금이 위에 표시됨(default:False)
-    * bottom = True : 눈금이 아래에 표시됨(default:False)
-    * left = True : 눈금이 왼쪽에 표시됨(default:False)
-    * right = True : 눈금이 오른쪽에 표시됨(default:False)
-    * width : 눈금의 너비 지정
-    * color : 눈금의 색상 지정
+    * ```axis``` : 설정 적용 축 지정(X, Y, both)
+    * ```direction``` : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)
+    * ```length``` : 눈금이 길이
+    * ```pad``` : 눈금과 레이블과의 거리
+    * ```labelsize``` : 레이블의 크기 지정
+    * ```labelcolor``` : 레이블의 색상 지정
+    * ```top``` = True : 눈금이 위에 표시됨(default:False)
+    * ```bottom``` = True : 눈금이 아래에 표시됨(default:False)
+    * ```left``` = True : 눈금이 왼쪽에 표시됨(default:False)
+    * ```right``` = True : 눈금이 오른쪽에 표시됨(default:False)
+    * ```width``` : 눈금의 너비 지정
+    * ```color``` : 눈금의 색상 지정
 ## 수직선/수평선 표시
 * ### axhline()
     > 그래프 특정 y(가로)값에 수평선 표시
@@ -205,19 +195,20 @@ import matplotlib.pyplot as plt
     * 두번째 인자 : xmin -> 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다
     * 세번째 인자 : xmax -> 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다
     > xmin과 xmax에 선이 생기는 것
-    * color : 색
-    * linestyle : 선 스타일
-    * linewidth = 선 두께(수 지정)
+    * ```color``` : 색
+    * ```linestyle``` : 선 스타일
+    * ```linewidth``` = 선 두께(수 지정)
 * ### axvline()
     > 그래프 특정 x(세로)값에 수직선 표시
     * 첫번째 인자 : x값으로서 수평선의 위치
     * 두번째 인자 : xmin -> 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다
     * 세번째 인자 : xmax -> 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다
     > xmin과 xmax에 선이 생기는 것
-    * color : 색
-    * linestyle : 선 스타일
-    * linewidth = 선 두께(수 지정)
+    * ```color``` : 색
+    * ```linestyle``` : 선 스타일
+    * ```linewidth``` = 선 두께(수 지정)
     ```
+    # 예제 코드
     a = np.arange(0, 2, 0.2)
     plt.plot(a, a, 'bo')
     plt.plot(a, a**2, color='#e35f62', marker='*', linewidth=2)
@@ -237,8 +228,8 @@ import matplotlib.pyplot as plt
     * 두번째 인자 : xmin -> 수평선 시작 지점
     * 세번째 인자 : xmax -> 수평선 끝나는 지점
     > 점(xmin, y)에서 점(xmax, y)를 따라 수평선 표시
-    * color : 색
-    * linewidth : 선두께
+    * ```color``` : 색
+    * ```linewidth``` : 선두께
 
 * ### vlines()
     > X를 따라 수평선 표시
@@ -246,9 +237,10 @@ import matplotlib.pyplot as plt
     * 두번째 인자 : ymin -> 수평선 시작 지점
     * 세번째 인자 : ymax -> 수평선 끝나는 지점
     > 점(x, ymin)에서 점(x, ymax)를 따라 수평선 표시
-    * color : 색
-    * linewidth : 선두께
+    * ```color``` : 색
+    * ```linewidth``` : 선두께
     ```  
+    # 예제 코드
     plt.hlines(4, 1, 1.6, colors='pink', linewidth=3)
     plt.vlines(1, 1, 4, colors='pink', linewidth=3) 
     ```    
@@ -258,14 +250,15 @@ import matplotlib.pyplot as plt
     > 그래프 개수와 값을 리스트 형태로 받아 막대 그래프로 출력
     * 첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])
     * 두번째 인자 : 넘파이 배열에 해당하는 리스트 입력
-    * width : 막대의 너비(default : 0.8)
-    * align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 왼쪽에 틱이 표시됨)
-    * color : 막대의 색
-    * edgecolor : 막대의 테두리 색을 지정(css타입 가능)
-    * linewidth : 테두리 두께 지정
-    * tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.
-    * log = True : Y축 로그 스케일로 표시
+    * ```width``` : 막대의 너비(default : 0.8)
+    * ```align``` : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 왼쪽에 틱이 표시됨)
+    * ```color``` : 막대의 색
+    * ```edgecolor``` : 막대의 테두리 색을 지정(css타입 가능)
+    * ```linewidth``` : 테두리 두께 지정
+    * ```tick_label``` : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.
+    * ```log = True``` : Y축 로그 스케일로 표시
     ```
+    # 예제 코드
     x = np.arange(3)
     years = ['2017', '2018', '2019']
     values = [100, 400, 900]
@@ -277,14 +270,15 @@ import matplotlib.pyplot as plt
     > 수평 막대 그래프 출력
     * 첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])
     * 두번째 인자 : 넘파이 배열에 해당하는 리스트 입력
-    * height : 막대의 높이(default : 0.8)
-    * align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 아래쪽에 틱이 표시됨)
-    * color : 막대의 색
-    * edgecolor : 막대의 테두리 색을 지정(css타입 가능)
-    * linewidth : 테두리 두께 지정
-    * tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.
-    * log = True : X축 로그 스케일로 표시
+    * ```height``` : 막대의 높이(default : 0.8)
+    * ```align``` : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 아래쪽에 틱이 표시됨)
+    * ```color``` : 막대의 색
+    * ```edgecolor``` : 막대의 테두리 색을 지정(css타입 가능)
+    * ```linewidth``` : 테두리 두께 지정
+    * ```tick_label``` : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.
+    * ```log``` = True : X축 로그 스케일로 표시
     ```
+    # 예제 코드
     y = np.arange(3)
     years = ['2017', '2018', '2019']
     values = [100, 400, 900]
@@ -300,9 +294,9 @@ import matplotlib.pyplot as plt
     ### 2차원 산점도 그리기
     * X : X위치
     * Y : Y위치
-    * s = '크기' : 마커의 면적
-    * c = '색' : 마커의 색깔
-    * alpha = 값 : 투명도
+    * ```s = '크기'``` : 마커의 면적
+    * ```c = '색'``` : 마커의 색깔
+    * ```alpha = 값``` : 투명도
     > 각각의 인자들은 리스트 형태로 여러개 지정하여 한번에 여러개의 마커들을 만들 수도 있다.
     ### 3차원 산점도 그리기
     > 3차원 그래프를 위해서는 ```from mpl_toolkits.mplot3d import Axes3D``` 추가(맷플로팁 3.1 이상부터는 자동으로 포함되있음)
@@ -315,23 +309,24 @@ import matplotlib.pyplot as plt
     ax = fig.add_subplot(111, projection='3d')
     ```
     > 매개인자들
-    * X : X좌표
-    * Y : Y좌표
-    * Z : Z좌표
-    * c ='색' : 색깔
-    * marker='마크' : 마크 형태
-    * s=값 : 크기
-    * cmap = '색' : 맵 색깔           
+    * ```X``` : X좌표
+    * ```Y``` : Y좌표
+    * ```Z``` : Z좌표
+    * ```c ='색'``` : 색깔
+    * ```marker='마크'``` : 마크 형태
+    * ```s=값``` : 크기
+    * ```cmap = '색'``` : 맵 색깔           
     ![image](https://user-images.githubusercontent.com/68007145/118970084-cbd04380-b9a8-11eb-860f-68bfe6dc4a49.png)
 ## 히스토그램 그리기
 > __히스토그램__ 은 도수분포표를 그래프로 나타낸 것으로, 가로는 계급, 세로는 도수를 나타낸다
 * ### hist()
     * 첫번째 인자 : 리스트 형태로 값 입력
-    * bins = 값 : 몇 개의 영역으로 쪼갤지 설정
-    * density = True : 밀도 함수가 되어 막대 아래 면적이 1이된다.
-    * alpha : 투명도
-    * histtype = 'step/stepfilled' : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.
+    * ```bins = 값``` : 몇 개의 영역으로 쪼갤지 설정
+    * ```density = True``` : 밀도 함수가 되어 막대 아래 면적이 1이된다.
+    * ```alpha``` : 투명도
+    * ```histtype = 'step/stepfilled'``` : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.
     ```
+    # 예제 코드
     a = 2.0 * np.random.randn(10000) + 1.0
     b = np.random.standard_normal(10000)
     c = 20.0 * np.random.rand(5000) - 10.0
@@ -346,12 +341,13 @@ import matplotlib.pyplot as plt
 > 데이터의 편차를 표시하기 위한 그래프 형태
 * ### errorbar()
     > 에러바 그래프를 그릴 수 있다.
-    * x : X값
-    * y : Y값
-    * yerr = yerr값 : 데이터 편차 리스트
-    * uplims = True/False : 상한가 기호 표시
-    * lolims = True/False : 하한가 기호 표시
+    * ```x``` : X값
+    * ```y``` : Y값
+    * ```yerr = yerr값``` : 데이터 편차 리스트
+    * ```uplims = True/False``` : 상한가 기호 표시
+    * ```lolims = True/False``` : 하한가 기호 표시
     ```
+    # 예제 코드
     x = [1, 2, 3, 4]
     y = [1, 4, 9, 16]
     yerr = [2.3, 3.1, 1.7, 2.5]
@@ -375,15 +371,16 @@ import matplotlib.pyplot as plt
 > 원그래프는 범주별 구성 비율을 원형으로 표현한 그래프이다.
 * ### pie()
     * 첫번째 인자 : 각 영역의 비율 리스트
-    * labels = 리스트 : 각 영역의 이름 리스트
-    * autopct = '%.1f%%' : 표시될 숫자의 형식
-    * startangle = 값 : 시작 각도(default : 0도) 지정
-    * counterclock = False : 시계 방향 순서로 부채꼴 영역이 표시됨
-    * explode = 리스트 : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)
-    * shadow = True : 그림자 표시
-    * colors = 리스트 : 각 영역당 색상 지정(리스트로)
-    * wedgeprops = 딕셔너리 : 부채꼴 영역의 스타일 설정(딕셔너리의 'width'-너비, 'edgecolor'- 테두리 색깔, 'linewidth'- 테두리 선의 너비)
+    * ```labels = 리스트``` : 각 영역의 이름 리스트
+    * ```autopct = '%.1f%%'``` : 표시될 숫자의 형식
+    * ```startangle = 값``` : 시작 각도(default : 0도) 지정
+    * ```counterclock = False``` : 시계 방향 순서로 부채꼴 영역이 표시됨
+    * ```explode = 리스트``` : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)
+    * ```shadow = True``` : 그림자 표시
+    * ```colors = 리스트``` : 각 영역당 색상 지정(리스트로)
+    * ```wedgeprops = 딕셔너리``` : 부채꼴 영역의 스타일 설정(딕셔너리의 'width'-너비, 'edgecolor'- 테두리 색깔, 'linewidth'- 테두리 선의 너비)
     ```
+    # 예제 코드
     ratio = [34, 32, 16, 18]
     labels = ['Apple', 'Banana', 'Melon', 'Grapes']
     colors = ['#ff9999', '#ffc000', '#8fd9b6', '#d395d0']
@@ -393,3 +390,10 @@ import matplotlib.pyplot as plt
     plt.show()
     ```  
     ![image](https://user-images.githubusercontent.com/68007145/118972808-ee179080-b9ab-11eb-9ed3-e409211cb310.png)
+
+---
+
+> ### 인간이 인간이라도 믿도록 속일 수 있다면 
+> computers are intelligent if you can deceive people
+> ### 컴퓨터는 지능적이라고 할 만합니다. -앨런 튜링(Allen Turing)
+> to believe they are humans.

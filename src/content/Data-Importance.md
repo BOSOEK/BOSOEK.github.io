@@ -1,15 +1,15 @@
 ---
-title: '데이터 중요도 파악'
+title: '데이터 중요도 파악(Permutation Importance)'
 author: [Bosoek Kim]
 tags: [ml&dl]
 image: img/data_importance.png
-date: '2021-08-20T10:00:00.000Z'
+date: '2021-05-09T10:00:00.000Z'
 draft: false
 ---
 
 ---
 
-# 데이터 중요도 파악
+# 데이터 중요도 파악(Permutation Importance)
 모델의 레이블에 영향을 주는 Feature의 중요도를 __Sklearn의 Permutation Importance__ 를 사용해 파악한다.
 
 * ### Permutation Importance
@@ -27,7 +27,7 @@ draft: false
 
     이러한 과정 덕분에 __모델의 재학습이 필요없다!__
 
-    > 훈련 모델과 데이터만 있으면 변수 중요도를 봅을 수 있다. 반대로 모델 학습 과정, 내부 구조 정보가 필요 없어서 어느 모델이든 적용 가능하다.
+    > 훈련 모델과 데이터만 있으면 변수 중요도를 뽑을 수 있다. 반대로 모델 학습 과정, 내부 구조 정보가 필요 없어서 어느 모델이든 적용 가능하다.
 
     #### __Permutation Importance의 다른 특징은 각 Feature의 중요도에는 다른 Feature와의 상호작용도 포함된다는 것이다!__
     ```특정 Feature를 섞으면 다른 Feature와의 관계가 끝어져서 해당 Feature와의 모든 상호작용이 사라진다. 때문에 두 Feature간 상호작용의 영향은 두개의 Feature Importance에 중복 포함된다.```
@@ -35,7 +35,7 @@ draft: false
 * ### Permutation Importance의 단점
     * 특정 Feature를 무작위로 섞어서 실행시마다 Feature Importance 결과가 달라진다.
         > 섞는 횟수를 늘려 예측 에러 분산을 감소할 수 있지만 Feature 개수가 많을 경우 연살량이 증가하기 때문에 Permutation의 적절한 회수를 선택해야한다.
-    * Feature를 무작위로 섞기에 비현실저인 데이터 조합이 생길 수 있다.
+    * Feature를 무작위로 섞기에 비현실적인 데이터 조합이 생길 수 있다.
         > Feature간 상관관계가 높을 경우 발샐할 수 있으며 이런 데이터의 비개연성, 비현실성이 증가하면 예측값에 영향을 미칠 가능성이 있고 우리가 원하던 결과가 아니기에 이를 염두하고 해석해야한다.   
 
         예로, 키와 몸무게를 랜덤하게 섞다보면 키가 2m인데 몸무게가 30kg인 데이터가 만들어 질 수도 있다.
@@ -68,3 +68,10 @@ sorted_result = result.importances_mean.argsort()
 importances = pd.DataFrame(result.importances_mean[sorted_result], index=Feature.columns[sorted_result]).sort_values(0, ascending=False)   
 importances
 ```
+
+---
+
+> ### 만약 인간의 뇌가 우리가 이해할 수 있을 정도로 단순하다면,
+> if the human brain was simple enough for us to understand,
+> ### 우리는 그렇게 단순할 수 없을 것이다. -에머슨 M.푸(Emerson M. Pooh)
+> we wouldn't be that simple.

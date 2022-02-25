@@ -1,22 +1,80 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 23 Feb 2022 23:25:23 GMT</lastBuildDate><item><title><![CDATA[멘토링 프로그램을 끝내며]]></title><description><![CDATA[멘토링 프로그램을 끝내며 찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록 21년도 12월…]]></description><link>https://bosoek.github.io/mentoring_programme/</link><guid isPermaLink="false">https://bosoek.github.io/mentoring_programme/</guid><pubDate>Thu, 10 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Feb 2022 11:14:35 GMT</lastBuildDate><item><title><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)]]></title><description><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year…]]></description><link>https://bosoek.github.io/ai_big_data/</link><guid isPermaLink="false">https://bosoek.github.io/ai_big_data/</guid><pubDate>Sun, 20 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)&lt;/h1&gt;
+&lt;p&gt;한양대학교 정보시스템학과를 전공하고 추천 알고리즘, 이상탐지, 프로세스 마이닝, 이미지 처리 등을 연구하며 빅데이터 분석 회사 다겸의 대표로 재직중이신 &lt;strong&gt;서대호&lt;/strong&gt; 님이 집필한 책이다.&lt;/p&gt;
+&lt;p&gt;서대호 님이 빅데이터를 공부한 방식, 프리랜서로써 인공지능 개발자가 근무하는 방법, 본인의 성장 과정부터 그 과정에서 가진 생각들을 작성하셨다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155574425-0c08b518-ee6f-4106-9083-1ae0ff46511d.jpg&quot; width=&quot;500&quot;&gt;  
+&lt;p&gt;책의 초반 부분에서 가장 돋보이는 부분이 &lt;strong&gt;AI 빅데이터 전문가로써 경력을 쌓아가는 방법&lt;/strong&gt; 이었다. 처음에 보고 든 생각은 참 놀라울 정도로 나랑 반대구나 라는 생각이 들었다. 대부분의 내용인 SNS를 통한 본인의 마케팅인데, 나는 온라인 커뮤니티에 많이 가입은 되어 있지만 활동은 거의 안하기 때문이었다.&lt;/p&gt;
+&lt;p&gt;때문에 귀찮더라도 지금 내가 가입해 있는 카카오톡 단톡방, 페이스북에 자주 글을 올리며 사람들에게 나를 알려야 겠다는 생각이 들었다.&lt;/p&gt;
+&lt;p&gt;또한 서대호 님의 대학 생활도 상당히 흥미로웠다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155575505-a4e53a2a-0891-4be0-b43d-c101efbe8fbe.jpg&quot; width=&quot;500&quot;&gt;
+&lt;p&gt;나같아도 전공과 취직에 집중하느라 다른 것들은 눈이 안갔을 텐데, 오히려 서대호 님은 다른 다양한 일들을 접하는 것에 집중하였다는것이 독특했다. 실제로 서대호 님은 대학원에서 AI 빅데이터 공부를 시작하였는데 이 선택과 이후의 사업으로써의 성공에 다양한 분야들을 경험한 것이 도움이 되었을 것 같다는 생각이 들었다.&lt;/p&gt;
+&lt;p&gt;현재 나도 생명공학부터 기계 공학까지 단순한 AI 개발자가 아닌 더 많은 것들을 공부하고 경험해 보고 싶다는 생각이 있다. 하지만 취직이라는 마이스터고의 특성에 나도 모르게 그런 생각들을 접게 되었던 것 같았다. 나도 아직은 젊고 하고 싶은 것들이 많기에, 여러 가지들을 경험해 봐야 겠다고 생각이 들었다.&lt;/p&gt;
+&lt;h2&gt;논문&lt;/h2&gt;
+&lt;p&gt;책에서 많이 강조하는 것중 하나이면서 AI 전문가가 되기 위한 필수 요소로 서대호 님이 말하는 것이 논문이다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155576697-ddf30af5-e60f-4a99-8261-941358f650cd.jpg&quot; width=&quot;600&quot;&gt;
+&lt;p&gt;여러 분야의 정보들이 하루에도 수없이 쏟아지는 현재에 책은 수많은 자료, 검증 및 시간이 걸리지만 논문은 매우 빠르게 올라올 수 있어 최신 기술 습득을 위해서는 필수적으로 논문을 읽어야 한다고 말한다.&lt;/p&gt;
+&lt;p&gt;솔직히 나는 책과 커뮤니티 코드를 위주로 공부를 하고 있어서 개념적인 심화 부분까지는 미흡했다. 다행히 책에서 논문들을 얻는 방법과 사이트 등을 알려줘서 관련 논문들부터 공부해 봐야겟다는 생각이 들었다.&lt;/p&gt;
+&lt;h2&gt;프리랜서&lt;/h2&gt;
+&lt;p&gt;책의 중요 부분중 또 다른 하나가 프리랜서 부분이였다. 서대호 님은 책의 많은 내용들을 굳이 취직을 할 필요가 없다와 프리랜서로써의 성장 과정들로 적어놓으셨다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155577908-75d85ca4-c94e-46c4-a5fa-1d53e04e75eb.jpg&quot; width=&quot;500&quot;&gt;
+&lt;p&gt;실제로 서대호 님은 회사 대표직과 4개 회사의 사원 직무를 동시에 수행하고 계신다. 이게 가능한 이유는 바로 재택 근무와 마케팅이었다. AI 분야는 사실상 데이터 전처리, 시각화, 모델 생성, API 배포까지 혼자 도맡아 하는 경우가 많고 혼자 하는 경우가 더 편하고 빠른 경우가 많다.&lt;/p&gt;
+&lt;p&gt;이에 굳이 회사에 가지 않고 재택근무로 시간을 효율화 시키고 자신을 온라인에서 마케팅하여 기업들이 &lt;strong&gt;나&lt;/strong&gt; 를 찾게 만드는 것이 비결이라고 하셨다.&lt;/p&gt;
+&lt;p&gt;프리랜서 파트는 나에게는 꽤나 근사하고 재밌었다. 일단 나는 현재 창업을 목표로 하고 있지만 그 전에 돈을 버는 것이 기본이였다. 재택을 통한 여러 직무 소화와 그 다음인 프리랜서로써의 활동은 창업 활동 중에도 가능한 일인거 같아 현재는 관련 나도 온라인 활동들을 시작했다.&lt;/p&gt;
+&lt;p&gt;또한 서대호님의 방식대로 따라한 후배가 1년만에 프리랜서로써 월 3000을 번다는 말이 있어 나도 노력해보면 할 만 하다는 생각이 들었다.&lt;/p&gt;
+&lt;h2&gt;마치며&lt;/h2&gt;
+&lt;p&gt;여러모로 재밌는 구간이 많은 책이었던 것 같다. 특히나 단순한 개발 부분만이 아닌 공부 방법, 사업적인 관점부터, 관련 도서 추천까지 올인원이 가능하였고 다양한 생각들을 할 수 있게 하고 동기부여까지 부여해 준 것 같아 나에게는 더 잘 맞았던 책이었다.&lt;/p&gt;
+&lt;p&gt;당연히 세상 모두가 서대호님처럼 프리랜서로써 성공할 수는 없을 것이다. 하지만 누구든 자신만의 속도로 그 발걸음을 따라가다 보면 언젠가는 그들을 따라잡을 수 있을 거라고 믿는다. 그렇기에 지금 해야 할 것은 고민이 아닌 행동이라고 생각한다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155522583-2513cbb8-6ebd-4ff8-a7b8-de52fa042b42.jpg&quot; width=&quot;600&quot;&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;난 두려울 때마다 ‘난 미친놈이다’, ‘난 대단하다’, ‘난 똑똑하다’ 라고 외친다. -서대호&lt;/h3&gt;
+&lt;p&gt;Whenever I’m scared, I shout, “I’m crazy”, “I’m amazing”, “I’m smart”.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[멘토링 프로그램을 끝내며]]></title><description><![CDATA[멘토링 프로그램을 끝내며 찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록 21년도 12월…]]></description><link>https://bosoek.github.io/mentoring_programme/</link><guid isPermaLink="false">https://bosoek.github.io/mentoring_programme/</guid><pubDate>Thu, 10 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;멘토링 프로그램을 끝내며&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;찬우 형과의 대학생 멘토링 프로그램을 끝내며 남기는 기록&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;21년도 12월 4일부터 시작한 대학생 멘토링 프로그램이 이번주 일요일을 마지막으로 끝났다. 마이스터고의 특성상 대학 진학과는 거리가 멀 수 밖에 없지만 대학 생활은 어떨지 이야기라도 들어 보고 싶었고, 또 대학 공부도 한번쯤 접해보면 좋겠다는 생각으로 멘토링 프로그램을 신청했다.&lt;/p&gt;
+&lt;p&gt;21년도 12월 4일부터 시작한 대학생 멘토링 프로그램이 이번주 일요일을 마지막으로 끝났다. 마이스터고의 특성상 대학 진학과는 거리가 멀 수 밖에 없지만 대학 생활은 어떨지 이야기라도 들어 보고 싶었고, 또 대학 공부도 한번쯤 접해보면 좋겠다는 생각으로 &lt;strong&gt;멘토링 프로그램을 신청&lt;/strong&gt; 했다.&lt;/p&gt;
+&lt;p&gt;전공의 경우는 내가 평소에 관심 있었던 기계 공학을 선택했고, 찬우 형과 매칭된 후 오프라인에서 만나기로 약속을 잡았다.&lt;/p&gt;
 &lt;h2&gt;첫 만남&lt;/h2&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/153209118-362034e1-2f12-4221-9fea-55b7f5861a18.jpg&quot; width=&quot;500&quot;&gt;
+&lt;p&gt;송정역 근처의 이디야 커피점에서 만났다. 첫시간에는 전공 공부보다는 서로 알아가는 시간이라고 형이 말해서 편하게 나의 대학에 대한 마음이나, 평소에 대학에 대해 &lt;strong&gt;궁금했던 점들&lt;/strong&gt; 을 물어봤다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155517285-d3183714-0dba-427a-b70f-04fead829a0b.jpg&quot; width=&quot;600&quot;&gt;
+&lt;p&gt;그렇게 두시간 정도를 이야기 하다 보니 많은 사실을 알 수가 있었다. 대학의 기계공학과에서는 실제로 실습은 하지 않고, 이론 수업만 한다는 점, 공립 대학의 경우는 학비가 거의 없다는 점, 또 가장 공감 되었던 말은 다양한 사람들을 만나볼 수 있다는 점이다.&lt;/p&gt;
+&lt;p&gt;지금 내가 활동중인 GSM이나 온라인 크루의 경우 개발자들만 모여있다 보니 사고나 상상력이 어느정도 제한된다는 것이 많이 느껴졌었다. 프로젝트 아이디어부터 관심사가 너무 비슷한 사람들만 모이다 보니 새로운 아이템이 나오기가 힘든 구조였다.&lt;/p&gt;
+&lt;p&gt;그런 점에서 대학에서 여러 사람들을 접하며 &lt;strong&gt;다양한 생각&lt;/strong&gt; 들을 들어볼 수 있다는 말이 매력적으로 느껴졌다.&lt;/p&gt;
+&lt;p&gt;솔직히 대학 진학에는 큰 관심을 두고 있지 않았었는데 첫 만남에서 많은 생각들이 바뀌었다. 이 멘토링을 진행하지 않았더라면 대학에 큰 관심 없이 취직했을 지도 모르는 일이였어서 첫만남이 가장 기억에 남는다.&lt;/p&gt;
+&lt;h2&gt;공부와 진로&lt;/h2&gt;
+&lt;p&gt;두번째 만남부터는 실제 기계 공학과에서 배우는 기계 역학 이론을 배웠다. 여기서 문제는 내가 재학중인 마이스터고의 커리큘럼상 수학 진도를 고등학교까지 나가지 않았고 따로 수학 공부를 더 하지 않아서 대학 이론 공부를 따라가기가 벅찼다.&lt;/p&gt;
+&lt;p&gt;다행히도 형이 내 상황을 배려해 줘서 고등학교 수학과 물리학 공부부터 다시 시작해 보기로 했다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155518627-2abe04c5-de8b-49fd-b93c-f965ca30de6d.jpg&quot; width=&quot;600&quot;&gt;
+&lt;p&gt;그 외에도 학습지 추천, 읽어 봤으면 하는 교양 책들도 추천해 주었고 진로 상담도 이루어 졌다. 현재 내 상황에서 대학 진학이 가능한지, 진학할 대학 리스트 추리기, 자소서 작성 방법까지 여러 모로 많은 도움을 줬다.&lt;/p&gt;
+&lt;p&gt;멘토링 진행 때에는 형도 3학년으로 올라가는 지라 취직 문제를 가지고 있었다 취직을 하는게 좋을지, 아니면 대학원으로 가서 연구생을 할지, 또는 창업을 할지로 형도 고민이었다.&lt;/p&gt;
+&lt;p&gt;형이 올 해 들어갈 창업 동아리에서는 여러 개발도 하고 창업 활동도 한다기에 내가 GSM을 다니며 친구들과 프로젝트 했던 경험들을 말해 주기도 했다. 이렇게 서로 상담하듯이 이야기들을 하다보니 금방 공책 내용이 꽉찼다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155519614-5fb9298b-4a3f-4f07-8d68-0c1bd1d6b43f.jpg&quot; width=&quot;500&quot;&gt;
+&lt;p&gt;그 외에도 가장 크게 위안이 되었던 부분은 군대 문제다. 나는 취직을 하면 산업기능요원으로 근무해 군대 문제를 해결 할 수 있었지만 대학 진학 시 군대를 무조껀 가게 된다. 이에 형은 군대를 가게 되더라도 대학을 가는게 좋을 것 같다고 했다.&lt;/p&gt;
+&lt;p&gt;일단 군대의 경우도 케이스에 따라 다르지만 요즘에는 폰도 사용 가능하고 또 운동부터 사회 활동까지 다양한 경험이 가능하기에 가는것도 괜찮으며 산업 기능 요원의 경우 거의 3년인데 중소기업에서 돈받으며 일하게 되면 더 성장하기가 힘들어 질 수도 있다고 했다. 이 덕에 내 진로 선택을 확고이 다질 수 있었다.&lt;/p&gt;
+&lt;h2&gt;마무리&lt;/h2&gt;
+&lt;p&gt;3달이 순식간에 지나갔다. 매주 만나는 데도 계속 이야기 하다 보니 찬우 형은 생각이 깊은 사람이었고, 나도 중학교때 진로 상담 한 이후로 이렇게 나 자신에 대해 솔직하게 털어놓은 적은 처음이었던 것 같았다.&lt;/p&gt;
+&lt;p&gt;찬우 형은 현재 생산 라인 관리직으로 자동차와 반도체를 두고 고민중이다. 이제는 취직으로 진로를 확고히 정해서 남은 대학 2년을 관련 활동에 신경쓰기로 했다.&lt;/p&gt;
+&lt;p&gt;나는 아쉽게도 대학 진학은 생각하고 있지 않다. 진학 리스트까지 뽑았어서 형은 조금 아쉬워 했다. 대학에서의 얻는 점이 공부보다는 참여 가능한 활동들과 사람들과의 교류이지만 이 점 들은 사회에서도 충분히 가능하고 대학에서 배우는 것들이 이론 위주라는 것이 아쉬었던게 원인인 것 같다.&lt;/p&gt;
+&lt;p&gt;현재는 창업을 목표로 열심히 달려가고 있지만 대학 공부를 포기할 생각은 아니다. 학점 은행제도를 통해서 대학 강의를 수강할 생각이고 추후 상황에 따라서 대학 편입을 생각하고 있다.&lt;/p&gt;
+&lt;p&gt;고등학교에서 있었던 일들중 가장 값지고 나에게는 가장 중요했던 경험이지 않았나 싶은 3달이었다. 나의 진로에 대해 누구보다 걱정해주고 공감해준 형에게 고맙고 형도 취직에 꼭 성공해서 나중에 술 한잔 사줬으면 좋겠다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/153209118-362034e1-2f12-4221-9fea-55b7f5861a18.jpg&quot; width=&quot;600&quot;&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;고인물은 언젠가 썩기 마련이야 그래서 우리는 계속 흘러야만해 -성찬우&lt;/h3&gt;
 &lt;p&gt;Old water will rot someday, so we have to keep flowing&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[GAN으로 우주 사진 생성하기]]></title><description><![CDATA[GAN으로 우주 사진 생성하기 고인물은 언젠가 썩기 마련이야 그래서 우리는 계속 흘러야만해 -성찬우]]></description><link>https://bosoek.github.io/space_image/</link><guid isPermaLink="false">https://bosoek.github.io/space_image/</guid><pubDate>Sun, 30 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;GAN으로 우주 사진 생성하기&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;고인물은 언젠가 썩기 마련이야&lt;/h3&gt;
+&lt;h3&gt;그래서 우리는 계속 흘러야만해 -성찬우&lt;/h3&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)]]></title><description><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google…]]></description><link>https://bosoek.github.io/harvard_and_google/</link><guid isPermaLink="false">https://bosoek.github.io/harvard_and_google/</guid><pubDate>Thu, 20 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)&lt;/h1&gt;
-&lt;p&gt;일본의 고등학교를 재학중 진로에 대한 고민으로 자퇴후 미국으로 넘어가 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 작성한 책이다.&lt;/p&gt;
+&lt;p&gt;일본의 고등학교를 재학중 진로에 대한 고민으로 자퇴후 미국으로 넘어가 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 집필한 책이다.&lt;/p&gt;
 &lt;p&gt;책에는 일본에서 공부하시던 토모에님이 미국으로 넘어가 하버드에서 배운점들, 그리고 구글에서 근무하며 얻은 마이드들과 관련 경험들을 적으셨다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284983-2d545284-08a0-46ce-8f41-d10097fed23d.jpg&quot; width=&quot;500&quot;&gt;  
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284983-2d545284-08a0-46ce-8f41-d10097fed23d.jpg&quot; width=&quot;600&quot;&gt;  
 &lt;p&gt;위 구절이 하버드 MBA의 사명인데, 단순히 회사의 예산에서 자신의 몫을 키우는 것만이 아닌 회사의 비즈니스를 키워 사회 전체의 파이를 키워야 한다고 말하는 구절이다.&lt;/p&gt;
 &lt;p&gt;아마 일반적인 대학들은 각각의 회사의 이익을 키우는 것에 집중을 하며 그를 학습하는 대다수의 학생들도 개개인의 회사의 이익만을 집중한다. 물론 이런 점들이 나쁜 것은 아니지만 그 결과 뉴스에서 종종 접하는 사기 사건, 기업간의 갈등이 생기는 것이라고 책은 말한다.
 그리고 이에 대해 하버드는 회사를 키움으로써 사회 전반을 키우는 것이 중요하다라고 말하는 관점의 변화가 신선했다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284990-581b72a5-4d00-4639-bdb2-4062859b5eca.jpg&quot; width=&quot;500&quot;&gt;  
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284990-581b72a5-4d00-4639-bdb2-4062859b5eca.jpg&quot; width=&quot;600&quot;&gt;  
 &lt;p&gt;아마 대다수의 사람들은 경제적인 안정을 위한 승진, 급여 인상을 단순한 커리어의 목표로써 세운다. 그리고 나 또한 급여를 목표로써 취직을 준비 중이였고 생각 중이였다. 하지만 그에 대해 책은 승진을 목표로써 커리어를 키운다면 보는 시야가 줄어든다.&lt;/p&gt;
 &lt;p&gt;때문에 내가 재밌는것, 나를 멀리 데려다 줄 수 있는 것을 분석하며 나아가라고 말한다.&lt;/p&gt;
 &lt;p&gt;이처럼 이 책에서는 계속 단순한 이익만이 아닌 자기 자신의 가치를 키우고 발전시키는 것의 중요성을 언급한다. 끊임 없기 고민하고 분석하며, 자신만의 프라이드를 세우고 계속해서 성장해 나가는것, 그것이 본인의 삶의 방식이라고 설명하고 있다.&lt;/p&gt;
@@ -26,7 +84,7 @@
 &lt;p&gt;책을 읽어보면 알 수 있지만 원래 일본에서는 보수적이고 경직된 사고방식을 가졌던 그녀가 미국의 하버드와 구글에서 얻은 가치관이나 마음가짐들, 신념들에 대해 읽다 보면 질 좋은 교육 환경과 의욕넘치는 주변 사람들이 학습 및 인생에 있어서 얼마나 중요한지 깨닫게 된다.&lt;/p&gt;
 &lt;p&gt;현재 나도 대학 진학과 취업 중에서 고민 중이고 뭘 하고 싶은지, 뭘 원하는지 나도 잘 모르는 시기이고 아직은 하고 싶은 것이 너무 많지만 이제는 선택과 집중을 해야 할 시기이고 그 과정에서 필요한 나만의 우선순위를 선정하게 도와준 이 책이 고맙다.&lt;/p&gt;
 &lt;p&gt;나처럼 진로 고민 중인 학생들, 현재 뭘 하고 싶은 건지 그리고 인간관계에서 너무 힘든 사람들에게 이 책을 추천하고 싶고, 늘 망설이기만 하는 분들이 토모에님처럼 다음 의자를 기다리기만 하는 것이 아닌 스스로 변화를 쟁취하는 삶을 살았으면 좋겠다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284993-cd3d4970-ac38-432c-a99c-19f543e41074.jpg&quot; width=&quot;500&quot;&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284993-cd3d4970-ac38-432c-a99c-19f543e41074.jpg&quot; width=&quot;600&quot;&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;인생에 있어 ‘절대로 확실함’이란 있을 수 없다.&lt;/h3&gt;
@@ -39,36 +97,85 @@
 &lt;p&gt;There is no way that everything is going wrong.&lt;/p&gt;
 &lt;h3&gt;망가진 어떤 시계라도 하루에 두 번은 정확한 시간을 알리기 때문이다. -마크 트웨인(Mark Twain)&lt;/h3&gt;
 &lt;p&gt;This is because any broken watch informs the exact time twice a day.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)]]></title><description><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year…]]></description><link>https://bosoek.github.io/ai_big_data/</link><guid isPermaLink="false">https://bosoek.github.io/ai_big_data/</guid><pubDate>Thu, 20 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)&lt;/h1&gt;
-&lt;p&gt;일본의 고등학교를 재학중 진로에 대한 고민으로 자퇴후 미국으로 넘어가 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 작성한 책이다.&lt;/p&gt;
-&lt;p&gt;책에는 일본에서 공부하시던 토모에님이 미국으로 넘어가 하버드에서 배운점들, 그리고 구글에서 근무하며 얻은 마이드들과 관련 경험들을 적으셨다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284983-2d545284-08a0-46ce-8f41-d10097fed23d.jpg&quot; width=&quot;500&quot;&gt;  
-&lt;p&gt;위 구절이 하버드 MBA의 사명인데, 단순히 회사의 예산에서 자신의 몫을 키우는 것만이 아닌 회사의 비즈니스를 키워 사회 전체의 파이를 키워야 한다고 말하는 구절이다.&lt;/p&gt;
-&lt;p&gt;아마 일반적인 대학들은 각각의 회사의 이익을 키우는 것에 집중을 하며 그를 학습하는 대다수의 학생들도 개개인의 회사의 이익만을 집중한다. 물론 이런 점들이 나쁜 것은 아니지만 그 결과 뉴스에서 종종 접하는 사기 사건, 기업간의 갈등이 생기는 것이라고 책은 말한다.
-그리고 이에 대해 하버드는 회사를 키움으로써 사회 전반을 키우는 것이 중요하다라고 말하는 관점의 변화가 신선했다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284990-581b72a5-4d00-4639-bdb2-4062859b5eca.jpg&quot; width=&quot;500&quot;&gt;  
-&lt;p&gt;아마 대다수의 사람들은 경제적인 안정을 위한 승진, 급여 인상을 단순한 커리어의 목표로써 세운다. 그리고 나 또한 급여를 목표로써 취직을 준비 중이였고 생각 중이였다. 하지만 그에 대해 책은 승진을 목표로써 커리어를 키운다면 보는 시야가 줄어든다.&lt;/p&gt;
-&lt;p&gt;때문에 내가 재밌는것, 나를 멀리 데려다 줄 수 있는 것을 분석하며 나아가라고 말한다.&lt;/p&gt;
-&lt;p&gt;이처럼 이 책에서는 계속 단순한 이익만이 아닌 자기 자신의 가치를 키우고 발전시키는 것의 중요성을 언급한다. 끊임 없기 고민하고 분석하며, 자신만의 프라이드를 세우고 계속해서 성장해 나가는것, 그것이 본인의 삶의 방식이라고 설명하고 있다.&lt;/p&gt;
-&lt;p&gt;이를 가르친 하버드와 구글, 그리고 그곳들에서 배출된 여러 사람들을 보면 나도 단순한 돈만을 쫓아 가는게 아닌 나만의 가치를 발전시키는 것에 대해 진지하게 생각해 봐야 할 시기라고 생각했다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284991-56a934da-cc81-4ea9-8fe2-4d84bf4fc735.jpg&quot; width=&quot;500&quot;&gt;
-&lt;p&gt;개인적으로 많은 사람들에게 해당되는 이야기라는 생각이 들었다. 늘 지금 당장 해결할 수 있지도 않으면서 추상적인 미래의 일들을 미리 걱정하고 스트레스 받는 것보다는 당장 뭔가를 할 수 있는것도 아니고 적어도 지금은 닥친 일들을 해결해야하며 &lt;strong&gt;‘눈앞에 집중한다.’&lt;/strong&gt; 라는 말이 많은 사람들에게 꼭 필요한 말이었던것 같았다.&lt;/p&gt;
-&lt;p&gt;책을 읽어보면 알 수 있지만 원래 일본에서는 보수적이고 경직된 사고방식을 가졌던 그녀가 미국의 하버드와 구글에서 얻은 가치관이나 마음가짐들, 신념들에 대해 읽다 보면 질 좋은 교육 환경과 의욕넘치는 주변 사람들이 학습 및 인생에 있어서 얼마나 중요한지 깨닫게 된다.&lt;/p&gt;
-&lt;p&gt;현재 나도 대학 진학과 취업 중에서 고민 중이고 뭘 하고 싶은지, 뭘 원하는지 나도 잘 모르는 시기이고 아직은 하고 싶은 것이 너무 많지만 이제는 선택과 집중을 해야 할 시기이고 그 과정에서 필요한 나만의 우선순위를 선정하게 도와준 이 책이 고맙다.&lt;/p&gt;
-&lt;p&gt;나처럼 진로 고민 중인 학생들, 현재 뭘 하고 싶은 건지 그리고 인간관계에서 너무 힘든 사람들에게 이 책을 추천하고 싶고, 늘 망설이기만 하는 분들이 토모에님처럼 다음 의자를 기다리기만 하는 것이 아닌 스스로 변화를 쟁취하는 삶을 살았으면 좋겠다.&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/152284993-cd3d4970-ac38-432c-a99c-19f543e41074.jpg&quot; width=&quot;500&quot;&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;h3&gt;난 두려울 때마다 ‘난 미친놈이다’, ‘난 대단하다’, ‘난 똑똑하다’ 라고 외친다. -서대호&lt;/h3&gt;
-&lt;p&gt;Whenever I’m scared, I shout, “I’m crazy”, “I’m amazing”, “I’m smart”.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Klue Baseline]]></title><description><![CDATA[Klue Baseline 새로이 블로그를 정리하며 이전에 참여했던 말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds) Talk is cheap. Show me the code.]]></description><link>https://bosoek.github.io/klue_baseline/</link><guid isPermaLink="false">https://bosoek.github.io/klue_baseline/</guid><pubDate>Wed, 15 Sep 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Klue Baseline&lt;/h1&gt;
 &lt;p&gt;새로이 블로그를 정리하며 이전에 참여했던&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds)&lt;/h3&gt;
 &lt;p&gt;Talk is cheap. Show me the code.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[VSCode에서 Jupyter notebook 사용하기]]></title><description><![CDATA[VSCode에서 Jupyter notebook 사용하기 Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter…]]></description><link>https://bosoek.github.io/vscode_jupyter/</link><guid isPermaLink="false">https://bosoek.github.io/vscode_jupyter/</guid><pubDate>Sun, 22 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Flask 개발 환경 구축하기]]></title><description><![CDATA[Flask 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/flask_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/flask_Setting/</guid><pubDate>Mon, 13 Sep 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Flask 개발 환경 구축하기&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
+&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘python -m venv’는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+‘mysite’는 만들 가상환경 이름이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;strong&gt;activate 명령&lt;/strong&gt; 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
+D:\venvs\mysite\Scripts&gt; activate
+(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;strong&gt;deactivate&lt;/strong&gt; 을 사용한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;flask 설치하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;플라스크는 가상환경 안에 설치한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install flask&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;애플리케이션 만들기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from flask import Flask
+app = Flask(__name__)
+
+@app.route(&apos;/&apos;)
+def hello_pybo():
+    return &apos;Hello, Pybo!&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;가장 기본적인 플라스크 서버 코드이다.&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;app = Flask(__name__)&lt;/code&gt; : 플라스크 애플리케이션 실행 코드, 이때 __name__에는 해당 모듈 명(파일 이름)이 들어간다.&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;@app.route&lt;/code&gt;는 특정 URL에 접속하면 바로 다음 줄에 있는 함수를 호출하는 플라스크의 데코레이터다.&lt;br&gt;
+위 코드에서는 기본 url로 접속시 ‘Hello, Pybo!’ 라는 글이 출력된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;기본 애플리케이션 설정하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;환경변수 FLASK APP에 애플리케이션을 지정한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; set FLASK_APP=파일명&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;플라스크 서버 개발 환경으로 설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;플라스크 서버를 개발 모드로 연다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; set FLASK_ENV=development&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;플라스크 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[VSCode에서 Jupyter notebook 사용하기]]></title><description><![CDATA[VSCode에서 Jupyter notebook 사용하기 Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter…]]></description><link>https://bosoek.github.io/vscode_jupyter/</link><guid isPermaLink="false">https://bosoek.github.io/vscode_jupyter/</guid><pubDate>Sun, 22 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;VSCode에서 Jupyter notebook 사용하기&lt;/h1&gt;
 &lt;p&gt;Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter Notebook은 특유의 답답함으로 개발자 편의성이 중요해진 요즘에는 사용이 다소 꺼려집니다.&lt;/p&gt;
 &lt;p&gt;하지만 모든 코드를 코랩에서만 할 수는 없기에 이번 시간에는 vscode로 편하게 Jupyter Notebook을 사용하는 방법을 포스팅 해 보도록 하겠습니다.😝&lt;/p&gt;
@@ -105,4 +212,1130 @@ pip install jupyter&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Don’t worry if it doesn’t work right.&lt;/p&gt;
 &lt;h3&gt;모든 것이 그랬다면, 넌 직업을 잃었을테니까. -소프트웨어 공학에서의 모셔의 법칙(Mosher’s Law)&lt;/h3&gt;
 &lt;p&gt;If everything did, you’d be out of a job.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item></channel></rss>
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;# this is test&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Django 개발 환경 구축하기]]></title><description><![CDATA[Django 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/Django_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/Django_Setting/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Django 개발 환경 구축하기&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
+&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘python -m venv’는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+‘mysite’는 만들 가상환경 이름이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;strong&gt;activate 명령&lt;/strong&gt; 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
+D:\venvs\mysite\Scripts&gt; activate
+(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;strong&gt;deactivate&lt;/strong&gt; 을 사용한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 설치하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 가상환경안에서 설치한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install django==3.1.3
+(가상환경명) D:\venvs\mysite\Scripts&gt; python -m pip install --upgrade pip&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;첫번째 pip는 장고 3.1.3 버전을 설치하라는 명령어.
+두번재 pip는 장고를 최신 버전으로 설치하라는 명령어.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 생성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고의 플로젝트란 하나의 웹사이트이며 하나의 프로젝트 안에는 여러 앱이 존재하고, 이러한 앱들이 모여 웹 사이트를 구성한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 디렉터리 생성하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 프로젝트가 여러개가 될수 있으므로 프로젝트 &lt;strong&gt;루트 디렉터리 생성&lt;/strong&gt; 이 필수다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\&gt;mkdir projects
+D:\&gt;cd projects(루트 디렉터리 이름)
+D:\projects&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 루트 디렉터리 안에서 가상 환경에 진입하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\projects&gt;D:\venvs\mysite\Scripts\activate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 프로젝트 생성 &amp;#x26; 이동하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\projects&gt;mkdir mysite(장고 프로젝트를 담을 디렉터리)
+(가상환경명) D:\projects&gt;cd mysite
+(가상환경명) D:\projects\mysite&gt;
+(가상환경명) D:\projects\mysite&gt;django-admin startproject config .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고 프로젝트는 가상 환경에서 django-admin으로 생성 가능하다.
+이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;개발 서버 구동 &amp;#x26; 종료하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘python manage.py runserver’ 명령으로 개발 서버가 구동되며 ‘Ctrl+C’를 누르면 개발 서버가 종료된다.
+개발 서버는 127.0.0.1:8000 또는 localhost:8000에서 장고의 기본 웹사이트를 볼수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Path 환경변수를 통한 가상 환경 진입 -&gt; 방법을 못찾음(추후에 커밋함)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;장고(파이썬) 개발 에디터 파이참 설치하기.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참은 &lt;a href=&quot;http://www.jetbrains.com/ko-kr/pycharm/download/#section=windows&quot;&gt;www.jetbrains.com/ko-kr/pycharm/download/#section=windows&lt;/a&gt; 에서 설치 가능하며 &lt;Next&gt;만 선택하면 된다.
+파이참 실행 후 &lt;Open&gt;으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;파이참 인터프리터 설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참 메뉴에서 [File -&gt; Setting] -&gt; [Project: mysite -&gt; project Interpreter] -&gt; [Python Interpreter}의 톱니바퀴 모양에서 &lt;Add&gt; -&gt; &lt;Existing enviroment&gt; -&gt; [Interpreter]오른쪽의 &amp;#x3C;…&gt; -&gt; D:\venvs\mysite\Scripts\python.exe 선택
+파이참에서 setting.py 파일의 [LANGUAGE_CODE]와 [TIME_ZONE]설정값을 수정한다.(언어와 시간을 한국으로 설정)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;LANGUAGE_CODE = &apos;ko-kr&apos;
+TIME_ZONE = &apos;Asia/Seoul&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;서버 구동시 언어가 한국어로 바뀌어 있다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Numpy 튜토리얼]]></title><description><![CDATA[Numpy 튜토리얼 넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다. 목차 1. 기초개념 2. 행렬 변경 3. 데이터 복사 기초 개념 Numpy…]]></description><link>https://bosoek.github.io/Numpy/</link><guid isPermaLink="false">https://bosoek.github.io/Numpy/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Numpy 튜토리얼&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 설치 코드
+pip install numpy
+
+# 패키지 추가
+import numpy as np&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;목차&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90&quot;&gt;1. 기초개념&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%ED%96%89%EB%A0%AC-%EB%B3%80%EA%B2%BD&quot;&gt;2. 행렬 변경&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EC%82%AC&quot;&gt;3. 데이터 복사&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;기초 개념&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Numpy에서는 모든 배열 값이 같은 타입이여야 하며, 각 차원을 축이라고 표현한다.
+Numpy에서 배열은 &lt;code class=&quot;language-text&quot;&gt;ndarray&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;array&lt;/code&gt;라고 하며 Python의 array와는 다르다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;스칼라(Scalar : 0D 텐서) : 0차원 축(행 &amp;amp; 차원) 즉, 숫자 한개
+벡터(Vector : 1D 텐서) : 1차원 축(행 &amp;amp; 차원)
+행렬(Matrix : 2D 텐서) : 2차원 축(행 &amp;amp; 차원)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;code class=&quot;language-text&quot;&gt;numpy.ndarray&lt;/code&gt;의 대표 속성값&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ndarray.shape&lt;/code&gt; : 배열의 각 축(axis)의 크기&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ndarray.ndim&lt;/code&gt; : 축의 개수&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ndarray.dtype&lt;/code&gt; : 각 요소의 타입&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ndarray.itemsize&lt;/code&gt; : 각요소의 타입의 bytes 크기&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;ndarray.size&lt;/code&gt; : 전체 요소의 개수&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;배열 생성&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.array()&lt;/code&gt;에 &lt;strong&gt;튜플이나 리스트&lt;/strong&gt; 를 입력하여 &lt;code class=&quot;language-text&quot;&gt;numpy.ndarray&lt;/code&gt;를 만들수 있다&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;dtype = complex&lt;/code&gt;로 복소수 값 생성 가능하다.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;print(np.array([[1,2,], [3,4]], dtype = complex))
+# [[1.+0.j 2.+0.j]
+#  [3.+0.j 4.+0.j]]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.zeros(shape)&lt;/code&gt; : 0으로 구성된 N차원 배열 생성&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ones(shape)&lt;/code&gt; : 1로 구성된 N차원 배열 생성&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.empty(shape)&lt;/code&gt; : 초기화되지 않은 N차원 배열 생성
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;print(np.zeros((3,4)))
+# [[0. 0. 0. 0.]
+#  [0. 0. 0. 0.]
+#  [0. 0. 0. 0.]]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.arange(a, b, c)&lt;/code&gt; : a이상 b미만까지 c씩 차이나는 배열 생성&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.arange(a)&lt;/code&gt; : 0 ~ a 까지의 배열 생성&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.linspace(a, b, c)&lt;/code&gt; : a ~ b까지 c등분한 배열 생성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;배열 차원 변환&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ndarray.reshape()&lt;/code&gt; : 데이터의 차원을 변경
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# [10000] 배열을 [100, 100] 배열로 변경
+print(np.arange(10000).reshape(100,100))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;넘파이 연산(브로드캐스팅)&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;브로드캐스팅은 행렬(shape)이 다른 넘파이 배열끼리의 계산시 넘파이 내부에서 자동으로 행렬(Shape)을 맞춰주는 기능&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;np.array([1,2,3,4,5]) * 2 
+# Broadcasting
+np.array([1,2,3,4,5]) * np.array([2,2,2,2,2])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;차원(ndim)이 같고 축(axis)의 값이 같거나 1이여야 연산 가능하며, 각 축의 값이 다르면 브로드캐스팅되어 값이 복사된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;* &lt;/code&gt; : 각각의 원소끼리 곱셈&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;@ &lt;/code&gt; : 행렬 곱셈&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.dot() &lt;/code&gt; : 행렬 내적&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;수치 계산시 타입이 다르면 타입이 큰쪽(int &amp;#x3C; float &amp;#x3C; complex)으로 자동 변경됨&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.sum(np.ndarray)&lt;/code&gt; : 모든 요소의 합&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.min(np.ndarray)&lt;/code&gt; : 모든 요소 중 최소값&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.max(np.ndarray)&lt;/code&gt; : 모든 요소 중 최대값&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.argmax(np.ndarray)&lt;/code&gt; : 모든 요소 중 최대값의 인덱스&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.cumsum(np.ndarray)&lt;/code&gt; : 모든 요소의 누적합&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;.sum(), .min(), .max(), .cumsum() 등의 연산에 axis 값을 입력하면 축을 기준으로 연산 가능하다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;행렬 변경&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ndarray.revel()&lt;/code&gt; : Shape을 1차원으로 변경&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ndarray.reshape()&lt;/code&gt; : Shape을 지정한 차원으로 변경
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;.reshpae()&lt;/code&gt;을 사용할 때 차원값에 -1을 입력하면 -1 부분은 자동으로 차원을 채워준다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ndarray.T&lt;/code&gt; : Shapedml 행과 열의 수를 변환(4,3 이면 3,4로)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.ndarray.resize()&lt;/code&gt; : .reshape()과 동일한 기능이지만 원본 데이터 자체를 변경시킨다.&lt;/li&gt;
+&lt;li&gt;데이터 쌓기
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.vstack()&lt;/code&gt; : axis=0 기준으로 쌓음(세로로)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.hstack()&lt;/code&gt; : axis=1 기준으로 쌓음(가로로)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;데이터 쪼개기
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;np.hsplit()&lt;/code&gt; : 숫자 1개가 들어갈 결우 x개로 등분, 리스트를 넣을 경우 azis=1 기준 인덱스로 데이터 분할함
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;print(a)
+# [[4. 4. 1. 7. 7. 8. 8. 8. 4. 3. 5. 3.]
+#  [9. 8. 7. 5. 6. 8. 9. 6. 9. 5. 4. 7.]]
+
+# [2,12] =&gt; [2,4] 데이터 3개로 등분
+print(np.hsplit(a, 3))
+# [array([[4., 4., 1., 7.],
+#        [9., 8., 7., 5.]]), array([[7., 8., 8., 8.],
+#        [6., 8., 9., 6.]]), array([[4., 3., 5., 3.],
+#        [9., 5., 4., 7.]])]
+
+# [2,12] =&gt; [:, :3], [:, 3:4], [:, 4:]로 분할
+print(np.hsplit(a, (3,4)))
+# [array([[4., 4., 1.],
+#        [9., 8., 7.]]), array([[7.],
+#        [5.]]), array([[7., 8., 8., 8., 4., 3., 5., 3.],
+#        [6., 8., 9., 6., 9., 5., 4., 7.]])]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;데이터 복사&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;변수에 np.array를 넣으면 복사가 되는게 아닌 같은 주소를 참조할 뿐이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;a = b.view()&lt;/code&gt; : a와 b가 같은 주소값을 가르킨다(한 변수의 값을 바꾸면 다른 변수의 값도 바뀜)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;a = b.copy()&lt;/code&gt; : a와 b가 같은 데이터를 가진다.(한 변수 값을 바꾸면 다른 변수 값 안바뀜)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;참고 사이트 : 괭이쟁이(&lt;a href=&quot;https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/&quot;&gt;https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/&lt;/a&gt;)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Matplotlib 튜토리얼]]></title><description><![CDATA[Matplotlib 튜토리얼 Matplotlib은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
+matplotlib.pyplot 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다. 목차 1. 기본 그래프 2. 축 레이블 및 범위 설정…]]></description><link>https://bosoek.github.io/matplotlib/</link><guid isPermaLink="false">https://bosoek.github.io/matplotlib/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Matplotlib 튜토리얼&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Matplotlib은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
+matplotlib.pyplot 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 설치 코드
+pip search matplotlib
+pip install matplotlib
+pip install --upgrade matplotlib
+
+# 패키지 추가
+import matplotlib.pyplot as plt
+%matplotlib inline # jupyter에서 Shift+Enter를 치지 않고 Run으로 실행하여 그래프를 그릴 수 있음.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;목차&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EA%B8%B0%EB%B3%B8-%EA%B7%B8%EB%9E%98%ED%94%84&quot;&gt;1. 기본 그래프&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EC%B6%95-%EB%A0%88%EC%9D%B4%EB%B8%94-%EB%B0%8F-%EB%B2%94%EC%9C%84-%EC%84%A4%EC%A0%95&quot;&gt;2. 축 레이블 및 범위 설정&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%ED%94%84-%EC%98%81%EC%97%AD-%EC%B1%84%EC%9A%B0%EA%B8%B0&quot;&gt;3. 그래프 영역 채우기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%B0%8F-%EB%88%88%EA%B8%88-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0&quot;&gt;4. 그리드 및 눈금 표시&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EC%88%98%EC%A7%81%EC%84%A0/%EC%88%98%ED%8F%89%EC%84%A0-%ED%91%9C%EC%8B%9C&quot;&gt;5. 수직선/수평선 표시&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EB%A7%89%EB%8C%80-%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;6. 막대 그래프 그리기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EC%82%B0%EC%A0%90%EB%8F%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;7. 산점도 그리기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;8. 히스토그램 그리기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%EC%98%A4%EC%B0%A8%EB%A7%89%EB%8C%80-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;9. 오차막대 그리기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;&lt;a href=&quot;#%ED%8C%8C%EC%9D%B4-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;10. 파이(원형)차트 그리기&lt;/a&gt;&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;기본 그래프&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;pyplot.show()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그렸던 그래프들 출력하는 함수&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;pyplot.plot()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;선 또는 마커 그래프 그리기에 사용되는 함수로 리스트를 인수로 받는다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;y 값 : &lt;code class=&quot;language-text&quot;&gt;[1, 2, 3, 4]&lt;/code&gt;처럼 리스트가 한개인 경우 y값이라고 가정후 x값을 0부터 1씩 커지게 자동으로 만들어 낸다.&lt;/li&gt;
+&lt;li&gt;x, y 값 : &lt;code class=&quot;language-text&quot;&gt;[1, 2, 3, 4,], [2,4,6,8]&lt;/code&gt;처럼 리스트가 두개면 각각 x, y로 그래프로 나타내준다.&lt;/li&gt;
+&lt;li&gt;두개의 그래프 : 두개 이상의 리스트들은 새로운 그래프로 그려진다.(한 그래프에 여러 곡선들 제작 가능)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118938613-cf080700-b989-11eb-9281-3afe2c769293.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;plot() 함수에 매개변수에 ‘bo’(파란 원형마커) 형식으로 색과 마커 방식을 지정할 수 있다&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Color&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘b’처럼 일반 지정도 되고 color=‘green’ 처럼 키워드로 지정해도 된다. 단, 키워드 지정에서는 css 색상과 Hex code도 사용할 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;‘b’ : blue&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘g’ : green&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘r’ : red&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘c’ : cyan&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘m’ : magenta&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘y’ : yellow&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘k’ : black&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘w’ : white&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Line Styles&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;’-‘처럼 일반 지정도 되고 linestyle=’-‘처럼 키워드로 지정해도 된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;’-’ : 실선 스타일&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’—’ : 파선 스타일&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’-.’ : 점-선 스타일&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’:’ : 점선 스타일&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Markers&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘o’처럼 일반 지정도 되고 marker=‘o’처럼 키워드로 지정해도 된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4&gt;’.’ : 포인트&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’,’ : 픽셀&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘o’ : 원형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘v’ : 아래쪽 삼각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’^’ : 위쪽 삼각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’&amp;#x3C;’ : 왼쪽 삼각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’&gt;’ : 오른쪽 삼각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘1’ : 아래쪽 삼각별&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘2’ : 위쪽 삼각별&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘3’ : 왼쪽 삼각별&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘4’ : 오른쪽 삼각별&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’s’ : 사각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘p’ : 오각형&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’*’ : 별&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘h’ : 육각형 1&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘H’ : 육각형 2&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’+’ : + 마크&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘x’ : x 마크&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘D’ : 다이아몬드&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;‘d’ : 앏은 다이아몬드&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’|’ : | 마크&lt;/h4&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4&gt;’_’ : _ 마크&lt;/h4&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;title()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프의 제목 지정(타이틀을 여러개 지정할 수도 있다)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;매개변수로 타이틀 글을 준다&lt;/li&gt;
+&lt;li&gt;loc = ‘right/left/center’ : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다&lt;/li&gt;
+&lt;li&gt;pad : 타이틀과 그래프와의 관계를 설정한다.&lt;/li&gt;
+&lt;li&gt;fontdict : fontsize(포인트 단위 숫자나 ‘smaller’, ‘x-large’ 등의 상대적인 설정)와 fontweight(‘normal’, ‘bold’, ‘heavy’, ‘light’, ‘ultrabold’, ‘ultralight’ 설정 가능)를 딕셔너리 형태로 받는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.title(&apos;Sample graph&apos;, loc=&apos;right&apos;, pad=20)
+title_font = {
+    &apos;fontsize&apos;: 16,
+    &apos;fontweight&apos;: &apos;bold&apos;
+}
+plt.title(&apos;Sample graph&apos;, fontdict=title_font, loc=&apos;left&apos;, pad=20)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118962326-38931000-b9a0-11eb-8e74-8f567e551327.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;축 레이블 및 범위 설정&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;xlabel()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프에서 x축에 대한 레이블 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;표시할 레이블을 인수로 받는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;ylabel()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프에서 y축에 대한 레이블 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;표시할 레이블을 인수로 받는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;axis()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;x, y축이 표시되는 범위를 지정&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;매개변수 : (xmin, xmax, ymin, ymax)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;strong&gt;입력값이 없으면 데이터에 맞게 자동으로 범위를 지정함&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;그래프 영역 채우기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;fill_between()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;X-Label 그래프의 특정 영역을 채워서 강조&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;X 배열 : X 레이블의 어떤 지점을 그릴것인지 지정&lt;/li&gt;
+&lt;li&gt;Y 배열 : Y 레이블의 어떤 지점까지 그릴것인지 지정&lt;/li&gt;
+&lt;li&gt;color : 색 지정&lt;/li&gt;
+&lt;li&gt;alpha : 투명도(1이 최대)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+y = [1, 4, 9, 16]
+plt.plot(x, y)
+plt.fill_between(x[1:3], y[1:3], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(x[1], y[1]), (x[2], y[2]), (x[1], 0), (x[2], 0)을 잇는 영역이 채워진다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118950473-311a3980-b995-11eb-878f-5624431058c8.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;fill_betweenx()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;X-Label 그래프의 특정 영역을 채워서 강조&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Y 배열 : Y 레이블의 어떤 지점까지 그릴것인지 지정&lt;/li&gt;
+&lt;li&gt;X 배열 : X 레이블의 어떤 지점을 그릴것인지 지정&lt;/li&gt;
+&lt;li&gt;color : 색 지정&lt;/li&gt;
+&lt;li&gt;alpha : 투명도(1이 최대)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.plot(x, y)
+plt.fill_between(y[2:4]), x[2:4], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118950897-94a46700-b995-11eb-9dff-180f293b77b1.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;두 그래프 사이 영역 채우기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;두 그래프 사이를 채워서 강조&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;영역을 채울 X값 지정&lt;/li&gt;
+&lt;li&gt;영역을 채울 두 그래프의 Y값 지정&lt;/li&gt;
+&lt;li&gt;나머지는 동일&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+y1 = [1, 4, 9, 16]
+y2 = [1, 2, 4, 8]
+
+plt.fill_between(x[1:3], y1[1:3], y2[1:3])
+# fill_betweenx도 가능&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(x[1], y[1]), (x[1], y[2]), (x[2], y[1]), (x[2], y[2]) 사이 영역을 채운다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118951549-23b17f00-b996-11eb-8e27-423992274f43.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;fill()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;임의의 영역을 채워서 강조&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;영역을 그릴 4가지 지점의 X, Y좌표 지정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;그리드 및 눈금 표시하기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;grid()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프에 격자 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;True : True로 설정시 그리드 표시됨(X, Y). default는 False.&lt;/li&gt;
+&lt;li&gt;axis = ‘both/x/y’ : 그리드 방향 지정. default는 both&lt;/li&gt;
+&lt;li&gt;color : 색 지정&lt;/li&gt;
+&lt;li&gt;alpha : 투명도&lt;/li&gt;
+&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
+&lt;li&gt;which = ‘major/minor/both’ : 주눈금, 보조눈금 표시&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;xticks()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;X축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;리스트나 넘파이 배열을 입력시 해당 위치에 눈금 &amp;#x26; 숫자 레이블 표시&lt;/li&gt;
+&lt;li&gt;labels = [‘1번’, ‘2번’ …] : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;lebels 파라미터 대신 튜블로 지정해도 가능&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;yticks()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Y축에 틱(그래프의 축에 간격을 구분하는 표시 눈금)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;리스트나 넘파이 배열을 입력시 해당 위치에 눈금 &amp;#x26; 숫자 레이블 표시&lt;/li&gt;
+&lt;li&gt;labels = [‘1번’, ‘2번’ …] : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;lebels 파라미터 대신 튜블로 지정해도 가능&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;tick_params()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;눈금 스타일 지정&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;axis : 설정 적용 축 지정(X, Y, both)&lt;/li&gt;
+&lt;li&gt;direction : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)&lt;/li&gt;
+&lt;li&gt;length : 눈금이 길이&lt;/li&gt;
+&lt;li&gt;pad : 눈금과 레이블과의 거리&lt;/li&gt;
+&lt;li&gt;labelsize : 레이블의 크기 지정&lt;/li&gt;
+&lt;li&gt;labelcolor : 레이블의 색상 지정&lt;/li&gt;
+&lt;li&gt;top = True : 눈금이 위에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;bottom = True : 눈금이 아래에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;left = True : 눈금이 왼쪽에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;right = True : 눈금이 오른쪽에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;width : 눈금의 너비 지정&lt;/li&gt;
+&lt;li&gt;color : 눈금의 색상 지정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;수직선/수평선 표시&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;axhline()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프 특정 y(가로)값에 수평선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : y값으로서 수평선의 위치&lt;/li&gt;
+&lt;li&gt;두번째 인자 : xmin -&gt; 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다&lt;/li&gt;
+&lt;li&gt;세번째 인자 : xmax -&gt; 0(왼쪽 끝)에서 1(오른쪽 끝)사이의 값을 넣는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;xmin과 xmax에 선이 생기는 것&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;color : 색&lt;/li&gt;
+&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
+&lt;li&gt;linewidth = 선 두께(수 지정)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;axvline()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프 특정 x(세로)값에 수직선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : x값으로서 수평선의 위치&lt;/li&gt;
+&lt;li&gt;두번째 인자 : xmin -&gt; 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다&lt;/li&gt;
+&lt;li&gt;세번째 인자 : xmax -&gt; 0(아래쪽 끝)에서 1(위쪽 끝)사이의 값을 넣는다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;xmin과 xmax에 선이 생기는 것&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;color : 색&lt;/li&gt;
+&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
+&lt;li&gt;linewidth = 선 두께(수 지정)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;a = np.arange(0, 2, 0.2)
+plt.plot(a, a, &apos;bo&apos;)
+plt.plot(a, a**2, color=&apos;#e35f62&apos;, marker=&apos;*&apos;, linewidth=2)
+plt.plot(a, a**3, color=&apos;springgreen&apos;, marker=&apos;^&apos;, markersize=9)
+plt.xticks(np.arange(0, 2, 0.2), labels=[&apos;Jan&apos;, &apos;&apos;, &apos;Feb&apos;, &apos;&apos;, &apos;Mar&apos;, &apos;&apos;, &apos;May&apos;, &apos;&apos;, &apos;June&apos;, &apos;&apos;, &apos;July&apos;])
+plt.yticks(np.arange(0, 7), (&apos;0&apos;, &apos;1GB&apos;, &apos;2GB&apos;, &apos;3GB&apos;, &apos;4GB&apos;, &apos;5GB&apos;, &apos;6GB&apos;))
+plt.axhline(1, 0, 0.55, color=&apos;gray&apos;, linestyle=&apos;--&apos;, linewidth=&apos;1&apos;)
+plt.axvline(1, 0, 0.16, color=&apos;lightgray&apos;, linestyle=&apos;:&apos;, linewidth=&apos;2&apos;)
+plt.axhline(5.83, 0, 0.95, color=&apos;gray&apos;, linestyle=&apos;--&apos;, linewidth=&apos;1&apos;)
+plt.axvline(1.8, 0, 0.95, color=&apos;lightgray&apos;, linestyle=&apos;:&apos;, linewidth=&apos;2&apos;)
+plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118963728-b4da2300-b9a1-11eb-9a9a-64e30d2f73c9.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;hlines()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Y를 따라 수평선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : Y 좌표&lt;/li&gt;
+&lt;li&gt;두번째 인자 : xmin -&gt; 수평선 시작 지점&lt;/li&gt;
+&lt;li&gt;세번째 인자 : xmax -&gt; 수평선 끝나는 지점&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;점(xmin, y)에서 점(xmax, y)를 따라 수평선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;color : 색&lt;/li&gt;
+&lt;li&gt;linewidth : 선두께&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;vlines()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;X를 따라 수평선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : X 좌표&lt;/li&gt;
+&lt;li&gt;두번째 인자 : ymin -&gt; 수평선 시작 지점&lt;/li&gt;
+&lt;li&gt;세번째 인자 : ymax -&gt; 수평선 끝나는 지점&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;점(x, ymin)에서 점(x, ymax)를 따라 수평선 표시&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;color : 색&lt;/li&gt;
+&lt;li&gt;linewidth : 선두께&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.hlines(4, 1, 1.6, colors=&apos;pink&apos;, linewidth=3)
+plt.vlines(1, 1, 4, colors=&apos;pink&apos;, linewidth=3) &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118964444-785af700-b9a2-11eb-9238-095c84cbb879.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;막대 그래프 그리기&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;bar()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;그래프 개수와 값을 리스트 형태로 받아 막대 그래프로 출력&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])&lt;/li&gt;
+&lt;li&gt;두번째 인자 : 넘파이 배열에 해당하는 리스트 입력&lt;/li&gt;
+&lt;li&gt;width : 막대의 너비(default : 0.8)&lt;/li&gt;
+&lt;li&gt;align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 왼쪽에 틱이 표시됨)&lt;/li&gt;
+&lt;li&gt;color : 막대의 색&lt;/li&gt;
+&lt;li&gt;edgecolor : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
+&lt;li&gt;linewidth : 테두리 두께 지정&lt;/li&gt;
+&lt;li&gt;tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
+&lt;li&gt;log = True : Y축 로그 스케일로 표시&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = np.arange(3)
+years = [&apos;2017&apos;, &apos;2018&apos;, &apos;2019&apos;]
+values = [100, 400, 900]
+plt.bar(x, values, width=0.6, align=&apos;edge&apos;, color=&quot;springgreen&quot;,
+        edgecolor=&quot;gray&quot;, linewidth=3, tick_label=years, log=True)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118965609-d3d9b480-b9a3-11eb-96e2-63372e5a3fe6.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;barh()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;수평 막대 그래프 출력&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])&lt;/li&gt;
+&lt;li&gt;두번째 인자 : 넘파이 배열에 해당하는 리스트 입력&lt;/li&gt;
+&lt;li&gt;height : 막대의 높이(default : 0.8)&lt;/li&gt;
+&lt;li&gt;align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 아래쪽에 틱이 표시됨)&lt;/li&gt;
+&lt;li&gt;color : 막대의 색&lt;/li&gt;
+&lt;li&gt;edgecolor : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
+&lt;li&gt;linewidth : 테두리 두께 지정&lt;/li&gt;
+&lt;li&gt;tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
+&lt;li&gt;log = True : X축 로그 스케일로 표시&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;y = np.arange(3)
+years = [&apos;2017&apos;, &apos;2018&apos;, &apos;2019&apos;]
+values = [100, 400, 900]
+
+plt.barh(y, values, height=-0.6, align=&apos;edge&apos;, color=&quot;springgreen&quot;,
+        edgecolor=&quot;gray&quot;, linewidth=3, tick_label=years, log=False)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118965906-22874e80-b9a4-11eb-90da-b8a8445b0095.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;산점도 그리기&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;산점도&lt;/strong&gt; 는 두 변수 상관 관계를 직교 좌표계의 평면에 데이터를 점으로 표현하는 그래프&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;scatter()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;산점도 출력&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;2차원 산점도 그리기&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;X : X위치&lt;/li&gt;
+&lt;li&gt;Y : Y위치&lt;/li&gt;
+&lt;li&gt;s = ‘크기’ : 마커의 면적&lt;/li&gt;
+&lt;li&gt;c = ‘색’ : 마커의 색깔&lt;/li&gt;
+&lt;li&gt;alpha = 값 : 투명도&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;각각의 인자들은 리스트 형태로 여러개 지정하여 한번에 여러개의 마커들을 만들 수도 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;3차원 산점도 그리기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;3차원 그래프를 위해서는 &lt;code class=&quot;language-text&quot;&gt;from mpl_toolkits.mplot3d import Axes3D&lt;/code&gt; 추가(맷플로팁 3.1 이상부터는 자동으로 포함되있음)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;rcParams로 figure의 사이즈 설정(figure란 그래프가 들어있는 객체)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.rcParams[&quot;figure.figsize&quot;] = (6, 6)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;3D axes를 위해 add_subplot()에 3D를 입력해준다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ax = fig.add_subplot(111, projection=&apos;3d&apos;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;매개인자들&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;X : X좌표&lt;/li&gt;
+&lt;li&gt;Y : Y좌표&lt;/li&gt;
+&lt;li&gt;Z : Z좌표&lt;/li&gt;
+&lt;li&gt;c =‘색’ : 색깔&lt;/li&gt;
+&lt;li&gt;marker=‘마크’ : 마크 형태&lt;/li&gt;
+&lt;li&gt;s=값 : 크기&lt;/li&gt;
+&lt;li&gt;cmap = ‘색’ : 맵 색깔&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118970084-cbd04380-b9a8-11eb-860f-68bfe6dc4a49.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;히스토그램 그리기&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;히스토그램&lt;/strong&gt; 은 도수분포표를 그래프로 나타낸 것으로, 가로는 계급, 세로는 도수를 나타낸다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;hist()&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : 리스트 형태로 값 입력&lt;/li&gt;
+&lt;li&gt;bins = 값 : 몇 개의 영역으로 쪼갤지 설정&lt;/li&gt;
+&lt;li&gt;density = True : 밀도 함수가 되어 막대 아래 면적이 1이된다.&lt;/li&gt;
+&lt;li&gt;alpha : 투명도&lt;/li&gt;
+&lt;li&gt;histtype = ‘step/stepfilled’ : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;a = 2.0 * np.random.randn(10000) + 1.0
+b = np.random.standard_normal(10000)
+c = 20.0 * np.random.rand(5000) - 10.0
+
+plt.hist(a, bins=100, density=True, alpha=0.7, histtype=&apos;step&apos;)
+plt.hist(b, bins=50, density=True, alpha=0.5, histtype=&apos;stepfilled&apos;)
+plt.hist(c, bins=100, density=True, alpha=0.9, histtype=&apos;step&apos;)
+plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118970655-6d579500-b9a9-11eb-8a5a-84ed525977b0.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;오차막대 그리기&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;데이터의 편차를 표시하기 위한 그래프 형태&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;errorbar()&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;에러바 그래프를 그릴 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;x : X값&lt;/li&gt;
+&lt;li&gt;y : Y값&lt;/li&gt;
+&lt;li&gt;yerr = yerr값 : 데이터 편차 리스트&lt;/li&gt;
+&lt;li&gt;uplims = True/False : 상한가 기호 표시&lt;/li&gt;
+&lt;li&gt;lolims = True/False : 하한가 기호 표시&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+y = [1, 4, 9, 16]
+yerr = [2.3, 3.1, 1.7, 2.5]
+
+plt.errorbar(x, y, yerr=yerr)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118971263-2a49f180-b9aa-11eb-8d85-d4d628e230e4.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;비대칭인 편차를 표시하려면 (2, N) 형태의 값들을 입력.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 튜플 : 아래 방향 편차&lt;/li&gt;
+&lt;li&gt;두번째 튜플 : 위 방향 편차&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+y = [1, 4, 9, 16]
+yerr = [(2.3, 3.1, 1.7, 2.5), (1.1, 2.5, 0.9, 3.9)]
+
+plt.errorbar(x, y, yerr=yerr)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118971402-57969f80-b9aa-11eb-88a6-f18d87405953.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;파이 차트 그리기&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;원그래프는 범주별 구성 비율을 원형으로 표현한 그래프이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;pie()&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;첫번째 인자 : 각 영역의 비율 리스트&lt;/li&gt;
+&lt;li&gt;labels = 리스트 : 각 영역의 이름 리스트&lt;/li&gt;
+&lt;li&gt;autopct = ‘%.1f%%’ : 표시될 숫자의 형식&lt;/li&gt;
+&lt;li&gt;startangle = 값 : 시작 각도(default : 0도) 지정&lt;/li&gt;
+&lt;li&gt;counterclock = False : 시계 방향 순서로 부채꼴 영역이 표시됨&lt;/li&gt;
+&lt;li&gt;explode = 리스트 : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)&lt;/li&gt;
+&lt;li&gt;shadow = True : 그림자 표시&lt;/li&gt;
+&lt;li&gt;colors = 리스트 : 각 영역당 색상 지정(리스트로)&lt;/li&gt;
+&lt;li&gt;wedgeprops = 딕셔너리 : 부채꼴 영역의 스타일 설정(딕셔너리의 ‘width’-너비, ‘edgecolor’- 테두리 색깔, ‘linewidth’- 테두리 선의 너비)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ratio = [34, 32, 16, 18]
+labels = [&apos;Apple&apos;, &apos;Banana&apos;, &apos;Melon&apos;, &apos;Grapes&apos;]
+colors = [&apos;#ff9999&apos;, &apos;#ffc000&apos;, &apos;#8fd9b6&apos;, &apos;#d395d0&apos;]
+wedgeprops={&apos;width&apos;: 0.7, &apos;edgecolor&apos;: &apos;w&apos;, &apos;linewidth&apos;: 5}
+
+plt.pie(ratio, labels=labels, autopct=&apos;%.1f%%&apos;, startangle=260, counterclock=False, colors=colors, wedgeprops=wedgeprops)
+plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118972808-ee179080-b9ab-11eb-9ed3-e409211cb310.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[분류 모델 성능 평가 지표]]></title><description><![CDATA[분류 모델 성능 평가 지표 분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다. 그럼 이때 정답을 맞히거나 틀리는 경우들이 뭐가 있을까? 이때 생기는 개념이 1종 오류, 2종 오류이며 각 오류는 분류 과제 성격에 따라 검증이 다르다.…]]></description><link>https://bosoek.github.io/Classification-performance-evaluation/</link><guid isPermaLink="false">https://bosoek.github.io/Classification-performance-evaluation/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;분류 모델 성능 평가 지표&lt;/h1&gt;
+&lt;p&gt;분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다.&lt;/p&gt;
+&lt;p&gt;그럼 이때 정답을 맞히거나 틀리는 경우들이 뭐가 있을까?&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137417559-88a972d3-e7cb-4c59-ab36-88bcaf2e19c8.png&quot;&gt;
+&lt;p&gt;이때 생기는 개념이 1종 오류, 2종 오류이며 각 오류는 분류 과제 성격에 따라 검증이 다르다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1종 오류(False Positive) : 좋은 것이라 예측 하였지만 실제로는 좋지 않은 것인 경우
+&lt;blockquote&gt;
+&lt;p&gt;예로 중고차 성능 판별이 있다. 좋은 중고차를 나쁜차로 예측해서 구매하지 않아도 손해볼 것은 없지만 나쁜 차를 잘못 예측하여 구매하는 건 손해이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;2종 오류(True Negative) : 나쁜 것이라 예측 하였지만 실제로는 좋은 것인 경우
+&lt;blockquote&gt;
+&lt;p&gt;암 환자 진단시에는 암 환자를 건강하다고 판별하는 경우가 더 치명적이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;위의 성능 평가 개념들을 바탕으로 분류 모델 성능 평가 지표를 알아본다.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Accuracy(정확도)&lt;/h3&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137418639-c8e45022-8001-4d7d-9545-4e031f5c1707.png&quot;&gt;
+&lt;p&gt;전체 예측 건수에서 정답을 맞힌 건수의 비율&lt;/p&gt;
+&lt;p&gt;단, 이때 &lt;strong&gt;Negative의 비율이 너무 높아서 Treu Negative로만 Accuracy의 높은 점수를 받는 정확도 역설(Accuracy Paradox)&lt;/strong&gt; 이 발생할 수 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;예로, 암 환자 데이터는 90% 정도가 정상이라고 라벨링 되어 있을때 모델이 전부 정상이라고 답해도 정확도가 90%에 도달한다.&lt;br&gt;
+하지만 정상이라는 답밖에 내놓지 못하는 모델은 당연히 실제 환자들을 진단할 때 사용할 수 없다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Recall(재현율)&lt;/h3&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137418945-0cf57f47-b04b-4838-bef9-82ebd3e05e5a.png&quot;&gt;
+&lt;p&gt;실제 정답이 True인 것들 중 분류기가 True로 예측한 비율&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;때문에 True 발생 확률이 적을 때나 정확도 역설 시 사용하기 좋다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;하지만 &lt;strong&gt;True로만 답하는 모델이 있을 시 accuracy 점수는 낮지만 Recall 점수는 1로 만점&lt;/strong&gt; 이 될 수 있는 문제점이 있다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Precision(정밀도)&lt;/h3&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137419012-61135a87-7127-4398-ab5f-16c290912d08.png&quot;&gt;
+&lt;p&gt;모델이 True라고 예측한 것 중에 실제 값이 True인 비율&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;True로만 답하는 모델이 있을 시 Recall에서는 1이지만 모델이 답한 True중 &lt;strong&gt;실제 True인 데이터는 일부&lt;/strong&gt; 이기 때문에 Precision에서는 0점에 가깝게 나온다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Precision은 Recall의 반대 개념 지표이다. 즉, 하나가 올라가면 하나가 내려간다. 때문에 Recall의 장점은 Precision의 단점이 되기도 한다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;F1 Score&lt;/h3&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137419035-d8c184f3-8988-4d99-89ad-840d37cd62fa.png&quot;&gt;
+&lt;p&gt;Recall과 Precision의 조화평균으로써 Recall과 Precision 둘 중 하나의 값이 낮을때 그부분이 지표에 잘 반영되도록 하기 위해 일반적인 산술 평균이 아닌 조화 평균을 사용한다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;예로, recall과 precision이 각각 1과 0.01을 가졌을 때 산술 평균은 &lt;code class=&quot;language-text&quot;&gt;(1 + 0.01) / 2 = 0.505&lt;/code&gt;로 절반 정도 맞히는 걸로 보이지만 조화 평균시에는 &lt;code class=&quot;language-text&quot;&gt;2 * (1 * 0.01) / (1 + 0.01) = 0.019&lt;/code&gt;로 낮게 나온다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;Scikit-Learn을 통한 통계 지표 확인&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
+
+labels = [1, 0, 0, 1, 1, 1, 0, 1, 1, 1]
+guesses = [0, 1, 1, 1, 1, 0, 1, 0, 1, 0]
+
+print(accuracy_score(labels, guesses))
+print(recall_score(labels, guesses))
+print(precision_score(labels, guesses))
+print(f1_score(labels, guesses))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Keras 모델 생성 방법]]></title><description><![CDATA[Keras 모델 생성 방법 케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.  1. Sequential API를 사용한 모델 생성 Sequential…]]></description><link>https://bosoek.github.io/model_Creation/</link><guid isPermaLink="false">https://bosoek.github.io/model_Creation/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Keras 모델 생성 방법&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.&lt;br&gt;
+&lt;img src=&quot;https://wikidocs.net/images/page/106897/1_WzwKtnA0LEhiCGdWTTpLaA.png&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1. Sequential API를 사용한 모델 생성&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sequential() 함수로 model 박스를 생성 후 add() 함수로 레이어들을 선택해 모델에 넣어준다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;직관적이고 ML 책에서 많이 사용되는 방식이다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 단순하게 층을 샇는 방식으로 쉽고 사용하기가 간단하다.&lt;/li&gt;
+&lt;li&gt;단점 : 다수의 입출력을 가진 모델 또는 층 간의 연결이나 덧셈 같은 연산 모델 구현에는 적합하지 않다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from keras.models import Sequential
+from keras.layers import Dense, Activation
+
+model = Sequential([
+    Dense(32, activate=&apos;relu&apos;, input_shape=(784,)),
+    Dense(10, activate=&apos;softmax&apos;)
+])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;model = Sequential()
+model.add(Dense(32, activate=&apos;relu&apos;, input_dim=784))
+model.add(Dense(10, activate=&apos;softmax&apos;))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. Functional API를 이용한 모델 생성&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;input Layer를 변수에 정의한다.&lt;/li&gt;
+&lt;li&gt;Dense Layer를 선언시에는 이전 레이어의 변수 정보를 레이어 선언 뒤에 ()가로로 넣어줘야한다.&lt;/li&gt;
+&lt;li&gt;Model Class 방식은 &lt;strong&gt;input layer를 input 함수&lt;/strong&gt; 로, &lt;strong&gt;Dense layer를 output 함수&lt;/strong&gt; 로 넣어 모델을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;multi input과 multi output의 정의가 용이하다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 구현하기 어려운 복잡한 모델들을 구현할 수 있다.&lt;/li&gt;
+&lt;li&gt;단점 : 입력층을 모델의 앞단에 정의해야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;inputs = Input(shape=(1,)) # &amp;lt;-- 해당 부분
+output = Dense(1, activation=&apos;linear&apos;)(inputs)
+linear_model = Model(inputs, output)
+
+sgd = optimizers.SGD(lr=0.01)
+
+linear_model.compile(optimizer=sgd, loss=&apos;mse&apos;, metrics=[&apos;mse&apos;])
+linear_model.fit(X, y, epochs=300)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. Subclassing API로 인공지능 망 만들기&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;init&lt;/strong&gt; 함수로 클래스의 매개변수를 지정한다.&lt;/li&gt;
+&lt;li&gt;매개변수 정보를 이용해 layer들을 선언한다&lt;/li&gt;
+&lt;li&gt;call 같은 특정 함수로 모델을 반환한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;모델 레이어를 세세하게 수정하고, 모델을 여러번 만들어야 하는 연구등에 사용된다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : Functional API로도 구현 안되는 모델들도 구현이 가능하다.&lt;/li&gt;
+&lt;li&gt;단점 : 객체 지향 프로그래밍에 익숙해야 하고 코드 사용이 까다롭다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import keras
+
+class SimpleMLP(keras.Model):
+    def __init__(self, num_classes=10):
+        super(SimpleMLP, self).__init__(name=&apos;mlp&apos;)
+        self.num_classes = num_classes
+
+        self.dense1 = keras.layers.Dense(32, activation=&apos;relu&apos;)
+        self.dense2 = keras.layers.Dense(num_classes, activation=&apos;softmax&apos;)
+
+    def call(self, inputs):
+        x = self.dense1(inputs)
+        return self.dense2(x)
+
+model = SimpleMLP()
+model.compile(...)
+model.fit(...)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[데이터 중요도 파악]]></title><description><![CDATA[데이터 중요도 파악 모델의 레이블에 영향을 주는 Feature의 중요도를 Sklearn의 Permutation Importance 를 사용해 파악한다. Permutation Importance 모델 예측시 가장 영향을 많이 주는 Feature…]]></description><link>https://bosoek.github.io/Data-Importance/</link><guid isPermaLink="false">https://bosoek.github.io/Data-Importance/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;데이터 중요도 파악&lt;/h1&gt;
+&lt;p&gt;모델의 레이블에 영향을 주는 Feature의 중요도를 &lt;strong&gt;Sklearn의 Permutation Importance&lt;/strong&gt; 를 사용해 파악한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;모델 예측시 가장 영향을 많이 주는 Feature를 파악하는 방법&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;모델의 훈련이 끝난 후 계산되며 &lt;strong&gt;모델이 특정 Feature를 안썻을때, 성능 손실에 얼마나 영향을 주는지로 그 Feature의 중요도를 파악하는 방법&lt;/strong&gt; 이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;어떤 모델이든 적용 가능하다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance의 장점&lt;/h3&gt;
+&lt;p&gt;기존에는 특정 Feature를 제거후 모델을 학습해서 중요도를 파악했지만 자원 소모가 너무 크다.&lt;/p&gt;
+&lt;p&gt;때문에 Permutation Importance는 &lt;strong&gt;특정 Feature를 무작위로 섞어 Target과의 연결 고리를 끊어 해당 Feature를 안쓰는 것처럼(노이즈)&lt;/strong&gt; 만든다.&lt;/p&gt;
+&lt;p&gt;그후 예측값과 실제값의 차이가 더 생겼는지로 해당 Feature의 영향력을 파악한다.&lt;/p&gt;
+&lt;p&gt;이러한 과정 덕분에 &lt;strong&gt;모델의 재학습이 필요없다!&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;훈련 모델과 데이터만 있으면 변수 중요도를 봅을 수 있다. 반대로 모델 학습 과정, 내부 구조 정보가 필요 없어서 어느 모델이든 적용 가능하다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Permutation Importance의 다른 특징은 각 Feature의 중요도에는 다른 Feature와의 상호작용도 포함된다는 것이다!&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;특정 Feature를 섞으면 다른 Feature와의 관계가 끝어져서 해당 Feature와의 모든 상호작용이 사라진다. 때문에 두 Feature간 상호작용의 영향은 두개의 Feature Importance에 중복 포함된다.&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance의 단점&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;특정 Feature를 무작위로 섞어서 실행시마다 Feature Importance 결과가 달라진다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;섞는 횟수를 늘려 예측 에러 분산을 감소할 수 있지만 Feature 개수가 많을 경우 연살량이 증가하기 때문에 Permutation의 적절한 회수를 선택해야한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feature를 무작위로 섞기에 비현실저인 데이터 조합이 생길 수 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Feature간 상관관계가 높을 경우 발샐할 수 있으며 이런 데이터의 비개연성, 비현실성이 증가하면 예측값에 영향을 미칠 가능성이 있고 우리가 원하던 결과가 아니기에 이를 염두하고 해석해야한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;예로, 키와 몸무게를 랜덤하게 섞다보면 키가 2m인데 몸무게가 30kg인 데이터가 만들어 질 수도 있다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;실행 코드&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from sklearn.inspection import permutation_importance # sklearn 22 버전부터 해당
+from sklearn.metrics import make_scorer
+
+# MAPE
+def mean_absolute_percentage_error(y_test, y_pred):
+    y_test, y_pred = np.array(y_test), np.array(y_pred)
+    return np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+
+# fix_model : 훈련된 모델
+# X_train : 훈련데이터 Feature
+# y_train : 훈련데이터 Target
+# scoring : Feature 를 Shuffler 한 뒤, 예측값과 실제값을 어떤 Metric 을 사용해 비교할지
+# n_repeats : 특정 Feature 를 몇번 Shuffle 할 것인지
+# random_state : 난수 고정
+result = permutation_importance(fix_model, X_train, y_train, scoring = make_scorer(mean_absolute_percentage_error,greater_is_better=False),
+                            n_repeats=30,
+                            random_state=0)
+# Feature label
+Feature = train[[&apos;lr&apos;,&apos;lc&apos;,&apos;rc&apos;,&apos;ld&apos;,&apos;rd&apos;,&apos;lnnz&apos;,&apos;rnnz&apos;,&apos;lr*lc&apos;,&apos;lc*rc&apos;,&apos;lr*rc&apos;]] 
+
+# Feature 중요도를 오름차순으로 정렬한 뒤, 해당 Feature 의 index 를 저장
+sorted_result = result.importances_mean.argsort()
+
+# 결과를 DataFrame 화
+importances = pd.DataFrame(result.importances_mean[sorted_result], index=Feature.columns[sorted_result]).sort_values(0, ascending=False)   
+importances&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>

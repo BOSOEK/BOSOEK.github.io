@@ -20,11 +20,11 @@ draft: false
 ```
 D:\venvs> python -m venv mysite
 ```
-> 'python -m venv'는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
-> 'mysite'는 만들 가상환경 이름이다.
+> ```python -m venv```는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+> ```mysite```는 만들 가상환경 이름이다.
 
 * 가상환경에 진입한다.
-> 생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 __activate 명령__ 을 수행하여 가상환경에 진입 가능.
+> 생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 ```activate``` 명령 을 수행하여 가상환경에 진입 가능.
 ```
 D:\venvs> cd D:\venvs\mysite\Scripts
 D:\venvs\mysite\Scripts> activate
@@ -32,7 +32,7 @@ D:\venvs\mysite\Scripts> activate
 ```
 
 * 가상환경에서 벗어닌다.
-> 진입한 가상환경에서 벗어나려면 __deactivate__ 을 사용한다
+> 진입한 가상환경에서 벗어나려면 ```deactivate``` 을 사용한다
 ```
 (가상환경명) C:\venvs\mysite\Scripts> deactivate
 ```
@@ -73,8 +73,8 @@ D:\projects>D:\venvs\mysite\Scripts\activate
 > 이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.
 
 * 개발 서버 구동 & 종료하기
-> 'python manage.py runserver' 명령으로 개발 서버가 구동되며 'Ctrl+C'를 누르면 개발 서버가 종료된다.
-> 개발 서버는 127.0.0.1:8000 또는 localhost:8000에서 장고의 기본 웹사이트를 볼수 있다.
+> ```python manage.py runserver``` 명령으로 개발 서버가 구동되며 ```Ctrl+C```를 누르면 개발 서버가 종료된다.
+> 개발 서버는 ```127.0.0.1:8000``` 또는 ```localhost:8000```에서 장고의 기본 웹사이트를 볼수 있다.
 
 * Path 환경변수를 통한 가상 환경 진입 -> 방법을 못찾음(추후에 커밋함)
 
@@ -83,8 +83,8 @@ D:\projects>D:\venvs\mysite\Scripts\activate
 > 파이참 실행 후 <Open>으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)
 
 * 파이참 인터프리터 설정
-> 파이참 메뉴에서 [File -> Setting] -> [Project: mysite -> project Interpreter] -> [Python Interpreter}의 톱니바퀴 모양에서 <Add> -> <Existing enviroment> -> [Interpreter]오른쪽의 <...> -> D:\venvs\mysite\Scripts\python.exe 선택
-> 파이참에서 setting.py 파일의 [LANGUAGE_CODE]와 [TIME_ZONE]설정값을 수정한다.(언어와 시간을 한국으로 설정)
+> 파이참 메뉴에서 ```[File -> Setting] -> [Project: mysite -> project Interpreter] -> [Python Interpreter]```의 톱니바퀴 모양에서 ```<Add> -> <Existing enviroment> -> [Interpreter]```오른쪽의 ```<...> -> D:\venvs\mysite\Scripts\python.exe``` 선택
+> 파이참에서 setting.py 파일의 ```[LANGUAGE_CODE]```와 ```[TIME_ZONE]```설정값을 수정한다.(언어와 시간을 한국으로 설정)
 
 ```
 LANGUAGE_CODE = 'ko-kr'
@@ -93,3 +93,8 @@ TIME_ZONE = 'Asia/Seoul'
 > 서버 구동시 언어가 한국어로 바뀌어 있다!
 
 * 장고 개발 환경 설치 & 설정 완료!
+
+---
+
+> ### 품질이란 누가 보지 않을 때에도 제대로 돌아가는 걸 뜻한다. - 헨리 포드
+> Quality means that it works properly when no one looks at it.

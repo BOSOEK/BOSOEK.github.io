@@ -59,5 +59,5 @@ draft: false
 
 ---
 
->### 난 두려울 때마다 '난 미친놈이다', '난 대단하다', '난 똑똑하다' 라고 외친다. -서대호
+> ### 난 두려울 때마다 '난 미친놈이다', '난 대단하다', '난 똑똑하다' 라고 외친다. -서대호
 > Whenever I'm scared, I shout, "I'm crazy", "I'm amazing", "I'm smart".

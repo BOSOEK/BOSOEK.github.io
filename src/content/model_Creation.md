@@ -1,17 +1,20 @@
 ---
-title: 'Keras 모델 생성 방법'
+title: 'Keras 모델 생성 방법(Keras models)'
 author: [Bosoek Kim]
 tags: [ml&dl]
 image: img/keras_model.png
-date: '2021-08-20T10:00:00.000Z'
+date: '2021-07-11T10:00:00.000Z'
 draft: false
 ---
 
 ---
 
-# Keras 모델 생성 방법
+# Keras 모델 생성 방법(Keras models)
 > 케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.   
-> <img src='https://wikidocs.net/images/page/106897/1_WzwKtnA0LEhiCGdWTTpLaA.png'>
+
+<img src='https://wikidocs.net/images/page/106897/1_WzwKtnA0LEhiCGdWTTpLaA.png' width='700'>
+
+오늘은 각 방식을 사용하며 모델을 생성하는 방법을 공부해 봅니다.
 
 ### 1. Sequential API를 사용한 모델 생성
 
@@ -23,6 +26,7 @@ __직관적이고 ML 책에서 많이 사용되는 방식이다.__
 * 단점 : 다수의 입출력을 가진 모델 또는 층 간의 연결이나 덧셈 같은 연산 모델 구현에는 적합하지 않다.
 
 ```
+# 예제 코드
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 
@@ -51,6 +55,7 @@ __multi input과 multi output의 정의가 용이하다.__
 * 단점 : 입력층을 모델의 앞단에 정의해야 한다.
 
 ```
+# 예제 코드
 inputs = Input(shape=(1,)) # <-- 해당 부분
 output = Dense(1, activation='linear')(inputs)
 linear_model = Model(inputs, output)
@@ -72,8 +77,7 @@ __모델 레이어를 세세하게 수정하고, 모델을 여러번 만들어�
 * 단점 : 객체 지향 프로그래밍에 익숙해야 하고 코드 사용이 까다롭다.
 
 ```
-import keras
-
+# 예제 코드
 class SimpleMLP(keras.Model):
     def __init__(self, num_classes=10):
         super(SimpleMLP, self).__init__(name='mlp')
@@ -90,3 +94,10 @@ model = SimpleMLP()
 model.compile(...)
 model.fit(...)
 ```
+
+---
+
+> ### 인공지능은 인류에게 작동하고 있는 가장 심오한 것 중 하나이다.
+> A.I is one of the most profound things that works for mankind.
+> ### 불이나 전기보다 더 심오하다. -순다르 피차이(Sundar Pichai)
+> It is more profound than fir or electricity.

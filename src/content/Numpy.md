@@ -19,13 +19,7 @@ pip install numpy
 import numpy as np
 ```
 
-## 목차
-* ### [1. 기초개념](#기초-개념)
-* ### [2. 행렬 변경](#행렬-변경)
-* ### [3. 데이터 복사](#데이터-복사)
-
-***
-
+---
 ## 기초 개념
 > Numpy에서는 모든 배열 값이 같은 타입이여야 하며, 각 차원을 축이라고 표현한다.
 > Numpy에서 배열은 ```ndarray``` 또는 ```array```라고 하며 Python의 array와는 다르다.   
@@ -121,5 +115,7 @@ import numpy as np
 * ```a = b.view()``` : a와 b가 같은 주소값을 가르킨다(한 변수의 값을 바꾸면 다른 변수의 값도 바뀜)  
 * ```a = b.copy()``` : a와 b가 같은 데이터를 가진다.(한 변수 값을 바꾸면 다른 변수 값 안바뀜)
 
-***
-참고 사이트 : 괭이쟁이(https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/)
+---
+
+> ### 기계 지능은 인류가 만들어야 할 마지막 발명품입니다. - 닉 보스 트롬(Nick Boss Tromm)
+> Mechanical intelligence is the last invention that mankind should make.

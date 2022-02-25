@@ -1,26 +1,25 @@
 ---
+layout: post
 title: '분류 모델 성능 평가 지표'
 author: [Bosoek Kim]
 tags: [ml&dl]
 image: img/confusion_matrix.png
-date: '2021-08-20T10:00:00.000Z'
+date: '2021-05-03T10:00:00.000Z'
 draft: false
 ---
 
 ---
 
 # 분류 모델 성능 평가 지표
-분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다.
+분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다. 이때 분류 모델이 정답을 맞히거나 틀리는 경우들은 총 4가지가 생긴다.
 
-그럼 이때 정답을 맞히거나 틀리는 경우들이 뭐가 있을까?
-
-<img src='https://user-images.githubusercontent.com/68007145/137417559-88a972d3-e7cb-4c59-ab36-88bcaf2e19c8.png'>
+<img src='https://user-images.githubusercontent.com/68007145/137417559-88a972d3-e7cb-4c59-ab36-88bcaf2e19c8.png' width="700">
 
 이때 생기는 개념이 1종 오류, 2종 오류이며 각 오류는 분류 과제 성격에 따라 검증이 다르다.
 
-* 1종 오류(False Positive) : 좋은 것이라 예측 하였지만 실제로는 좋지 않은 것인 경우
+* __1종 오류(False Positive)__ : 좋은 것이라 예측 하였지만 실제로는 좋지 않은 것인 경우
     > 예로 중고차 성능 판별이 있다. 좋은 중고차를 나쁜차로 예측해서 구매하지 않아도 손해볼 것은 없지만 나쁜 차를 잘못 예측하여 구매하는 건 손해이다.
-* 2종 오류(True Negative) : 나쁜 것이라 예측 하였지만 실제로는 좋은 것인 경우
+* __2종 오류(True Negative)__ : 나쁜 것이라 예측 하였지만 실제로는 좋은 것인 경우
     > 암 환자 진단시에는 암 환자를 건강하다고 판별하는 경우가 더 치명적이다.
 
 ***
@@ -62,7 +61,6 @@ draft: false
 
     > 예로, recall과 precision이 각각 1과 0.01을 가졌을 때 산술 평균은 ```(1 + 0.01) / 2 = 0.505```로 절반 정도 맞히는 걸로 보이지만 조화 평균시에는 ```2 * (1 * 0.01) / (1 + 0.01) = 0.019```로 낮게 나온다.
 
-***
 ## Scikit-Learn을 통한 통계 지표 확인
 ```
 from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
@@ -75,3 +73,10 @@ print(recall_score(labels, guesses))
 print(precision_score(labels, guesses))
 print(f1_score(labels, guesses))
 ```
+
+---
+
+> ### 문제는 지적인 기계가 어떤 감정을 가질 수 있느냐가 아니라,
+> The question is not what emotions an intelligent machine can have,
+> ### 기계가 아무런 감정 없이 지능을 가질 수 있느냐 하는 것이다. -마빈 민스키(Marvin Minski)
+> but whether it can have intelligence without any emotions.
