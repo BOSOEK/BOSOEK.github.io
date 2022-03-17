@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Feb 2022 11:14:35 GMT</lastBuildDate><item><title><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)]]></title><description><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year…]]></description><link>https://bosoek.github.io/ai_big_data/</link><guid isPermaLink="false">https://bosoek.github.io/ai_big_data/</guid><pubDate>Sun, 20 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Feb 2022 14:55:12 GMT</lastBuildDate><item><title><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)]]></title><description><![CDATA[1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year…]]></description><link>https://bosoek.github.io/ai_big_data/</link><guid isPermaLink="false">https://bosoek.github.io/ai_big_data/</guid><pubDate>Sun, 20 Feb 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;1년 안에 AI 빅데이터 전문가가 되는 법(How to become an AI big data expert within a year)&lt;/h1&gt;
 &lt;p&gt;한양대학교 정보시스템학과를 전공하고 추천 알고리즘, 이상탐지, 프로세스 마이닝, 이미지 처리 등을 연구하며 빅데이터 분석 회사 다겸의 대표로 재직중이신 &lt;strong&gt;서대호&lt;/strong&gt; 님이 집필한 책이다.&lt;/p&gt;
 &lt;p&gt;서대호 님이 빅데이터를 공부한 방식, 프리랜서로써 인공지능 개발자가 근무하는 방법, 본인의 성장 과정부터 그 과정에서 가진 생각들을 작성하셨다.&lt;/p&gt;
@@ -62,10 +62,6 @@
 &lt;blockquote&gt;
 &lt;h3&gt;고인물은 언젠가 썩기 마련이야 그래서 우리는 계속 흘러야만해 -성찬우&lt;/h3&gt;
 &lt;p&gt;Old water will rot someday, so we have to keep flowing&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[GAN으로 우주 사진 생성하기]]></title><description><![CDATA[GAN으로 우주 사진 생성하기 고인물은 언젠가 썩기 마련이야 그래서 우리는 계속 흘러야만해 -성찬우]]></description><link>https://bosoek.github.io/space_image/</link><guid isPermaLink="false">https://bosoek.github.io/space_image/</guid><pubDate>Sun, 30 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;GAN으로 우주 사진 생성하기&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;h3&gt;고인물은 언젠가 썩기 마련이야&lt;/h3&gt;
-&lt;h3&gt;그래서 우리는 계속 흘러야만해 -성찬우&lt;/h3&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)]]></title><description><![CDATA[하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google…]]></description><link>https://bosoek.github.io/harvard_and_google/</link><guid isPermaLink="false">https://bosoek.github.io/harvard_and_google/</guid><pubDate>Thu, 20 Jan 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;하버드와 구글에서 내가 배운 것(What I learned from Harvard and Google)&lt;/h1&gt;
 &lt;p&gt;일본의 고등학교를 재학중 진로에 대한 고민으로 자퇴후 미국으로 넘어가 칼리지 대학을 졸업하고 일본에서 창업을 한 후 또 다시 미국의 하버드로 입학을 한 특이한(?) 경력의 &lt;strong&gt;이시즈미 토모에&lt;/strong&gt; 님이 집필한 책이다.&lt;/p&gt;
@@ -97,9 +93,51 @@
 &lt;p&gt;There is no way that everything is going wrong.&lt;/p&gt;
 &lt;h3&gt;망가진 어떤 시계라도 하루에 두 번은 정확한 시간을 알리기 때문이다. -마크 트웨인(Mark Twain)&lt;/h3&gt;
 &lt;p&gt;This is because any broken watch informs the exact time twice a day.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Klue Baseline]]></title><description><![CDATA[Klue Baseline 새로이 블로그를 정리하며 이전에 참여했던 말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds) Talk is cheap. Show me the code.]]></description><link>https://bosoek.github.io/klue_baseline/</link><guid isPermaLink="false">https://bosoek.github.io/klue_baseline/</guid><pubDate>Wed, 15 Sep 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;Klue Baseline&lt;/h1&gt;
-&lt;p&gt;새로이 블로그를 정리하며 이전에 참여했던&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[GAN으로 우주 사진 생성하기]]></title><description><![CDATA[GAN으로 우주 사진 생성하기 평소 우주에 관심이 많아 우주 관련 프로젝트를 할 거 없나 찾다가 GAN을 알게되어 GAN…]]></description><link>https://bosoek.github.io/space_image/</link><guid isPermaLink="false">https://bosoek.github.io/space_image/</guid><pubDate>Sat, 30 Oct 2021 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;GAN으로 우주 사진 생성하기&lt;/h1&gt;
+&lt;p&gt;평소 우주에 관심이 많아 우주 관련 프로젝트를 할 거 없나 찾다가 GAN을 알게되어 GAN으로 우주 이미지를 만들어 보면 재밌을 것 같아서 시작하게 되었다. 처음 예상과는 달리 프로젝트가 너무 오래 걸렸고 결과물도 그렇게 만족스럽지는 않아서 추후 더 보완해야 할 것 가지만 일단은 지금까지의 상황을 기록해 둔다.&lt;/p&gt;
+&lt;p&gt;프로젝트를 시작하기 전에 우선은 GAN에 대한 가벼운 공부를 진행했다. GAN동 종류가 너무 많지만 나는 단순한 이미지 생성이라 가장 기본적인 DGAN으로 하기로 했고 DGAN만 가볍게 공부했다.&lt;/p&gt;
+&lt;h2&gt;우주 이미지 데이터&lt;/h2&gt;
+&lt;p&gt;지옥의 시작이였다. 우선 우주 이미지들을 크롤링 하기로 했는데 여러 플랫폼을 찾다가 품질도 괜찮고 저작권 문제도 없는 &lt;strong&gt;Pixabay&lt;/strong&gt; 의 이미지들을 &lt;code class=&quot;language-text&quot;&gt;space&lt;/code&gt; 태그로 검색해 크롤링 했다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155723638-df2ee3dc-ba89-4923-8f48-5f0a998a923a.PNG&quot; width=&quot;700&quot;&gt;
+&lt;p&gt;약 20000개 정도의 데이터들이 받아졌는데 개중에 우주 이미지가 아닌것들, 우주 이미지이지만 너무 현실 적이지 않은 것들 등을 약 3주 가량 걸렀고 반대로 비현실 적이어도 우주 이미지스럽고 아름답다(?)고 느껴지는 것들만 뽑아 최종적으로 3600개 정도의 이미지들을 모을 수 있었다.&lt;/p&gt;
+&lt;p&gt;데이터 과정에서 솔직히 현타가 많이 왔다. 물론 AI 제작 과정에서는 데이터가 많은 비율을 차지하지만 단순히 순수 우주 이미지를 모으는 데만 3주가 걸리고 게다가 모인 데이터 양도 너무 적었기 때문이다.(물론 시작한 이상 끝은 봐야 하기에 멈추지는 않는다!)&lt;/p&gt;
+&lt;p&gt;그 후에는 이미지들을 1대1 비율로 resize 해서 데이터 준비를 마쳤다.&lt;/p&gt;
+&lt;h2&gt;모델 학습&lt;/h2&gt;
+&lt;p&gt;모델은 Pytorch DCGAN Tutorial(&lt;a href=&quot;https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html&quot;&gt;DCGAN Tutorial&lt;/a&gt;)을 참고하여 제작하였고 최대한 많이 학습 시키려고 했지만 내 컴퓨터가 못버티고 혼자 죽어버리는(?) 경우들이 너무 생겨서 최종적으로 500 epochs를 학습 시켰다.&lt;/p&gt;
+&lt;p&gt;그렇게 결과물이 나왔다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155725997-916969ac-ecc8-44eb-bd50-da01dc70e1d9.png&quot; width=&quot;700&quot;&gt;
+&lt;h2&gt;마치며&lt;/h2&gt;
+&lt;p&gt;쓰읍… 솔직히 결과물이 잘 나왔다고는 말 못한다. 괜찮게 나온 것들도 있지만 행성 같은 경우는 막 찌그러 지기도 했고 전체 적으로 우주 보다는 닥터 스트레인지 영화에 나왔던 도르마무의 세계(?)처럼 되었다.&lt;/p&gt;
+&lt;p&gt;근데 모델을 욕할 수 없는게 원래 데이터에 우주 비행사가 있는 걸 봐서 아마도 데이터를 내가 제대로 거르지 못한게 원인인 것 같다.&lt;/p&gt;
+&lt;p&gt;하지만 그렇다고 않좋기만 했던 건 아니다. 처음으로 GAN을 써보기도 했고 내가 작성한 코드와 데이터 셋을 캐글(&lt;a href=&quot;https://www.kaggle.com/kimbosoek/cosmos-images/code&quot;&gt;Cosmos Images&lt;/a&gt;) 에 올려서 동메달을 받기도 했다.&lt;/p&gt;
+&lt;p&gt;솔직히 고생만 많이 한 것 같은데 끝나고 나니 재밌었던 것 같다. 다음에는 데이터도 더 모으고 모델도 조금 고쳐서 더 나은 결과를 만들어 보고 싶다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;지구는 우주에 떠 있는 창백한 푸른 점 하나. -칼 세이건(Carl Sagan)&lt;/h3&gt;
+&lt;p&gt;Earth is a pale blue dot floating in space.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[KLUE로 모델 평가하기 CREW]]></title><description><![CDATA[KLUE로 모델 평가하기 CREW 약 2달 이상 진행 했던 KLUE로 모델 평가하기e Crew활동이 끝났다. 여러 감정들이 들어 지난 2달 동안의 Crew…]]></description><link>https://bosoek.github.io/klue_baseline/</link><guid isPermaLink="false">https://bosoek.github.io/klue_baseline/</guid><pubDate>Wed, 15 Sep 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;KLUE로 모델 평가하기 CREW&lt;/h1&gt;
+&lt;p&gt;약 2달 이상 진행 했던 KLUE로 모델 평가하기e Crew활동이 끝났다. 여러 감정들이 들어 지난 2달 동안의 Crew 활동들을 남겨본다.&lt;/p&gt;
+&lt;h2&gt;첫만남&lt;/h2&gt;
+&lt;p&gt;평소에 혼자 공부했었는데 점점 지쳐가서 다른 사람들과 함께 공부할 커뮤니티를 찾던 도중 &lt;strong&gt;KLUE로 모델 평가하기 CREW&lt;/strong&gt; 를 찾게 되어 가입했다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155735299-6a0d3ba4-863e-4948-bbd9-fd90cf6dad4a.PNG&quot; width=&quot;700&quot;&gt;
+&lt;p&gt;본 crew는 Klue 벤치마크를 경험해보고 Klue Baseline을 제작해 공유하는 것이 목표였고 첫 밋업에서는 서로 자기소개를 하고 어떤 task를 담당할지를 정하며 분위기를 녹여 갔다.&lt;/p&gt;
+&lt;p&gt;근데 여기서 함정은 나는 이때까지만 해도 HuggingFace도 몰랐을 정도로 초보자였었고 다른 크루원 분들의 대학생이거나 직장인 분들이였다.(고등학생은 나밖에 없었다)&lt;/p&gt;
+&lt;h2&gt;크루 활동&lt;/h2&gt;
+&lt;p&gt;본격적인 크루 활동이 시작되면서 많이 바빠졌다. 학교 생활 때문에 작업 시간이 부족하고 기숙사 들어가는 시간대에 크루 밋업 일정이 잡혀 있어서 시간도 촉박하고, 또 데이터 분석이나 Baseline을 구축해야 했는데 관련 경험이 없었기에 많이 해멨다.&lt;/p&gt;
+&lt;p&gt;활동 중간에는 내가 크루 활동에 못 따라가는 것을 느끼며 내가 크루원들에게 피해를 주나? 내가 실력도 없이 괜한 시도를 하는 건가 싶기도 했다.&lt;/p&gt;
+&lt;p&gt;그러다가 &lt;strong&gt;김대웅&lt;/strong&gt; 크루원님이 크루원들중 제일 빠르게 baseline을 제작해 공유해 주셨고, 관련해서 hugging Face 사용법과 다른 시각화 사이트들도 알려 주셨다.&lt;/p&gt;
+&lt;p&gt;덕분에 기본적인 Baseline을 구축하고 개선 시키면서 논문, 블로그 발표등의 크루 활동들을 따라갈 수 있었다.&lt;/p&gt;
+&lt;p&gt;또 일단 김대웅 크루원님이 스타트를 끊어 주시니 크루원이 빠르게 Baseline을 제작하며 크루 전체 활동에 속도가 붙을 수 있었다.&lt;/p&gt;
+&lt;p&gt;마지막 밋업 때는 이태까지 작업했던 결과물들을 페이지로 제작해 인터넷에 공유 했고 약 9주간 함께 했던 크루원들과 소통하고 앞으로의 할일 등이나 진로들을 묻고 답하며 훈훈하게 마무리 됐다.&lt;/p&gt;
+&lt;h2&gt;마치며&lt;/h2&gt;
+&lt;p&gt;나의 첫 온라인 크루 활동이였고 또 크루를 통해 NLP 전반에 걸쳐 더 많이 공부할 수 있어서 너무 좋은 경험이였다. 특히 내가 만들 Baseline을 발표한 경험은 아마 잊지 못할 것이다.&lt;/p&gt;
+&lt;p&gt;그리고 크루 활동 중간에 진도를 못나가 크루 활동에 참여력이 약간 떨어지고 원래 담당 task가 두개였는데 하나를 포기하는 문제가 있었음에도 나를 이끌어준 크루원 분들에게 너무나 감사했다.&lt;/p&gt;
+&lt;p&gt;함께한 크루원 분들 모두 앞으로 좋은 일이 있길 바라고 나중에 다시 만날 수 있었으면 좋겠다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;크루 빌드 페이지 : &lt;a href=&quot;https://pseudo-lab.github.io/klue-baseline/docs/index.html&quot;&gt;바로가기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 &lt;blockquote&gt;
 &lt;h3&gt;말은 쉽지, 코드를 보여줘. -리누스 토르발스(Linus Torvalds)&lt;/h3&gt;
 &lt;p&gt;Talk is cheap. Show me the code.&lt;/p&gt;
@@ -118,14 +156,14 @@
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;blockquote&gt;
-&lt;p&gt;‘python -m venv’는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
-‘mysite’는 만들 가상환경 이름이다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python -m venv&lt;/code&gt;는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+&lt;code class=&quot;language-text&quot;&gt;mysite&lt;/code&gt;는 만들 가상환경 이름이다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;strong&gt;activate 명령&lt;/strong&gt; 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
+&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;code class=&quot;language-text&quot;&gt;activate&lt;/code&gt; 명령 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
 D:\venvs\mysite\Scripts&gt; activate
@@ -134,7 +172,7 @@ D:\venvs\mysite\Scripts&gt; activate
 &lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;strong&gt;deactivate&lt;/strong&gt; 을 사용한다&lt;/p&gt;
+&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;code class=&quot;language-text&quot;&gt;deactivate&lt;/code&gt; 을 사용한다&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
@@ -175,7 +213,12 @@ def hello_pybo():
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; set FLASK_ENV=development&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;플라스크 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[VSCode에서 Jupyter notebook 사용하기]]></title><description><![CDATA[VSCode에서 Jupyter notebook 사용하기 Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter…]]></description><link>https://bosoek.github.io/vscode_jupyter/</link><guid isPermaLink="false">https://bosoek.github.io/vscode_jupyter/</guid><pubDate>Sun, 22 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;테스트 될 수 없다면, 요구하지도 말라 -켄푸(KEN-POO)&lt;/h3&gt;
+&lt;p&gt;If it can’t be tested, don’t ask for it&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[VSCode에서 Jupyter notebook 사용하기]]></title><description><![CDATA[VSCode에서 Jupyter notebook 사용하기 Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter…]]></description><link>https://bosoek.github.io/vscode_jupyter/</link><guid isPermaLink="false">https://bosoek.github.io/vscode_jupyter/</guid><pubDate>Sun, 22 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;VSCode에서 Jupyter notebook 사용하기&lt;/h1&gt;
 &lt;p&gt;Machine Learning을 공부하는 사람들 이라면 대부분이 처음에 Jupyter Notebook(Lab)을 접할테지만 자동완성, 다크모드 등을 지원하는 코랩과는 다르게 원조인 Jupyter Notebook은 특유의 답답함으로 개발자 편의성이 중요해진 요즘에는 사용이 다소 꺼려집니다.&lt;/p&gt;
 &lt;p&gt;하지만 모든 코드를 코랩에서만 할 수는 없기에 이번 시간에는 vscode로 편하게 Jupyter Notebook을 사용하는 방법을 포스팅 해 보도록 하겠습니다.😝&lt;/p&gt;
@@ -212,117 +255,7 @@ pip install jupyter&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Don’t worry if it doesn’t work right.&lt;/p&gt;
 &lt;h3&gt;모든 것이 그랬다면, 넌 직업을 잃었을테니까. -소프트웨어 공학에서의 모셔의 법칙(Mosher’s Law)&lt;/h3&gt;
 &lt;p&gt;If everything did, you’d be out of a job.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;toc&quot;&gt;&lt;pre class=&quot;language-toc&quot;&gt;&lt;code class=&quot;language-toc&quot;&gt;# this is test&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Django 개발 환경 구축하기]]></title><description><![CDATA[Django 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/Django_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/Django_Setting/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;Django 개발 환경 구축하기&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
-&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;‘python -m venv’는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
-‘mysite’는 만들 가상환경 이름이다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;strong&gt;activate 명령&lt;/strong&gt; 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
-D:\venvs\mysite\Scripts&gt; activate
-(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;strong&gt;deactivate&lt;/strong&gt; 을 사용한다&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 설치하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고는 가상환경안에서 설치한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install django==3.1.3
-(가상환경명) D:\venvs\mysite\Scripts&gt; python -m pip install --upgrade pip&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;첫번째 pip는 장고 3.1.3 버전을 설치하라는 명령어.
-두번재 pip는 장고를 최신 버전으로 설치하라는 명령어.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 생성&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고의 플로젝트란 하나의 웹사이트이며 하나의 프로젝트 안에는 여러 앱이 존재하고, 이러한 앱들이 모여 웹 사이트를 구성한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 디렉터리 생성하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고는 프로젝트가 여러개가 될수 있으므로 프로젝트 &lt;strong&gt;루트 디렉터리 생성&lt;/strong&gt; 이 필수다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\&gt;mkdir projects
-D:\&gt;cd projects(루트 디렉터리 이름)
-D:\projects&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 루트 디렉터리 안에서 가상 환경에 진입하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\projects&gt;D:\venvs\mysite\Scripts\activate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 프로젝트 생성 &amp;#x26; 이동하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\projects&gt;mkdir mysite(장고 프로젝트를 담을 디렉터리)
-(가상환경명) D:\projects&gt;cd mysite
-(가상환경명) D:\projects\mysite&gt;
-(가상환경명) D:\projects\mysite&gt;django-admin startproject config .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고 프로젝트는 가상 환경에서 django-admin으로 생성 가능하다.
-이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;개발 서버 구동 &amp;#x26; 종료하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;‘python manage.py runserver’ 명령으로 개발 서버가 구동되며 ‘Ctrl+C’를 누르면 개발 서버가 종료된다.
-개발 서버는 127.0.0.1:8000 또는 localhost:8000에서 장고의 기본 웹사이트를 볼수 있다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Path 환경변수를 통한 가상 환경 진입 -&gt; 방법을 못찾음(추후에 커밋함)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;장고(파이썬) 개발 에디터 파이참 설치하기.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이참은 &lt;a href=&quot;http://www.jetbrains.com/ko-kr/pycharm/download/#section=windows&quot;&gt;www.jetbrains.com/ko-kr/pycharm/download/#section=windows&lt;/a&gt; 에서 설치 가능하며 &lt;Next&gt;만 선택하면 된다.
-파이참 실행 후 &lt;Open&gt;으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;파이참 인터프리터 설정&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이참 메뉴에서 [File -&gt; Setting] -&gt; [Project: mysite -&gt; project Interpreter] -&gt; [Python Interpreter}의 톱니바퀴 모양에서 &lt;Add&gt; -&gt; &lt;Existing enviroment&gt; -&gt; [Interpreter]오른쪽의 &amp;#x3C;…&gt; -&gt; D:\venvs\mysite\Scripts\python.exe 선택
-파이참에서 setting.py 파일의 [LANGUAGE_CODE]와 [TIME_ZONE]설정값을 수정한다.(언어와 시간을 한국으로 설정)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;LANGUAGE_CODE = &apos;ko-kr&apos;
-TIME_ZONE = &apos;Asia/Seoul&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;서버 구동시 언어가 한국어로 바뀌어 있다!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Numpy 튜토리얼]]></title><description><![CDATA[Numpy 튜토리얼 넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다. 목차 1. 기초개념 2. 행렬 변경 3. 데이터 복사 기초 개념 Numpy…]]></description><link>https://bosoek.github.io/Numpy/</link><guid isPermaLink="false">https://bosoek.github.io/Numpy/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Numpy 튜토리얼]]></title><description><![CDATA[Numpy 튜토리얼 넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다. 기초 개념 Numpy…]]></description><link>https://bosoek.github.io/Numpy/</link><guid isPermaLink="false">https://bosoek.github.io/Numpy/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Numpy 튜토리얼&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다.&lt;/p&gt;
@@ -332,18 +265,6 @@ pip install numpy
 
 # 패키지 추가
 import numpy as np&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;목차&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EA%B8%B0%EC%B4%88-%EA%B0%9C%EB%85%90&quot;&gt;1. 기초개념&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%ED%96%89%EB%A0%AC-%EB%B3%80%EA%B2%BD&quot;&gt;2. 행렬 변경&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%B5%EC%82%AC&quot;&gt;3. 데이터 복사&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;기초 개념&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -475,12 +396,129 @@ print(np.hsplit(a, (3,4)))
 &lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;a = b.copy()&lt;/code&gt; : a와 b가 같은 데이터를 가진다.(한 변수 값을 바꾸면 다른 변수 값 안바뀜)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;참고 사이트 : 괭이쟁이(&lt;a href=&quot;https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/&quot;&gt;https://laboputer.github.io/machine-learning/2020/04/25/numpy-quickstart/&lt;/a&gt;)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Matplotlib 튜토리얼]]></title><description><![CDATA[Matplotlib 튜토리얼 Matplotlib은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
-matplotlib.pyplot 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다. 목차 1. 기본 그래프 2. 축 레이블 및 범위 설정…]]></description><link>https://bosoek.github.io/matplotlib/</link><guid isPermaLink="false">https://bosoek.github.io/matplotlib/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;Matplotlib 튜토리얼&lt;/h1&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Matplotlib은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
-matplotlib.pyplot 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다.&lt;/p&gt;
+&lt;h3&gt;기계 지능은 인류가 만들어야 할 마지막 발명품입니다. - 닉 보스 트롬(Nick Boss Tromm)&lt;/h3&gt;
+&lt;p&gt;Mechanical intelligence is the last invention that mankind should make.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Django 개발 환경 구축하기]]></title><description><![CDATA[Django 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/Django_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/Django_Setting/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Django 개발 환경 구축하기&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
+&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python -m venv&lt;/code&gt;는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+&lt;code class=&quot;language-text&quot;&gt;mysite&lt;/code&gt;는 만들 가상환경 이름이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;code class=&quot;language-text&quot;&gt;activate&lt;/code&gt; 명령 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
+D:\venvs\mysite\Scripts&gt; activate
+(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;code class=&quot;language-text&quot;&gt;deactivate&lt;/code&gt; 을 사용한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 설치하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 가상환경안에서 설치한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install django==3.1.3
+(가상환경명) D:\venvs\mysite\Scripts&gt; python -m pip install --upgrade pip&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;첫번째 pip는 장고 3.1.3 버전을 설치하라는 명령어.
+두번재 pip는 장고를 최신 버전으로 설치하라는 명령어.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 생성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고의 플로젝트란 하나의 웹사이트이며 하나의 프로젝트 안에는 여러 앱이 존재하고, 이러한 앱들이 모여 웹 사이트를 구성한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 디렉터리 생성하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 프로젝트가 여러개가 될수 있으므로 프로젝트 &lt;strong&gt;루트 디렉터리 생성&lt;/strong&gt; 이 필수다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\&gt;mkdir projects
+D:\&gt;cd projects(루트 디렉터리 이름)
+D:\projects&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 루트 디렉터리 안에서 가상 환경에 진입하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\projects&gt;D:\venvs\mysite\Scripts\activate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 프로젝트 생성 &amp;#x26; 이동하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\projects&gt;mkdir mysite(장고 프로젝트를 담을 디렉터리)
+(가상환경명) D:\projects&gt;cd mysite
+(가상환경명) D:\projects\mysite&gt;
+(가상환경명) D:\projects\mysite&gt;django-admin startproject config .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고 프로젝트는 가상 환경에서 django-admin으로 생성 가능하다.
+이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;개발 서버 구동 &amp;#x26; 종료하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python manage.py runserver&lt;/code&gt; 명령으로 개발 서버가 구동되며 &lt;code class=&quot;language-text&quot;&gt;Ctrl+C&lt;/code&gt;를 누르면 개발 서버가 종료된다.
+개발 서버는 &lt;code class=&quot;language-text&quot;&gt;127.0.0.1:8000&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;localhost:8000&lt;/code&gt;에서 장고의 기본 웹사이트를 볼수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Path 환경변수를 통한 가상 환경 진입 -&gt; 방법을 못찾음(추후에 커밋함)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;장고(파이썬) 개발 에디터 파이참 설치하기.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참은 &lt;a href=&quot;http://www.jetbrains.com/ko-kr/pycharm/download/#section=windows&quot;&gt;www.jetbrains.com/ko-kr/pycharm/download/#section=windows&lt;/a&gt; 에서 설치 가능하며 &lt;Next&gt;만 선택하면 된다.
+파이참 실행 후 &lt;Open&gt;으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;파이참 인터프리터 설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참 메뉴에서 &lt;code class=&quot;language-text&quot;&gt;[File -&gt; Setting] -&gt; [Project: mysite -&gt; project Interpreter] -&gt; [Python Interpreter]&lt;/code&gt;의 톱니바퀴 모양에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Add&gt; -&gt; &amp;lt;Existing enviroment&gt; -&gt; [Interpreter]&lt;/code&gt;오른쪽의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;...&gt; -&gt; D:\venvs\mysite\Scripts\python.exe&lt;/code&gt; 선택
+파이참에서 setting.py 파일의 &lt;code class=&quot;language-text&quot;&gt;[LANGUAGE_CODE]&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;[TIME_ZONE]&lt;/code&gt;설정값을 수정한다.(언어와 시간을 한국으로 설정)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;LANGUAGE_CODE = &apos;ko-kr&apos;
+TIME_ZONE = &apos;Asia/Seoul&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;서버 구동시 언어가 한국어로 바뀌어 있다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;품질이란 누가 보지 않을 때에도 제대로 돌아가는 걸 뜻한다. - 헨리 포드&lt;/h3&gt;
+&lt;p&gt;Quality means that it works properly when no one looks at it.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Matplotlib Tutorial]]></title><description><![CDATA[Matplotlib Tutorial 은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
+ 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다. 기본 그래프 pyplot.show() 그렸던 그래프들 출력하는 함수 pyplot.plot…]]></description><link>https://bosoek.github.io/matplotlib/</link><guid isPermaLink="false">https://bosoek.github.io/matplotlib/</guid><pubDate>Tue, 20 Jul 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Matplotlib Tutorial&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Matplotlib&lt;/code&gt;은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
+&lt;code class=&quot;language-text&quot;&gt;matplotlib.pyplot&lt;/code&gt; 모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 설치 코드
 pip search matplotlib
@@ -490,39 +528,6 @@ pip install --upgrade matplotlib
 # 패키지 추가
 import matplotlib.pyplot as plt
 %matplotlib inline # jupyter에서 Shift+Enter를 치지 않고 Run으로 실행하여 그래프를 그릴 수 있음.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;목차&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EA%B8%B0%EB%B3%B8-%EA%B7%B8%EB%9E%98%ED%94%84&quot;&gt;1. 기본 그래프&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EC%B6%95-%EB%A0%88%EC%9D%B4%EB%B8%94-%EB%B0%8F-%EB%B2%94%EC%9C%84-%EC%84%A4%EC%A0%95&quot;&gt;2. 축 레이블 및 범위 설정&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9E%98%ED%94%84-%EC%98%81%EC%97%AD-%EC%B1%84%EC%9A%B0%EA%B8%B0&quot;&gt;3. 그래프 영역 채우기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EA%B7%B8%EB%A6%AC%EB%93%9C-%EB%B0%8F-%EB%88%88%EA%B8%88-%ED%91%9C%EC%8B%9C%ED%95%98%EA%B8%B0&quot;&gt;4. 그리드 및 눈금 표시&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EC%88%98%EC%A7%81%EC%84%A0/%EC%88%98%ED%8F%89%EC%84%A0-%ED%91%9C%EC%8B%9C&quot;&gt;5. 수직선/수평선 표시&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EB%A7%89%EB%8C%80-%EA%B7%B8%EB%9E%98%ED%94%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;6. 막대 그래프 그리기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EC%82%B0%EC%A0%90%EB%8F%84-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;7. 산점도 그리기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%ED%9E%88%EC%8A%A4%ED%86%A0%EA%B7%B8%EB%9E%A8-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;8. 히스토그램 그리기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%EC%98%A4%EC%B0%A8%EB%A7%89%EB%8C%80-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;9. 오차막대 그리기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;&lt;a href=&quot;#%ED%8C%8C%EC%9D%B4-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0&quot;&gt;10. 파이(원형)차트 그리기&lt;/a&gt;&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2&gt;기본 그래프&lt;/h2&gt;
 &lt;ul&gt;
@@ -546,123 +551,55 @@ import matplotlib.pyplot as plt
 &lt;p&gt;&lt;strong&gt;plot() 함수에 매개변수에 ‘bo’(파란 원형마커) 형식으로 색과 마커 방식을 지정할 수 있다&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;Color&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;‘b’처럼 일반 지정도 되고 color=‘green’ 처럼 키워드로 지정해도 된다. 단, 키워드 지정에서는 css 색상과 Hex code도 사용할 수 있다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;b&lt;/code&gt;처럼 일반 지정도 되고 &lt;code class=&quot;language-text&quot;&gt;color=&apos;green&apos;&lt;/code&gt; 처럼 키워드로 지정해도 된다. 단, 키워드 지정에서는 css 색상과 Hex code도 사용할 수 있다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;‘b’ : blue&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘g’ : green&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘r’ : red&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘c’ : cyan&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘m’ : magenta&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘y’ : yellow&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘k’ : black&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘w’ : white&lt;/h4&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;b&lt;/code&gt; : blue&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;g&lt;/code&gt; : green&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;r&lt;/code&gt; : red&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;c&lt;/code&gt; : cyan&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;m&lt;/code&gt; : magenta&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;y&lt;/code&gt; : yellow&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;k&lt;/code&gt; : black&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;w&lt;/code&gt; : white&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Line Styles&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;’-‘처럼 일반 지정도 되고 linestyle=’-‘처럼 키워드로 지정해도 된다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;-&lt;/code&gt;처럼 일반 지정도 되고 &lt;code class=&quot;language-text&quot;&gt;linestyle=&apos;-&apos;&lt;/code&gt;처럼 키워드로 지정해도 된다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;’-’ : 실선 스타일&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’—’ : 파선 스타일&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’-.’ : 점-선 스타일&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’:’ : 점선 스타일&lt;/h4&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;-&lt;/code&gt; : 실선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;--&lt;/code&gt; : 파선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;-.&lt;/code&gt; : 점-선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;:&lt;/code&gt; : 점선 스타일&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Markers&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;‘o’처럼 일반 지정도 되고 marker=‘o’처럼 키워드로 지정해도 된다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;o&lt;/code&gt;처럼 일반 지정도 되고 &lt;code class=&quot;language-text&quot;&gt;marker=&apos;o&apos;&lt;/code&gt;처럼 키워드로 지정해도 된다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;h4&gt;’.’ : 포인트&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’,’ : 픽셀&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘o’ : 원형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘v’ : 아래쪽 삼각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’^’ : 위쪽 삼각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’&amp;#x3C;’ : 왼쪽 삼각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’&gt;’ : 오른쪽 삼각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘1’ : 아래쪽 삼각별&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘2’ : 위쪽 삼각별&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘3’ : 왼쪽 삼각별&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘4’ : 오른쪽 삼각별&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’s’ : 사각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘p’ : 오각형&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’*’ : 별&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘h’ : 육각형 1&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘H’ : 육각형 2&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’+’ : + 마크&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘x’ : x 마크&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘D’ : 다이아몬드&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;‘d’ : 앏은 다이아몬드&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’|’ : | 마크&lt;/h4&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h4&gt;’_’ : _ 마크&lt;/h4&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;.&lt;/code&gt; : 포인트&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;,&lt;/code&gt; : 픽셀&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;o&lt;/code&gt; : 원형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;v&lt;/code&gt; : 아래쪽 삼각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;^&lt;/code&gt; : 위쪽 삼각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;&lt;/code&gt; : 왼쪽 삼각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;&gt;&lt;/code&gt; : 오른쪽 삼각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;1&lt;/code&gt; : 아래쪽 삼각별&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;2&lt;/code&gt; : 위쪽 삼각별&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;3&lt;/code&gt; : 왼쪽 삼각별&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;4&lt;/code&gt; : 오른쪽 삼각별&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;s&lt;/code&gt; : 사각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;p&lt;/code&gt; : 오각형&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt; : 별&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;h&lt;/code&gt; : 육각형 1&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;H&lt;/code&gt; : 육각형 2&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt; : + 마크&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;x&lt;/code&gt; : x 마크&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;D&lt;/code&gt; : 다이아몬드&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;d&lt;/code&gt; : 앏은 다이아몬드&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;|&lt;/code&gt; : | 마크&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;_&lt;/code&gt; : _ 마크&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -670,13 +607,14 @@ import matplotlib.pyplot as plt
 &lt;blockquote&gt;
 &lt;p&gt;그래프의 제목 지정(타이틀을 여러개 지정할 수도 있다)&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;매개변수로 타이틀 글을 준다&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;매개변수로 타이틀 글을 준다&lt;/li&gt;
-&lt;li&gt;loc = ‘right/left/center’ : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다&lt;/li&gt;
-&lt;li&gt;pad : 타이틀과 그래프와의 관계를 설정한다.&lt;/li&gt;
-&lt;li&gt;fontdict : fontsize(포인트 단위 숫자나 ‘smaller’, ‘x-large’ 등의 상대적인 설정)와 fontweight(‘normal’, ‘bold’, ‘heavy’, ‘light’, ‘ultrabold’, ‘ultralight’ 설정 가능)를 딕셔너리 형태로 받는다&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;loc = &apos;right/left/center&apos;&lt;/code&gt; : 타이틀을 오른쪽(right) 위, 왼쪽(left) 위, 가운데(center) 위에 나타나게 한다&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;pad&lt;/code&gt; : 타이틀과 그래프와의 관계를 설정한다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;fontdict&lt;/code&gt; : fontsize(포인트 단위 숫자나 &lt;code class=&quot;language-text&quot;&gt;smaller&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;x-large&lt;/code&gt; 등의 상대적인 설정)와 fontweight(&lt;code class=&quot;language-text&quot;&gt;normal&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;bold&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;heavy&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;light&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;ultrabold&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;ultralight&lt;/code&gt; 설정 가능)를 딕셔너리 형태로 받는다&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.title(&apos;Sample graph&apos;, loc=&apos;right&apos;, pad=20)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+plt.title(&apos;Sample graph&apos;, loc=&apos;right&apos;, pad=20)
 title_font = {
     &apos;fontsize&apos;: 16,
     &apos;fontweight&apos;: &apos;bold&apos;
@@ -689,30 +627,13 @@ plt.title(&apos;Sample graph&apos;, fontdict=title_font, loc=&apos;left&apos;, p
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h3&gt;xlabel()&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;그래프에서 x축에 대한 레이블 표시&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;표시할 레이블을 인수로 받는다&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+그래프에서 x축에 대한 레이블 표시(표시할 레이블을 인수로 받는다)&lt;/li&gt;
 &lt;li&gt;
 &lt;h3&gt;ylabel()&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;그래프에서 y축에 대한 레이블 표시&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;표시할 레이블을 인수로 받는다&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+그래프에서 y축에 대한 레이블 표시(표시할 레이블을 인수로 받는다)&lt;/li&gt;
 &lt;li&gt;
 &lt;h3&gt;axis()&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;x, y축이 표시되는 범위를 지정&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;매개변수 : (xmin, xmax, ymin, ymax)&lt;/li&gt;
-&lt;/ul&gt;
+x, y축이 표시되는 범위를 지정(매개변수 : &lt;code class=&quot;language-text&quot;&gt;xmin&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;xmax&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;ymin&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;ymax&lt;/code&gt;)
 &lt;strong&gt;입력값이 없으면 데이터에 맞게 자동으로 범위를 지정함&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;그래프 영역 채우기&lt;/h2&gt;
@@ -728,7 +649,8 @@ plt.title(&apos;Sample graph&apos;, fontdict=title_font, loc=&apos;left&apos;, p
 &lt;li&gt;color : 색 지정&lt;/li&gt;
 &lt;li&gt;alpha : 투명도(1이 최대)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+x = [1, 2, 3, 4]
 y = [1, 4, 9, 16]
 plt.plot(x, y)
 plt.fill_between(x[1:3], y[1:3], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -748,7 +670,8 @@ plt.fill_between(x[1:3], y[1:3], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;li&gt;color : 색 지정&lt;/li&gt;
 &lt;li&gt;alpha : 투명도(1이 최대)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.plot(x, y)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+plt.plot(x, y)
 plt.fill_between(y[2:4]), x[2:4], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;(x[2], y[2]), (x[3], y[3]), (0, y[2]), (0, y[3])을 잇는 영역이 채워진다&lt;/p&gt;
@@ -765,7 +688,8 @@ plt.fill_between(y[2:4]), x[2:4], alpha=0.5)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt
 &lt;li&gt;영역을 채울 두 그래프의 Y값 지정&lt;/li&gt;
 &lt;li&gt;나머지는 동일&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+x = [1, 2, 3, 4]
 y1 = [1, 4, 9, 16]
 y2 = [1, 2, 4, 8]
 
@@ -784,7 +708,8 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;ul&gt;
 &lt;li&gt;영역을 그릴 4가지 지점의 X, Y좌표 지정&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+plt.fill([1.9, 1.9, 3.1, 3.1], [2, 5, 11, 8])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118951957-7db24480-b996-11eb-8499-76ec25abc172.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -796,12 +721,12 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;p&gt;그래프에 격자 표시&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;True : True로 설정시 그리드 표시됨(X, Y). default는 False.&lt;/li&gt;
-&lt;li&gt;axis = ‘both/x/y’ : 그리드 방향 지정. default는 both&lt;/li&gt;
-&lt;li&gt;color : 색 지정&lt;/li&gt;
-&lt;li&gt;alpha : 투명도&lt;/li&gt;
-&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
-&lt;li&gt;which = ‘major/minor/both’ : 주눈금, 보조눈금 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;True&lt;/code&gt; : True로 설정시 그리드 표시됨(X, Y). default는 False.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;axis&lt;/code&gt; = ‘both/x/y’ : 그리드 방향 지정. default는 both&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 색 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;alpha&lt;/code&gt; : 투명도&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linestyle&lt;/code&gt; : 선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;which&lt;/code&gt; = ‘major/minor/both’ : 주눈금, 보조눈금 표시&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -811,7 +736,7 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;리스트나 넘파이 배열을 입력시 해당 위치에 눈금 &amp;#x26; 숫자 레이블 표시&lt;/li&gt;
-&lt;li&gt;labels = [‘1번’, ‘2번’ …] : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;labels = [&apos;1번&apos;, &apos;2번&apos; ...]&lt;/code&gt; : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;lebels 파라미터 대신 튜블로 지정해도 가능&lt;/p&gt;
@@ -824,7 +749,7 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;리스트나 넘파이 배열을 입력시 해당 위치에 눈금 &amp;#x26; 숫자 레이블 표시&lt;/li&gt;
-&lt;li&gt;labels = [‘1번’, ‘2번’ …] : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;labels = [&apos;1번&apos;, &apos;2번&apos; ...]&lt;/code&gt; : 눈금 레이블을 명시적으로 지정 가능&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;lebels 파라미터 대신 튜블로 지정해도 가능&lt;/p&gt;
@@ -836,18 +761,18 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;p&gt;눈금 스타일 지정&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;axis : 설정 적용 축 지정(X, Y, both)&lt;/li&gt;
-&lt;li&gt;direction : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)&lt;/li&gt;
-&lt;li&gt;length : 눈금이 길이&lt;/li&gt;
-&lt;li&gt;pad : 눈금과 레이블과의 거리&lt;/li&gt;
-&lt;li&gt;labelsize : 레이블의 크기 지정&lt;/li&gt;
-&lt;li&gt;labelcolor : 레이블의 색상 지정&lt;/li&gt;
-&lt;li&gt;top = True : 눈금이 위에 표시됨(default:False)&lt;/li&gt;
-&lt;li&gt;bottom = True : 눈금이 아래에 표시됨(default:False)&lt;/li&gt;
-&lt;li&gt;left = True : 눈금이 왼쪽에 표시됨(default:False)&lt;/li&gt;
-&lt;li&gt;right = True : 눈금이 오른쪽에 표시됨(default:False)&lt;/li&gt;
-&lt;li&gt;width : 눈금의 너비 지정&lt;/li&gt;
-&lt;li&gt;color : 눈금의 색상 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;axis&lt;/code&gt; : 설정 적용 축 지정(X, Y, both)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;direction&lt;/code&gt; : 눈금 안/밖 표시 지정(in:안, out:밖, inout:둘다)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;length&lt;/code&gt; : 눈금이 길이&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;pad&lt;/code&gt; : 눈금과 레이블과의 거리&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;labelsize&lt;/code&gt; : 레이블의 크기 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;labelcolor&lt;/code&gt; : 레이블의 색상 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;top&lt;/code&gt; = True : 눈금이 위에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;bottom&lt;/code&gt; = True : 눈금이 아래에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;left&lt;/code&gt; = True : 눈금이 왼쪽에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;right&lt;/code&gt; = True : 눈금이 오른쪽에 표시됨(default:False)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;width&lt;/code&gt; : 눈금의 너비 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 눈금의 색상 지정&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -867,9 +792,9 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;p&gt;xmin과 xmax에 선이 생기는 것&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;color : 색&lt;/li&gt;
-&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
-&lt;li&gt;linewidth = 선 두께(수 지정)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linestyle&lt;/code&gt; : 선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; = 선 두께(수 지정)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -886,11 +811,12 @@ plt.fill_between(x[1:3], y1[1:3], y2[1:3])
 &lt;p&gt;xmin과 xmax에 선이 생기는 것&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;color : 색&lt;/li&gt;
-&lt;li&gt;linestyle : 선 스타일&lt;/li&gt;
-&lt;li&gt;linewidth = 선 두께(수 지정)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linestyle&lt;/code&gt; : 선 스타일&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; = 선 두께(수 지정)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;a = np.arange(0, 2, 0.2)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+a = np.arange(0, 2, 0.2)
 plt.plot(a, a, &apos;bo&apos;)
 plt.plot(a, a**2, color=&apos;#e35f62&apos;, marker=&apos;*&apos;, linewidth=2)
 plt.plot(a, a**3, color=&apos;springgreen&apos;, marker=&apos;^&apos;, markersize=9)
@@ -917,8 +843,8 @@ plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;점(xmin, y)에서 점(xmax, y)를 따라 수평선 표시&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;color : 색&lt;/li&gt;
-&lt;li&gt;linewidth : 선두께&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; : 선두께&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -935,10 +861,11 @@ plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;점(x, ymin)에서 점(x, ymax)를 따라 수평선 표시&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;color : 색&lt;/li&gt;
-&lt;li&gt;linewidth : 선두께&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; : 선두께&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;plt.hlines(4, 1, 1.6, colors=&apos;pink&apos;, linewidth=3)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+plt.hlines(4, 1, 1.6, colors=&apos;pink&apos;, linewidth=3)
 plt.vlines(1, 1, 4, colors=&apos;pink&apos;, linewidth=3) &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118964444-785af700-b9a2-11eb-9238-095c84cbb879.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -953,15 +880,16 @@ plt.vlines(1, 1, 4, colors=&apos;pink&apos;, linewidth=3) &lt;/code&gt;&lt;/pre&
 &lt;ul&gt;
 &lt;li&gt;첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])&lt;/li&gt;
 &lt;li&gt;두번째 인자 : 넘파이 배열에 해당하는 리스트 입력&lt;/li&gt;
-&lt;li&gt;width : 막대의 너비(default : 0.8)&lt;/li&gt;
-&lt;li&gt;align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 왼쪽에 틱이 표시됨)&lt;/li&gt;
-&lt;li&gt;color : 막대의 색&lt;/li&gt;
-&lt;li&gt;edgecolor : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
-&lt;li&gt;linewidth : 테두리 두께 지정&lt;/li&gt;
-&lt;li&gt;tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
-&lt;li&gt;log = True : Y축 로그 스케일로 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;width&lt;/code&gt; : 막대의 너비(default : 0.8)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;align&lt;/code&gt; : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 왼쪽에 틱이 표시됨)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 막대의 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;edgecolor&lt;/code&gt; : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; : 테두리 두께 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tick_label&lt;/code&gt; : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;log = True&lt;/code&gt; : Y축 로그 스케일로 표시&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = np.arange(3)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+x = np.arange(3)
 years = [&apos;2017&apos;, &apos;2018&apos;, &apos;2019&apos;]
 values = [100, 400, 900]
 plt.bar(x, values, width=0.6, align=&apos;edge&apos;, color=&quot;springgreen&quot;,
@@ -975,15 +903,16 @@ plt.bar(x, values, width=0.6, align=&apos;edge&apos;, color=&quot;springgreen&qu
 &lt;ul&gt;
 &lt;li&gt;첫번째 인자 : 넘파이 배열로 막대 그래프 개수 지정(총 3개면 [0, 1, 2])&lt;/li&gt;
 &lt;li&gt;두번째 인자 : 넘파이 배열에 해당하는 리스트 입력&lt;/li&gt;
-&lt;li&gt;height : 막대의 높이(default : 0.8)&lt;/li&gt;
-&lt;li&gt;align : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 아래쪽에 틱이 표시됨)&lt;/li&gt;
-&lt;li&gt;color : 막대의 색&lt;/li&gt;
-&lt;li&gt;edgecolor : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
-&lt;li&gt;linewidth : 테두리 두께 지정&lt;/li&gt;
-&lt;li&gt;tick_label : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
-&lt;li&gt;log = True : X축 로그 스케일로 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;height&lt;/code&gt; : 막대의 높이(default : 0.8)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;align&lt;/code&gt; : 틱과 막대의 위치 조절(default : center, edge로 설정시 막대 아래쪽에 틱이 표시됨)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;color&lt;/code&gt; : 막대의 색&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;edgecolor&lt;/code&gt; : 막대의 테두리 색을 지정(css타입 가능)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;linewidth&lt;/code&gt; : 테두리 두께 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;tick_label&lt;/code&gt; : 리스트 형태로 지정시 틱에 리스트 문자열을 순서대로 나타낼 수 있다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;log&lt;/code&gt; = True : X축 로그 스케일로 표시&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;y = np.arange(3)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+y = np.arange(3)
 years = [&apos;2017&apos;, &apos;2018&apos;, &apos;2019&apos;]
 values = [100, 400, 900]
 
@@ -1005,9 +934,9 @@ plt.barh(y, values, height=-0.6, align=&apos;edge&apos;, color=&quot;springgreen
 &lt;ul&gt;
 &lt;li&gt;X : X위치&lt;/li&gt;
 &lt;li&gt;Y : Y위치&lt;/li&gt;
-&lt;li&gt;s = ‘크기’ : 마커의 면적&lt;/li&gt;
-&lt;li&gt;c = ‘색’ : 마커의 색깔&lt;/li&gt;
-&lt;li&gt;alpha = 값 : 투명도&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;s = &apos;크기&apos;&lt;/code&gt; : 마커의 면적&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;c = &apos;색&apos;&lt;/code&gt; : 마커의 색깔&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;alpha = 값&lt;/code&gt; : 투명도&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;각각의 인자들은 리스트 형태로 여러개 지정하여 한번에 여러개의 마커들을 만들 수도 있다.&lt;/p&gt;
@@ -1028,13 +957,13 @@ plt.barh(y, values, height=-0.6, align=&apos;edge&apos;, color=&quot;springgreen
 &lt;p&gt;매개인자들&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;X : X좌표&lt;/li&gt;
-&lt;li&gt;Y : Y좌표&lt;/li&gt;
-&lt;li&gt;Z : Z좌표&lt;/li&gt;
-&lt;li&gt;c =‘색’ : 색깔&lt;/li&gt;
-&lt;li&gt;marker=‘마크’ : 마크 형태&lt;/li&gt;
-&lt;li&gt;s=값 : 크기&lt;/li&gt;
-&lt;li&gt;cmap = ‘색’ : 맵 색깔&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;X&lt;/code&gt; : X좌표&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;Y&lt;/code&gt; : Y좌표&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;Z&lt;/code&gt; : Z좌표&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;c =&apos;색&apos;&lt;/code&gt; : 색깔&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;marker=&apos;마크&apos;&lt;/code&gt; : 마크 형태&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;s=값&lt;/code&gt; : 크기&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;cmap = &apos;색&apos;&lt;/code&gt; : 맵 색깔&lt;/li&gt;
 &lt;/ul&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118970084-cbd04380-b9a8-11eb-860f-68bfe6dc4a49.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1047,12 +976,13 @@ plt.barh(y, values, height=-0.6, align=&apos;edge&apos;, color=&quot;springgreen
 &lt;h3&gt;hist()&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;첫번째 인자 : 리스트 형태로 값 입력&lt;/li&gt;
-&lt;li&gt;bins = 값 : 몇 개의 영역으로 쪼갤지 설정&lt;/li&gt;
-&lt;li&gt;density = True : 밀도 함수가 되어 막대 아래 면적이 1이된다.&lt;/li&gt;
-&lt;li&gt;alpha : 투명도&lt;/li&gt;
-&lt;li&gt;histtype = ‘step/stepfilled’ : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;bins = 값&lt;/code&gt; : 몇 개의 영역으로 쪼갤지 설정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;density = True&lt;/code&gt; : 밀도 함수가 되어 막대 아래 면적이 1이된다.&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;alpha&lt;/code&gt; : 투명도&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;histtype = &apos;step/stepfilled&apos;&lt;/code&gt; : step은 막대 내부가 비어있고, stepfiled는 막대 내부가 채워진다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;a = 2.0 * np.random.randn(10000) + 1.0
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+a = 2.0 * np.random.randn(10000) + 1.0
 b = np.random.standard_normal(10000)
 c = 20.0 * np.random.rand(5000) - 10.0
 
@@ -1073,13 +1003,14 @@ plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;에러바 그래프를 그릴 수 있다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;x : X값&lt;/li&gt;
-&lt;li&gt;y : Y값&lt;/li&gt;
-&lt;li&gt;yerr = yerr값 : 데이터 편차 리스트&lt;/li&gt;
-&lt;li&gt;uplims = True/False : 상한가 기호 표시&lt;/li&gt;
-&lt;li&gt;lolims = True/False : 하한가 기호 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;x&lt;/code&gt; : X값&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;y&lt;/code&gt; : Y값&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;yerr = yerr값&lt;/code&gt; : 데이터 편차 리스트&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;uplims = True/False&lt;/code&gt; : 상한가 기호 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;lolims = True/False&lt;/code&gt; : 하한가 기호 표시&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;x = [1, 2, 3, 4]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+x = [1, 2, 3, 4]
 y = [1, 4, 9, 16]
 yerr = [2.3, 3.1, 1.7, 2.5]
 
@@ -1109,16 +1040,17 @@ plt.errorbar(x, y, yerr=yerr)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;pie()&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;첫번째 인자 : 각 영역의 비율 리스트&lt;/li&gt;
-&lt;li&gt;labels = 리스트 : 각 영역의 이름 리스트&lt;/li&gt;
-&lt;li&gt;autopct = ‘%.1f%%’ : 표시될 숫자의 형식&lt;/li&gt;
-&lt;li&gt;startangle = 값 : 시작 각도(default : 0도) 지정&lt;/li&gt;
-&lt;li&gt;counterclock = False : 시계 방향 순서로 부채꼴 영역이 표시됨&lt;/li&gt;
-&lt;li&gt;explode = 리스트 : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)&lt;/li&gt;
-&lt;li&gt;shadow = True : 그림자 표시&lt;/li&gt;
-&lt;li&gt;colors = 리스트 : 각 영역당 색상 지정(리스트로)&lt;/li&gt;
-&lt;li&gt;wedgeprops = 딕셔너리 : 부채꼴 영역의 스타일 설정(딕셔너리의 ‘width’-너비, ‘edgecolor’- 테두리 색깔, ‘linewidth’- 테두리 선의 너비)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;labels = 리스트&lt;/code&gt; : 각 영역의 이름 리스트&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;autopct = &apos;%.1f%%&apos;&lt;/code&gt; : 표시될 숫자의 형식&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;startangle = 값&lt;/code&gt; : 시작 각도(default : 0도) 지정&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;counterclock = False&lt;/code&gt; : 시계 방향 순서로 부채꼴 영역이 표시됨&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;explode = 리스트&lt;/code&gt; : 부채꼴이 파이 차트 중심에서 벗어나는 정도를 설정(각각의 영역에 따라 리스트로 지정)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;shadow = True&lt;/code&gt; : 그림자 표시&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;colors = 리스트&lt;/code&gt; : 각 영역당 색상 지정(리스트로)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;wedgeprops = 딕셔너리&lt;/code&gt; : 부채꼴 영역의 스타일 설정(딕셔너리의 ‘width’-너비, ‘edgecolor’- 테두리 색깔, ‘linewidth’- 테두리 선의 너비)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;ratio = [34, 32, 16, 18]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+ratio = [34, 32, 16, 18]
 labels = [&apos;Apple&apos;, &apos;Banana&apos;, &apos;Melon&apos;, &apos;Grapes&apos;]
 colors = [&apos;#ff9999&apos;, &apos;#ffc000&apos;, &apos;#8fd9b6&apos;, &apos;#d395d0&apos;]
 wedgeprops={&apos;width&apos;: 0.7, &apos;edgecolor&apos;: &apos;w&apos;, &apos;linewidth&apos;: 5}
@@ -1126,19 +1058,185 @@ wedgeprops={&apos;width&apos;: 0.7, &apos;edgecolor&apos;: &apos;w&apos;, &apos;
 plt.pie(ratio, labels=labels, autopct=&apos;%.1f%%&apos;, startangle=260, counterclock=False, colors=colors, wedgeprops=wedgeprops)
 plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/68007145/118972808-ee179080-b9ab-11eb-9ed3-e409211cb310.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[분류 모델 성능 평가 지표]]></title><description><![CDATA[분류 모델 성능 평가 지표 분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다. 그럼 이때 정답을 맞히거나 틀리는 경우들이 뭐가 있을까? 이때 생기는 개념이 1종 오류, 2종 오류이며 각 오류는 분류 과제 성격에 따라 검증이 다르다.…]]></description><link>https://bosoek.github.io/Classification-performance-evaluation/</link><guid isPermaLink="false">https://bosoek.github.io/Classification-performance-evaluation/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;인간이 인간이라도 믿도록 속일 수 있다면&lt;/h3&gt;
+&lt;p&gt;computers are intelligent if you can deceive people&lt;/p&gt;
+&lt;h3&gt;컴퓨터는 지능적이라고 할 만합니다. -앨런 튜링(Allen Turing)&lt;/h3&gt;
+&lt;p&gt;to believe they are humans.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Keras 모델 생성 방법(Keras models)]]></title><description><![CDATA[Keras 모델 생성 방법(Keras models) 케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총…]]></description><link>https://bosoek.github.io/model_Creation/</link><guid isPermaLink="false">https://bosoek.github.io/model_Creation/</guid><pubDate>Sun, 11 Jul 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Keras 모델 생성 방법(Keras models)&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;img src=&quot;https://wikidocs.net/images/page/106897/1_WzwKtnA0LEhiCGdWTTpLaA.png&quot; width=&quot;700&quot;&gt;
+&lt;p&gt;오늘은 각 방식을 사용하며 모델을 생성하는 방법을 공부해 봅니다.&lt;/p&gt;
+&lt;h3&gt;1. Sequential API를 사용한 모델 생성&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sequential() 함수로 model 박스를 생성 후 add() 함수로 레이어들을 선택해 모델에 넣어준다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;직관적이고 ML 책에서 많이 사용되는 방식이다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 단순하게 층을 샇는 방식으로 쉽고 사용하기가 간단하다.&lt;/li&gt;
+&lt;li&gt;단점 : 다수의 입출력을 가진 모델 또는 층 간의 연결이나 덧셈 같은 연산 모델 구현에는 적합하지 않다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+from keras.models import Sequential
+from keras.layers import Dense, Activation
+
+model = Sequential([
+    Dense(32, activate=&apos;relu&apos;, input_shape=(784,)),
+    Dense(10, activate=&apos;softmax&apos;)
+])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;model = Sequential()
+model.add(Dense(32, activate=&apos;relu&apos;, input_dim=784))
+model.add(Dense(10, activate=&apos;softmax&apos;))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. Functional API를 이용한 모델 생성&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;input Layer를 변수에 정의한다.&lt;/li&gt;
+&lt;li&gt;Dense Layer를 선언시에는 이전 레이어의 변수 정보를 레이어 선언 뒤에 ()가로로 넣어줘야한다.&lt;/li&gt;
+&lt;li&gt;Model Class 방식은 &lt;strong&gt;input layer를 input 함수&lt;/strong&gt; 로, &lt;strong&gt;Dense layer를 output 함수&lt;/strong&gt; 로 넣어 모델을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;multi input과 multi output의 정의가 용이하다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : 구현하기 어려운 복잡한 모델들을 구현할 수 있다.&lt;/li&gt;
+&lt;li&gt;단점 : 입력층을 모델의 앞단에 정의해야 한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+inputs = Input(shape=(1,)) # &amp;lt;-- 해당 부분
+output = Dense(1, activation=&apos;linear&apos;)(inputs)
+linear_model = Model(inputs, output)
+
+sgd = optimizers.SGD(lr=0.01)
+
+linear_model.compile(optimizer=sgd, loss=&apos;mse&apos;, metrics=[&apos;mse&apos;])
+linear_model.fit(X, y, epochs=300)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. Subclassing API로 인공지능 망 만들기&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;init&lt;/strong&gt; 함수로 클래스의 매개변수를 지정한다.&lt;/li&gt;
+&lt;li&gt;매개변수 정보를 이용해 layer들을 선언한다&lt;/li&gt;
+&lt;li&gt;call 같은 특정 함수로 모델을 반환한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;모델 레이어를 세세하게 수정하고, 모델을 여러번 만들어야 하는 연구등에 사용된다.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;장점 : Functional API로도 구현 안되는 모델들도 구현이 가능하다.&lt;/li&gt;
+&lt;li&gt;단점 : 객체 지향 프로그래밍에 익숙해야 하고 코드 사용이 까다롭다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# 예제 코드
+class SimpleMLP(keras.Model):
+    def __init__(self, num_classes=10):
+        super(SimpleMLP, self).__init__(name=&apos;mlp&apos;)
+        self.num_classes = num_classes
+
+        self.dense1 = keras.layers.Dense(32, activation=&apos;relu&apos;)
+        self.dense2 = keras.layers.Dense(num_classes, activation=&apos;softmax&apos;)
+
+    def call(self, inputs):
+        x = self.dense1(inputs)
+        return self.dense2(x)
+
+model = SimpleMLP()
+model.compile(...)
+model.fit(...)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;인공지능은 인류에게 작동하고 있는 가장 심오한 것 중 하나이다.&lt;/h3&gt;
+&lt;p&gt;A.I is one of the most profound things that works for mankind.&lt;/p&gt;
+&lt;h3&gt;불이나 전기보다 더 심오하다. -순다르 피차이(Sundar Pichai)&lt;/h3&gt;
+&lt;p&gt;It is more profound than fir or electricity.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[데이터 중요도 파악(Permutation Importance)]]></title><description><![CDATA[데이터 중요도 파악(Permutation Importance) 모델의 레이블에 영향을 주는 Feature의 중요도를 Sklearn의 Permutation Importance 를 사용해 파악한다. Permutation Importance…]]></description><link>https://bosoek.github.io/Data-Importance/</link><guid isPermaLink="false">https://bosoek.github.io/Data-Importance/</guid><pubDate>Sun, 09 May 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;데이터 중요도 파악(Permutation Importance)&lt;/h1&gt;
+&lt;p&gt;모델의 레이블에 영향을 주는 Feature의 중요도를 &lt;strong&gt;Sklearn의 Permutation Importance&lt;/strong&gt; 를 사용해 파악한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;모델 예측시 가장 영향을 많이 주는 Feature를 파악하는 방법&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;모델의 훈련이 끝난 후 계산되며 &lt;strong&gt;모델이 특정 Feature를 안썻을때, 성능 손실에 얼마나 영향을 주는지로 그 Feature의 중요도를 파악하는 방법&lt;/strong&gt; 이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;어떤 모델이든 적용 가능하다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance의 장점&lt;/h3&gt;
+&lt;p&gt;기존에는 특정 Feature를 제거후 모델을 학습해서 중요도를 파악했지만 자원 소모가 너무 크다.&lt;/p&gt;
+&lt;p&gt;때문에 Permutation Importance는 &lt;strong&gt;특정 Feature를 무작위로 섞어 Target과의 연결 고리를 끊어 해당 Feature를 안쓰는 것처럼(노이즈)&lt;/strong&gt; 만든다.&lt;/p&gt;
+&lt;p&gt;그후 예측값과 실제값의 차이가 더 생겼는지로 해당 Feature의 영향력을 파악한다.&lt;/p&gt;
+&lt;p&gt;이러한 과정 덕분에 &lt;strong&gt;모델의 재학습이 필요없다!&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;훈련 모델과 데이터만 있으면 변수 중요도를 뽑을 수 있다. 반대로 모델 학습 과정, 내부 구조 정보가 필요 없어서 어느 모델이든 적용 가능하다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4&gt;&lt;strong&gt;Permutation Importance의 다른 특징은 각 Feature의 중요도에는 다른 Feature와의 상호작용도 포함된다는 것이다!&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;특정 Feature를 섞으면 다른 Feature와의 관계가 끝어져서 해당 Feature와의 모든 상호작용이 사라진다. 때문에 두 Feature간 상호작용의 영향은 두개의 Feature Importance에 중복 포함된다.&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;Permutation Importance의 단점&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;특정 Feature를 무작위로 섞어서 실행시마다 Feature Importance 결과가 달라진다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;섞는 횟수를 늘려 예측 에러 분산을 감소할 수 있지만 Feature 개수가 많을 경우 연살량이 증가하기 때문에 Permutation의 적절한 회수를 선택해야한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Feature를 무작위로 섞기에 비현실적인 데이터 조합이 생길 수 있다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Feature간 상관관계가 높을 경우 발샐할 수 있으며 이런 데이터의 비개연성, 비현실성이 증가하면 예측값에 영향을 미칠 가능성이 있고 우리가 원하던 결과가 아니기에 이를 염두하고 해석해야한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;예로, 키와 몸무게를 랜덤하게 섞다보면 키가 2m인데 몸무게가 30kg인 데이터가 만들어 질 수도 있다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3&gt;실행 코드&lt;/h3&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from sklearn.inspection import permutation_importance # sklearn 22 버전부터 해당
+from sklearn.metrics import make_scorer
+
+# MAPE
+def mean_absolute_percentage_error(y_test, y_pred):
+    y_test, y_pred = np.array(y_test), np.array(y_pred)
+    return np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+
+# fix_model : 훈련된 모델
+# X_train : 훈련데이터 Feature
+# y_train : 훈련데이터 Target
+# scoring : Feature 를 Shuffler 한 뒤, 예측값과 실제값을 어떤 Metric 을 사용해 비교할지
+# n_repeats : 특정 Feature 를 몇번 Shuffle 할 것인지
+# random_state : 난수 고정
+result = permutation_importance(fix_model, X_train, y_train, scoring = make_scorer(mean_absolute_percentage_error,greater_is_better=False),
+                            n_repeats=30,
+                            random_state=0)
+# Feature label
+Feature = train[[&apos;lr&apos;,&apos;lc&apos;,&apos;rc&apos;,&apos;ld&apos;,&apos;rd&apos;,&apos;lnnz&apos;,&apos;rnnz&apos;,&apos;lr*lc&apos;,&apos;lc*rc&apos;,&apos;lr*rc&apos;]] 
+
+# Feature 중요도를 오름차순으로 정렬한 뒤, 해당 Feature 의 index 를 저장
+sorted_result = result.importances_mean.argsort()
+
+# 결과를 DataFrame 화
+importances = pd.DataFrame(result.importances_mean[sorted_result], index=Feature.columns[sorted_result]).sort_values(0, ascending=False)   
+importances&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;만약 인간의 뇌가 우리가 이해할 수 있을 정도로 단순하다면,&lt;/h3&gt;
+&lt;p&gt;if the human brain was simple enough for us to understand,&lt;/p&gt;
+&lt;h3&gt;우리는 그렇게 단순할 수 없을 것이다. -에머슨 M.푸(Emerson M. Pooh)&lt;/h3&gt;
+&lt;p&gt;we wouldn’t be that simple.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[분류 모델 성능 평가 지표]]></title><description><![CDATA[분류 모델 성능 평가 지표 분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다. 이때 분류 모델이 정답을 맞히거나 틀리는 경우들은 총 4가지가 생긴다. 이때 생기는 개념이 1종 오류,…]]></description><link>https://bosoek.github.io/Classification-performance-evaluation/</link><guid isPermaLink="false">https://bosoek.github.io/Classification-performance-evaluation/</guid><pubDate>Mon, 03 May 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;분류 모델 성능 평가 지표&lt;/h1&gt;
-&lt;p&gt;분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다.&lt;/p&gt;
-&lt;p&gt;그럼 이때 정답을 맞히거나 틀리는 경우들이 뭐가 있을까?&lt;/p&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137417559-88a972d3-e7cb-4c59-ab36-88bcaf2e19c8.png&quot;&gt;
+&lt;p&gt;분류 모델을 만들고 나면 분류기의 예측력을 검증해야 한다. 이때 분류 모델이 정답을 맞히거나 틀리는 경우들은 총 4가지가 생긴다.&lt;/p&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68007145/137417559-88a972d3-e7cb-4c59-ab36-88bcaf2e19c8.png&quot; width=&quot;700&quot;&gt;
 &lt;p&gt;이때 생기는 개념이 1종 오류, 2종 오류이며 각 오류는 분류 과제 성격에 따라 검증이 다르다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;1종 오류(False Positive) : 좋은 것이라 예측 하였지만 실제로는 좋지 않은 것인 경우
+&lt;li&gt;&lt;strong&gt;1종 오류(False Positive)&lt;/strong&gt; : 좋은 것이라 예측 하였지만 실제로는 좋지 않은 것인 경우
 &lt;blockquote&gt;
 &lt;p&gt;예로 중고차 성능 판별이 있다. 좋은 중고차를 나쁜차로 예측해서 구매하지 않아도 손해볼 것은 없지만 나쁜 차를 잘못 예측하여 구매하는 건 손해이다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
-&lt;li&gt;2종 오류(True Negative) : 나쁜 것이라 예측 하였지만 실제로는 좋은 것인 경우
+&lt;li&gt;&lt;strong&gt;2종 오류(True Negative)&lt;/strong&gt; : 나쁜 것이라 예측 하였지만 실제로는 좋은 것인 경우
 &lt;blockquote&gt;
 &lt;p&gt;암 환자 진단시에는 암 환자를 건강하다고 판별하는 경우가 더 치명적이다.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1184,7 +1282,6 @@ plt.show()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
 &lt;h2&gt;Scikit-Learn을 통한 통계 지표 확인&lt;/h2&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
 
@@ -1194,148 +1291,11 @@ guesses = [0, 1, 1, 1, 1, 0, 1, 0, 1, 0]
 print(accuracy_score(labels, guesses))
 print(recall_score(labels, guesses))
 print(precision_score(labels, guesses))
-print(f1_score(labels, guesses))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Keras 모델 생성 방법]]></title><description><![CDATA[Keras 모델 생성 방법 케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.  1. Sequential API를 사용한 모델 생성 Sequential…]]></description><link>https://bosoek.github.io/model_Creation/</link><guid isPermaLink="false">https://bosoek.github.io/model_Creation/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;Keras 모델 생성 방법&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;케라스의 구현 방식에는 Sequential API, Functional API, Subclassing API 총 3가지 구현 방식이 존재합니다.&lt;br&gt;
-&lt;img src=&quot;https://wikidocs.net/images/page/106897/1_WzwKtnA0LEhiCGdWTTpLaA.png&quot;&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;1. Sequential API를 사용한 모델 생성&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Sequential() 함수로 model 박스를 생성 후 add() 함수로 레이어들을 선택해 모델에 넣어준다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;직관적이고 ML 책에서 많이 사용되는 방식이다.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;장점 : 단순하게 층을 샇는 방식으로 쉽고 사용하기가 간단하다.&lt;/li&gt;
-&lt;li&gt;단점 : 다수의 입출력을 가진 모델 또는 층 간의 연결이나 덧셈 같은 연산 모델 구현에는 적합하지 않다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from keras.models import Sequential
-from keras.layers import Dense, Activation
-
-model = Sequential([
-    Dense(32, activate=&apos;relu&apos;, input_shape=(784,)),
-    Dense(10, activate=&apos;softmax&apos;)
-])&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;model = Sequential()
-model.add(Dense(32, activate=&apos;relu&apos;, input_dim=784))
-model.add(Dense(10, activate=&apos;softmax&apos;))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+print(f1_score(labels, guesses))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
-&lt;h3&gt;2. Functional API를 이용한 모델 생성&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;input Layer를 변수에 정의한다.&lt;/li&gt;
-&lt;li&gt;Dense Layer를 선언시에는 이전 레이어의 변수 정보를 레이어 선언 뒤에 ()가로로 넣어줘야한다.&lt;/li&gt;
-&lt;li&gt;Model Class 방식은 &lt;strong&gt;input layer를 input 함수&lt;/strong&gt; 로, &lt;strong&gt;Dense layer를 output 함수&lt;/strong&gt; 로 넣어 모델을 만든다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;multi input과 multi output의 정의가 용이하다.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;장점 : 구현하기 어려운 복잡한 모델들을 구현할 수 있다.&lt;/li&gt;
-&lt;li&gt;단점 : 입력층을 모델의 앞단에 정의해야 한다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;inputs = Input(shape=(1,)) # &amp;lt;-- 해당 부분
-output = Dense(1, activation=&apos;linear&apos;)(inputs)
-linear_model = Model(inputs, output)
-
-sgd = optimizers.SGD(lr=0.01)
-
-linear_model.compile(optimizer=sgd, loss=&apos;mse&apos;, metrics=[&apos;mse&apos;])
-linear_model.fit(X, y, epochs=300)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;h3&gt;3. Subclassing API로 인공지능 망 만들기&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;init&lt;/strong&gt; 함수로 클래스의 매개변수를 지정한다.&lt;/li&gt;
-&lt;li&gt;매개변수 정보를 이용해 layer들을 선언한다&lt;/li&gt;
-&lt;li&gt;call 같은 특정 함수로 모델을 반환한다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;모델 레이어를 세세하게 수정하고, 모델을 여러번 만들어야 하는 연구등에 사용된다.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;장점 : Functional API로도 구현 안되는 모델들도 구현이 가능하다.&lt;/li&gt;
-&lt;li&gt;단점 : 객체 지향 프로그래밍에 익숙해야 하고 코드 사용이 까다롭다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;import keras
-
-class SimpleMLP(keras.Model):
-    def __init__(self, num_classes=10):
-        super(SimpleMLP, self).__init__(name=&apos;mlp&apos;)
-        self.num_classes = num_classes
-
-        self.dense1 = keras.layers.Dense(32, activation=&apos;relu&apos;)
-        self.dense2 = keras.layers.Dense(num_classes, activation=&apos;softmax&apos;)
-
-    def call(self, inputs):
-        x = self.dense1(inputs)
-        return self.dense2(x)
-
-model = SimpleMLP()
-model.compile(...)
-model.fit(...)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[데이터 중요도 파악]]></title><description><![CDATA[데이터 중요도 파악 모델의 레이블에 영향을 주는 Feature의 중요도를 Sklearn의 Permutation Importance 를 사용해 파악한다. Permutation Importance 모델 예측시 가장 영향을 많이 주는 Feature…]]></description><link>https://bosoek.github.io/Data-Importance/</link><guid isPermaLink="false">https://bosoek.github.io/Data-Importance/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;데이터 중요도 파악&lt;/h1&gt;
-&lt;p&gt;모델의 레이블에 영향을 주는 Feature의 중요도를 &lt;strong&gt;Sklearn의 Permutation Importance&lt;/strong&gt; 를 사용해 파악한다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3&gt;Permutation Importance&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;모델 예측시 가장 영향을 많이 주는 Feature를 파악하는 방법&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;모델의 훈련이 끝난 후 계산되며 &lt;strong&gt;모델이 특정 Feature를 안썻을때, 성능 손실에 얼마나 영향을 주는지로 그 Feature의 중요도를 파악하는 방법&lt;/strong&gt; 이다.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;어떤 모델이든 적용 가능하다!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;Permutation Importance의 장점&lt;/h3&gt;
-&lt;p&gt;기존에는 특정 Feature를 제거후 모델을 학습해서 중요도를 파악했지만 자원 소모가 너무 크다.&lt;/p&gt;
-&lt;p&gt;때문에 Permutation Importance는 &lt;strong&gt;특정 Feature를 무작위로 섞어 Target과의 연결 고리를 끊어 해당 Feature를 안쓰는 것처럼(노이즈)&lt;/strong&gt; 만든다.&lt;/p&gt;
-&lt;p&gt;그후 예측값과 실제값의 차이가 더 생겼는지로 해당 Feature의 영향력을 파악한다.&lt;/p&gt;
-&lt;p&gt;이러한 과정 덕분에 &lt;strong&gt;모델의 재학습이 필요없다!&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;훈련 모델과 데이터만 있으면 변수 중요도를 봅을 수 있다. 반대로 모델 학습 과정, 내부 구조 정보가 필요 없어서 어느 모델이든 적용 가능하다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h4&gt;&lt;strong&gt;Permutation Importance의 다른 특징은 각 Feature의 중요도에는 다른 Feature와의 상호작용도 포함된다는 것이다!&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;특정 Feature를 섞으면 다른 Feature와의 관계가 끝어져서 해당 Feature와의 모든 상호작용이 사라진다. 때문에 두 Feature간 상호작용의 영향은 두개의 Feature Importance에 중복 포함된다.&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;Permutation Importance의 단점&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;특정 Feature를 무작위로 섞어서 실행시마다 Feature Importance 결과가 달라진다.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;섞는 횟수를 늘려 예측 에러 분산을 감소할 수 있지만 Feature 개수가 많을 경우 연살량이 증가하기 때문에 Permutation의 적절한 회수를 선택해야한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Feature를 무작위로 섞기에 비현실저인 데이터 조합이 생길 수 있다.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Feature간 상관관계가 높을 경우 발샐할 수 있으며 이런 데이터의 비개연성, 비현실성이 증가하면 예측값에 영향을 미칠 가능성이 있고 우리가 원하던 결과가 아니기에 이를 염두하고 해석해야한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;예로, 키와 몸무게를 랜덤하게 섞다보면 키가 2m인데 몸무게가 30kg인 데이터가 만들어 질 수도 있다.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3&gt;실행 코드&lt;/h3&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;from sklearn.inspection import permutation_importance # sklearn 22 버전부터 해당
-from sklearn.metrics import make_scorer
-
-# MAPE
-def mean_absolute_percentage_error(y_test, y_pred):
-    y_test, y_pred = np.array(y_test), np.array(y_pred)
-    return np.mean(np.abs((y_test - y_pred) / y_test)) * 100
-
-# fix_model : 훈련된 모델
-# X_train : 훈련데이터 Feature
-# y_train : 훈련데이터 Target
-# scoring : Feature 를 Shuffler 한 뒤, 예측값과 실제값을 어떤 Metric 을 사용해 비교할지
-# n_repeats : 특정 Feature 를 몇번 Shuffle 할 것인지
-# random_state : 난수 고정
-result = permutation_importance(fix_model, X_train, y_train, scoring = make_scorer(mean_absolute_percentage_error,greater_is_better=False),
-                            n_repeats=30,
-                            random_state=0)
-# Feature label
-Feature = train[[&apos;lr&apos;,&apos;lc&apos;,&apos;rc&apos;,&apos;ld&apos;,&apos;rd&apos;,&apos;lnnz&apos;,&apos;rnnz&apos;,&apos;lr*lc&apos;,&apos;lc*rc&apos;,&apos;lr*rc&apos;]] 
-
-# Feature 중요도를 오름차순으로 정렬한 뒤, 해당 Feature 의 index 를 저장
-sorted_result = result.importances_mean.argsort()
-
-# 결과를 DataFrame 화
-importances = pd.DataFrame(result.importances_mean[sorted_result], index=Feature.columns[sorted_result]).sort_values(0, ascending=False)   
-importances&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;h3&gt;문제는 지적인 기계가 어떤 감정을 가질 수 있느냐가 아니라,&lt;/h3&gt;
+&lt;p&gt;The question is not what emotions an intelligent machine can have,&lt;/p&gt;
+&lt;h3&gt;기계가 아무런 감정 없이 지능을 가질 수 있느냐 하는 것이다. -마빈 민스키(Marvin Minski)&lt;/h3&gt;
+&lt;p&gt;but whether it can have intelligence without any emotions.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item></channel></rss>

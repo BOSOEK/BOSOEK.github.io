@@ -62,8 +62,8 @@ const About: React.FC = () => (
 
                 <p>
                   {/* eslint-disable-next-line react/no-unescaped-entities */}
-                  Hi, I'm Soohwan Kim. I am the co-founder and A.I. engineer of <a href="http://www.tunib.ai">TUNiB</a>.
-                  On this page, I would like to introduce myself in a free format, not in a hard format like resume. If you want to see my resume, check <a href="https://sooftware.io/resume">here</a>.
+                  Hi, I'm BoSoek Kim. I am a student who is interested in AI and robots.
+                  On this page, I'd like to introduce myself. If you want to see my portfolio, click <a href="https://universal-vanilla-3ae.notion.site/694293da940a40158b274c6a7ca61dbe">here</a>.
                 </p>
 
                 <br></br>
@@ -72,9 +72,9 @@ const About: React.FC = () => (
 
                 <p>
                   {/* eslint-disable-next-line react/no-unescaped-entities */}
-                  At TUNiB, I'm trying to make a global persona chatbot.
+                  I am majoring in embedded software at Gwangju Software Meister High School.
                   {/* eslint-disable-next-line react/no-unescaped-entities */}
-                  Meanwhile, I am also working on open-source activities for the development of natural language processing in Korea. You can check my github (http://github.com/sooftware) to see what I've done and I'm doing.
+                  AI studied because it was interested in NLP and VISION, and robots are studying because they are interested in autonomous robots and humanoids.
                 </p>
 
 
