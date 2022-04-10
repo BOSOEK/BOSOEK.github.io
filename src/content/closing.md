@@ -18,7 +18,7 @@ draft: false
 
 <img src="https://user-images.githubusercontent.com/68007145/160277232-bc453cd6-eea7-48f5-8c43-e46877531551.jpg" width="600">  
 
-책의 처음에는 지그 지글러의 아내분이 새로운 집을 사자고 설득하는 이야기가 나온다.
+책의 처음에는 지그 지글러의 아내분이 새로운 집을 사자고 설득하는 이야기가 나온다. 이 이야기가 굉장히 재밌는데, 이 아내분이 마지막에 하는 제안 ```행복한 아내를 위해 하루에 1달러를 쓸수 있어?``` 라고 묻는 말이 굉장히 신선했다. 
 
 
 <img src="https://user-images.githubusercontent.com/68007145/160277190-c7edf28a-4241-4c1b-93a8-46c5cd2df1a3.jpg" width="600">
