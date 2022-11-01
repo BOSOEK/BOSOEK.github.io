@@ -28,7 +28,7 @@ draft: false
 ## 모델 학습
 모델은 Pytorch DCGAN Tutorial([DCGAN Tutorial](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html))을 참고하여 제작하였고 최대한 많이 학습 시키려고 했지만 내 컴퓨터가 못버티고 혼자 죽어버리는(?) 경우들이 너무 생겨서 최종적으로 500 epochs를 학습 시켰다.
 
-그렇게 결과물이 나왔다.
+그렇게 나온 최종 결과물
 
 <img src="https://user-images.githubusercontent.com/68007145/155725997-916969ac-ecc8-44eb-bd50-da01dc70e1d9.png" width="700">
 
