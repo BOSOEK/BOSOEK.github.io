@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 09 May 2022 11:30:38 GMT</lastBuildDate><item><title><![CDATA[세일즈 클로징(Secrets of closing the sale)]]></title><description><![CDATA[세일즈 클로징(Secrets of closing the sale…]]></description><link>https://bosoek.github.io/closing/</link><guid isPermaLink="false">https://bosoek.github.io/closing/</guid><pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;세일즈 클로징(Secrets of closing the sale)&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 01 Nov 2022 05:46:14 GMT</lastBuildDate><item><title><![CDATA[세일즈 클로징(Secrets of closing the sale)]]></title><description><![CDATA[세일즈 클로징(Secrets of closing the sale…]]></description><link>https://bosoek.github.io/closing/</link><guid isPermaLink="false">https://bosoek.github.io/closing/</guid><pubDate>Sun, 27 Mar 2022 10:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;세일즈 클로징(Secrets of closing the sale)&lt;/h1&gt;
 &lt;p&gt;최근 창업을 준비하면서 여러 공부들을 병행하고 있는데 창업시 마케팅과 세일즈 기술은 어느 분야에서나 쓰인다고 생각하여 관련 책 시리즈를 읽고 있다. 그중 첫번째 책이 세일즈 클로징이다.&lt;/p&gt;
 &lt;p&gt;세일즈 클로징은 &lt;strong&gt;지그 지글러(Zig Ziglar)&lt;/strong&gt; 라는 세일즈계의 전설적인 인물이 쓴 책으로써 관련 분야에서는 꽤 유명한 책이었다.&lt;/p&gt;
 &lt;p&gt;지그 지글러는 이 책을 설명식으로 쓰여졌고 700개의 질문, 200여가지의 테크닉, 세일즈 전략들이 적혀있는 세일즈 실전용 지침서라고 했으며 여러번 반복하여 읽기를 권장하였다.&lt;/p&gt;
@@ -131,7 +131,7 @@
 &lt;p&gt;그 후에는 이미지들을 1대1 비율로 resize 해서 데이터 준비를 마쳤다.&lt;/p&gt;
 &lt;h2&gt;모델 학습&lt;/h2&gt;
 &lt;p&gt;모델은 Pytorch DCGAN Tutorial(&lt;a href=&quot;https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html&quot;&gt;DCGAN Tutorial&lt;/a&gt;)을 참고하여 제작하였고 최대한 많이 학습 시키려고 했지만 내 컴퓨터가 못버티고 혼자 죽어버리는(?) 경우들이 너무 생겨서 최종적으로 500 epochs를 학습 시켰다.&lt;/p&gt;
-&lt;p&gt;그렇게 결과물이 나왔다.&lt;/p&gt;
+&lt;p&gt;그렇게 나온 최종 결과물&lt;/p&gt;
 &lt;img src=&quot;https://user-images.githubusercontent.com/68007145/155725997-916969ac-ecc8-44eb-bd50-da01dc70e1d9.png&quot; width=&quot;700&quot;&gt;
 &lt;h2&gt;마치며&lt;/h2&gt;
 &lt;p&gt;쓰읍… 솔직히 결과물이 잘 나왔다고는 말 못한다. 괜찮게 나온 것들도 있지만 행성 같은 경우는 막 찌그러 지기도 했고 전체 적으로 우주 보다는 닥터 스트레인지 영화에 나왔던 도르마무의 세계(?)처럼 되었다.&lt;/p&gt;
@@ -282,6 +282,120 @@ pip install jupyter&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Don’t worry if it doesn’t work right.&lt;/p&gt;
 &lt;h3&gt;모든 것이 그랬다면, 넌 직업을 잃었을테니까. -소프트웨어 공학에서의 모셔의 법칙(Mosher’s Law)&lt;/h3&gt;
 &lt;p&gt;If everything did, you’d be out of a job.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Django 개발 환경 구축하기]]></title><description><![CDATA[Django 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/Django_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/Django_Setting/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Django 개발 환경 구축하기&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
+&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python -m venv&lt;/code&gt;는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
+&lt;code class=&quot;language-text&quot;&gt;mysite&lt;/code&gt;는 만들 가상환경 이름이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;code class=&quot;language-text&quot;&gt;activate&lt;/code&gt; 명령 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
+D:\venvs\mysite\Scripts&gt; activate
+(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;code class=&quot;language-text&quot;&gt;deactivate&lt;/code&gt; 을 사용한다&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 설치하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 가상환경안에서 설치한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install django==3.1.3
+(가상환경명) D:\venvs\mysite\Scripts&gt; python -m pip install --upgrade pip&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;첫번째 pip는 장고 3.1.3 버전을 설치하라는 명령어.
+두번재 pip는 장고를 최신 버전으로 설치하라는 명령어.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 생성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고의 플로젝트란 하나의 웹사이트이며 하나의 프로젝트 안에는 여러 앱이 존재하고, 이러한 앱들이 모여 웹 사이트를 구성한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 디렉터리 생성하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고는 프로젝트가 여러개가 될수 있으므로 프로젝트 &lt;strong&gt;루트 디렉터리 생성&lt;/strong&gt; 이 필수다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\&gt;mkdir projects
+D:\&gt;cd projects(루트 디렉터리 이름)
+D:\projects&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;프로젝트 루트 디렉터리 안에서 가상 환경에 진입하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\projects&gt;D:\venvs\mysite\Scripts\activate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 프로젝트 생성 &amp;#x26; 이동하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\projects&gt;mkdir mysite(장고 프로젝트를 담을 디렉터리)
+(가상환경명) D:\projects&gt;cd mysite
+(가상환경명) D:\projects\mysite&gt;
+(가상환경명) D:\projects\mysite&gt;django-admin startproject config .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;장고 프로젝트는 가상 환경에서 django-admin으로 생성 가능하다.
+이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;개발 서버 구동 &amp;#x26; 종료하기&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python manage.py runserver&lt;/code&gt; 명령으로 개발 서버가 구동되며 &lt;code class=&quot;language-text&quot;&gt;Ctrl+C&lt;/code&gt;를 누르면 개발 서버가 종료된다.
+개발 서버는 &lt;code class=&quot;language-text&quot;&gt;127.0.0.1:8000&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;localhost:8000&lt;/code&gt;에서 장고의 기본 웹사이트를 볼수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Path 환경변수를 통한 가상 환경 진입 -&gt; 방법을 못찾음(추후에 커밋함)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;장고(파이썬) 개발 에디터 파이참 설치하기.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참은 &lt;a href=&quot;http://www.jetbrains.com/ko-kr/pycharm/download/#section=windows&quot;&gt;www.jetbrains.com/ko-kr/pycharm/download/#section=windows&lt;/a&gt; 에서 설치 가능하며 &lt;Next&gt;만 선택하면 된다.
+파이참 실행 후 &lt;Open&gt;으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;파이참 인터프리터 설정&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;파이참 메뉴에서 &lt;code class=&quot;language-text&quot;&gt;[File -&gt; Setting] -&gt; [Project: mysite -&gt; project Interpreter] -&gt; [Python Interpreter]&lt;/code&gt;의 톱니바퀴 모양에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Add&gt; -&gt; &amp;lt;Existing enviroment&gt; -&gt; [Interpreter]&lt;/code&gt;오른쪽의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;...&gt; -&gt; D:\venvs\mysite\Scripts\python.exe&lt;/code&gt; 선택
+파이참에서 setting.py 파일의 &lt;code class=&quot;language-text&quot;&gt;[LANGUAGE_CODE]&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;[TIME_ZONE]&lt;/code&gt;설정값을 수정한다.(언어와 시간을 한국으로 설정)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;LANGUAGE_CODE = &apos;ko-kr&apos;
+TIME_ZONE = &apos;Asia/Seoul&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;서버 구동시 언어가 한국어로 바뀌어 있다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;장고 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;품질이란 누가 보지 않을 때에도 제대로 돌아가는 걸 뜻한다. - 헨리 포드&lt;/h3&gt;
+&lt;p&gt;Quality means that it works properly when no one looks at it.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Numpy 튜토리얼]]></title><description><![CDATA[Numpy 튜토리얼 넘파이는 벡터(1차원 배열), 행렬(2차원 배열) 등 수치 연산을 하는 선형 대수(Linear algebra) 라이브러리이다. 기초 개념 Numpy…]]></description><link>https://bosoek.github.io/Numpy/</link><guid isPermaLink="false">https://bosoek.github.io/Numpy/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Numpy 튜토리얼&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -426,120 +540,6 @@ print(np.hsplit(a, (3,4)))
 &lt;blockquote&gt;
 &lt;h3&gt;기계 지능은 인류가 만들어야 할 마지막 발명품입니다. - 닉 보스 트롬(Nick Boss Tromm)&lt;/h3&gt;
 &lt;p&gt;Mechanical intelligence is the last invention that mankind should make.&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Django 개발 환경 구축하기]]></title><description><![CDATA[Django 개발 환경 구축하기 파이썬 설치를 전제로 한다. 1. 가상 환경 생성하기 파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.) cmd…]]></description><link>https://bosoek.github.io/Django_Setting/</link><guid isPermaLink="false">https://bosoek.github.io/Django_Setting/</guid><pubDate>Fri, 20 Aug 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
-&lt;h1&gt;Django 개발 환경 구축하기&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이썬 설치를 전제로 한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;1. 가상 환경 생성하기&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이썬 가상환경은 파이썬 프로젝트시 독립된 환경을 만들어준다.(상황에 따라 가상환경에서 하나의 데스크톱에 다른 버전의 파이썬을 설치할 수 도 있다.)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;cmd에서 가상환경 디렉터리(통상 venvs)를 만든다.&lt;/li&gt;
-&lt;li&gt;가상 환경을 만든다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; python -m venv mysite&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python -m venv&lt;/code&gt;는 파이썬 모듈중 venv를 이용하겠다는 의미이다.
-&lt;code class=&quot;language-text&quot;&gt;mysite&lt;/code&gt;는 만들 가상환경 이름이다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;가상환경에 진입한다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;생성한 mysite(가상환경)에 있는 Scripts 디렉터리의 &lt;code class=&quot;language-text&quot;&gt;activate&lt;/code&gt; 명령 을 수행하여 가상환경에 진입 가능.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\venvs&gt; cd D:\venvs\mysite\Scripts
-D:\venvs\mysite\Scripts&gt; activate
-(가상환경명) D:\venvs\mysite\Scripts&gt;  # 가상환경 진입&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;가상환경에서 벗어닌다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;진입한 가상환경에서 벗어나려면 &lt;code class=&quot;language-text&quot;&gt;deactivate&lt;/code&gt; 을 사용한다&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) C:\venvs\mysite\Scripts&gt; deactivate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 설치하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고는 가상환경안에서 설치한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\venvs\mysite\Scripts&gt; pip install django==3.1.3
-(가상환경명) D:\venvs\mysite\Scripts&gt; python -m pip install --upgrade pip&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;첫번째 pip는 장고 3.1.3 버전을 설치하라는 명령어.
-두번재 pip는 장고를 최신 버전으로 설치하라는 명령어.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 생성&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고의 플로젝트란 하나의 웹사이트이며 하나의 프로젝트 안에는 여러 앱이 존재하고, 이러한 앱들이 모여 웹 사이트를 구성한다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 디렉터리 생성하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고는 프로젝트가 여러개가 될수 있으므로 프로젝트 &lt;strong&gt;루트 디렉터리 생성&lt;/strong&gt; 이 필수다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\&gt;mkdir projects
-D:\&gt;cd projects(루트 디렉터리 이름)
-D:\projects&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;프로젝트 루트 디렉터리 안에서 가상 환경에 진입하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;D:\projects&gt;D:\venvs\mysite\Scripts\activate&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 프로젝트 생성 &amp;#x26; 이동하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;(가상환경명) D:\projects&gt;mkdir mysite(장고 프로젝트를 담을 디렉터리)
-(가상환경명) D:\projects&gt;cd mysite
-(가상환경명) D:\projects\mysite&gt;
-(가상환경명) D:\projects\mysite&gt;django-admin startproject config .&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;장고 프로젝트는 가상 환경에서 django-admin으로 생성 가능하다.
-이때 config 뒤의 점에 주의해야하며 점 기호는 현재 디렉터리를 프로젝트 디렉터리로 만들라는 의미이다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;개발 서버 구동 &amp;#x26; 종료하기&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;python manage.py runserver&lt;/code&gt; 명령으로 개발 서버가 구동되며 &lt;code class=&quot;language-text&quot;&gt;Ctrl+C&lt;/code&gt;를 누르면 개발 서버가 종료된다.
-개발 서버는 &lt;code class=&quot;language-text&quot;&gt;127.0.0.1:8000&lt;/code&gt; 또는 &lt;code class=&quot;language-text&quot;&gt;localhost:8000&lt;/code&gt;에서 장고의 기본 웹사이트를 볼수 있다.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Path 환경변수를 통한 가상 환경 진입 -&gt; 방법을 못찾음(추후에 커밋함)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;장고(파이썬) 개발 에디터 파이참 설치하기.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이참은 &lt;a href=&quot;http://www.jetbrains.com/ko-kr/pycharm/download/#section=windows&quot;&gt;www.jetbrains.com/ko-kr/pycharm/download/#section=windows&lt;/a&gt; 에서 설치 가능하며 &lt;Next&gt;만 선택하면 된다.
-파이참 실행 후 &lt;Open&gt;으로 앞에서 생성한 장고 프로젝트를 연다.(예 : D:\projects\mysite)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;파이참 인터프리터 설정&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;파이참 메뉴에서 &lt;code class=&quot;language-text&quot;&gt;[File -&gt; Setting] -&gt; [Project: mysite -&gt; project Interpreter] -&gt; [Python Interpreter]&lt;/code&gt;의 톱니바퀴 모양에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;Add&gt; -&gt; &amp;lt;Existing enviroment&gt; -&gt; [Interpreter]&lt;/code&gt;오른쪽의 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;...&gt; -&gt; D:\venvs\mysite\Scripts\python.exe&lt;/code&gt; 선택
-파이참에서 setting.py 파일의 &lt;code class=&quot;language-text&quot;&gt;[LANGUAGE_CODE]&lt;/code&gt;와 &lt;code class=&quot;language-text&quot;&gt;[TIME_ZONE]&lt;/code&gt;설정값을 수정한다.(언어와 시간을 한국으로 설정)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;LANGUAGE_CODE = &apos;ko-kr&apos;
-TIME_ZONE = &apos;Asia/Seoul&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;서버 구동시 언어가 한국어로 바뀌어 있다!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;장고 개발 환경 설치 &amp;#x26; 설정 완료!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;h3&gt;품질이란 누가 보지 않을 때에도 제대로 돌아가는 걸 뜻한다. - 헨리 포드&lt;/h3&gt;
-&lt;p&gt;Quality means that it works properly when no one looks at it.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Matplotlib Tutorial]]></title><description><![CDATA[Matplotlib Tutorial 은 파이썬 기반 그래프(플롯) 시각화 라이브러리이다.
  모듈의 각각의 함수로 그래프를 만들고 변화를 줄수 있다. 기본 그래프 pyplot.show() 그렸던 그래프들 출력하는 함수 pyplot.plot…]]></description><link>https://bosoek.github.io/matplotlib/</link><guid isPermaLink="false">https://bosoek.github.io/matplotlib/</guid><pubDate>Tue, 20 Jul 2021 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Matplotlib Tutorial&lt;/h1&gt;
