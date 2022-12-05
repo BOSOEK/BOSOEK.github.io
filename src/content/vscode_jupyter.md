@@ -4,7 +4,7 @@ title: 'VSCode에서 Jupyter notebook 사용하기'
 image: img/vscode_jupyter.png
 author: [Bosoek Kim]
 date: 2021-08-22T10:00:00.000Z
-tags: [substack]
+tags: [substack, toolkit]
 ---
 
 ---

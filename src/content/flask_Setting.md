@@ -1,7 +1,7 @@
 ---
 title: 'Flask 개발 환경 구축하기'
 author: [Bosoek Kim]
-tags: [substack, flask]
+tags: [substack, flask, toolkit]
 image: img/flask.png
 date: '2021-09-13T10:00:00.000Z'
 draft: false
