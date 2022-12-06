@@ -1,7 +1,7 @@
 ---
 title: 'Flutter 인터뷰 정리'
 author: [Bosoek Kim]
-tags: [flutter]
+tags: [flutter, record]
 image: img/flutter_interview.png
 date: '2022-05-06T10:00:00.000Z'
 draft: false

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'SW 마에스트로 서류 지원'
-image: img/mentoring_projrem.jpg
+title: '제13기 소프트웨어 마에스트로 서류 합격 자소서'
+image: img/software_maestro.png
 author: [Bosoek Kim]
 date: 2022-02-17T10:00:00.000Z
 tags: [record]
-draft: true
+draft: false
 ---
 
 ---
-# SW 마에스트로 서류 지원
-> SW 마에세트로 서류 지원 항목에 대한 기록
+# 제13기 소프트웨어 마에스트로 서류 합격 자소서
+
 
 ## 1. 소프트웨어분야 전문성을 키우기 위해 남들과 달리 특별한 노력을 한 경험을 서술하라.
 

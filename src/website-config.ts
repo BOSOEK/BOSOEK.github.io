@@ -73,7 +73,7 @@ const config: WebsiteConfig = {
   siteUrl: 'https://bosoek.github.io',
   facebook: 'https://www.facebook.com/profile.php?id=100011713266028',
   github: 'https://github.com/BOSOEK',
-  linkedin: 'https://www.linkedin.com/in/%EB%B3%B4%EC%84%9D-%EA%B9%80-206984217/',
+  linkedin: 'https://www.linkedin.com/in/bosoek-kim-274397234/',
   kaggle: 'https://www.kaggle.com/kimbosoek',
   showSubscribe: false,
   mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
