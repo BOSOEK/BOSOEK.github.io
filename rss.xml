@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 06 Dec 2022 07:21:11 GMT</lastBuildDate><item><title><![CDATA[Git commit 규칙 설정]]></title><description><![CDATA[Git commit…]]></description><link>https://bosoek.github.io/gitmessage_setting/</link><guid isPermaLink="false">https://bosoek.github.io/gitmessage_setting/</guid><pubDate>Sun, 20 Nov 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Ghost's Blog]]></title><description><![CDATA[Toward human-like A.I.]]></description><link>https://bosoek.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 06 Dec 2022 09:18:03 GMT</lastBuildDate><item><title><![CDATA[Git commit 규칙 설정]]></title><description><![CDATA[Git commit…]]></description><link>https://bosoek.github.io/gitmessage_setting/</link><guid isPermaLink="false">https://bosoek.github.io/gitmessage_setting/</guid><pubDate>Sun, 20 Nov 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Git commit 규칙 설정&lt;/h1&gt;
 &lt;p&gt;협업시에 깃을 사용하여 버전 관리 및 커밋을 남겼는데 최근 인턴으로 일하며 커밋 메시지의 중요성에 대해 생각하게 되었다. 기존에는 너무 난잡하게 작성하는 경우가 많았고 또 회사에서 사용하지 않는 태그도 있다는걸 알게되었다.(이태까지 ADD를 회사에서도 사용하는 줄 알았다)&lt;/p&gt;
 &lt;p&gt;협업으로 깃을 사용한다면 커밋 메시지의 일관성은 매우 중요하고, 다른 사람들이 내 코드를 읽을 때와, 커밋 메시지로 업무 내용을 파악하기도 하기에 Git commit 규칙을 설정하여 커밋 일관성을 지켜볼려고 한다.&lt;/p&gt;
@@ -37,7 +37,89 @@
 &lt;blockquote&gt;
 &lt;h3&gt;고객을 ‘유저’라고 부르는 산업은 딱 두 개가 있다. 마약과 IT - 에드워드 터프테&lt;/h3&gt;
 &lt;p&gt;There are only two industries that call customers ‘users’. Drugs and IT&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Flutter 페이지 전환에 대한 고찰]]></title><description><![CDATA[Flutter 페이지 전환에 대한 고찰 현재 운영중인 Fitmate의 네비게이터 구조까지 발전하게된 과정들을 기록해볼까 한다. 현업자분들에게는 당연한 부분일 수 있겠지만 나의 경우 삽질을 하면서 스스로 깨달은 부분중 하나이기에 잊고 싶지 않다.…]]></description><link>https://bosoek.github.io/flutter_page_navigator/</link><guid isPermaLink="false">https://bosoek.github.io/flutter_page_navigator/</guid><pubDate>Wed, 10 Aug 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Newmorphism]]></title><description><![CDATA[Newmorphism 현재 핏메이트 MVP2 디자인이 나왔다. 디자인을 리뉴얼하면서 뉴모피즘 디자인을 적용시키자는 팀 의견이 나와서 뉴모피즘 기반의 디자인으로 리뉴얼을 진행할텐데 뉴모피즘에 대해 간단히 알아보고 구현을 기록하려고 한다.…]]></description><link>https://bosoek.github.io/flutter_neumorphism/</link><guid isPermaLink="false">https://bosoek.github.io/flutter_neumorphism/</guid><pubDate>Thu, 15 Sep 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Newmorphism&lt;/h1&gt;
+&lt;p&gt;현재 핏메이트 MVP2 디자인이 나왔다. 디자인을 리뉴얼하면서 뉴모피즘 디자인을 적용시키자는 팀 의견이 나와서 뉴모피즘 기반의 디자인으로 리뉴얼을 진행할텐데 뉴모피즘에 대해 간단히 알아보고 구현을 기록하려고 한다.&lt;/p&gt;
+&lt;h4&gt;1. Newmorphism이란?&lt;/h4&gt;
+&lt;p&gt;실물과 가깝게 디자인하는 스큐어모피즘이라는 디자인의 나은 버전이다.&lt;/p&gt;
+&lt;p&gt;기존의 스큐어모피즘은 디테일이 요구되어 작업 속도가 느리고, 사용자의 시선을 분산시키는 문제점이 있어서 스큐어모피즘의 3차원을 2차원으로 단순화하여 심플한 디자인으로 사용자가 보기 편하게 만든것이다.&lt;/p&gt;
+&lt;p&gt;참고로 뉴모피즘에 유리 느낌을 더하면 글래스모피즘이 된다. 뉴모피즘과 다른점은 투명도가 강조됐다는 점 정도..?&lt;/p&gt;
+&lt;h4&gt;2. Newmorphism의 특징&lt;/h4&gt;
+&lt;p&gt;뉴모피즘 특징은 객체와 배경의 구분을 그림자와 빛만으로 하며, 둥글둥글하고 부드러운 인상을 준다. 전체적으로 UI가 생동감 넘치며, 단순 그래픽을 넘어 UI가 촉각적으로 다가오고 약간 미래적인 느낌이 추가된다.(이 부분들이 핏메이트에서 튜모피즘을 채택한 이유)&lt;/p&gt;
+&lt;p&gt;물론 단점도 있는데 내용이 많으면 전체적인 가독성이 떨어지고, 빛과 그림자로 객체를 구분하기에 디자인 영역이 커지고 이로 인해 인터페이스 배치가 방해될 수도 있다.&lt;/p&gt;
+&lt;h4&gt;4. Newmorphism 구현&lt;/h4&gt;
+&lt;p&gt;뉴모피즘은 구현이 크게 어렵지 않다. &lt;code class=&quot;language-text&quot;&gt;boxshadow&lt;/code&gt;만 잘 쓰면 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Container(
+   width: 100,
+   height: 100,
+   decoration: BoxDecoration(
+      borderRadius: BorderRadius.circular(50),
+      color: Color(0xFFF2F3F7),
+      boxShadow: [
+         BoxShadow(
+         color: Color(0xFFffffff),
+         spreadRadius: 2,
+         blurRadius: 8,
+         offset: Offset(-2, -2),
+         ),
+         BoxShadow(
+         color: Color.fromRGBO(55, 84, 170, 0.1),
+         spreadRadius: 2,
+         blurRadius: 2,
+         offset: Offset(2, 2),
+         ),
+      ],
+   ),
+),&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;img src=&quot;https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a06b8ce9-540e-43c5-a538-f5f9bff3d985/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221206%2Fus-west-2%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20221206T084233Z&amp;amp;X-Amz-Expires=86400&amp;amp;X-Amz-Signature=deb4712d0334115c2e531d2fbe9edf8220146b90fe9e8608b5eb04419a62ef17&amp;amp;X-Amz-SignedHeaders=host&amp;amp;response-content-disposition=filename%3D%22Untitled.png%22&amp;amp;x-id=GetObject&quot; width=&quot;400&quot;&gt;
+&lt;p&gt;핵심은 그림자 두개를 대각선으로 반대되게 배치하는 것이다.&lt;/p&gt;
+&lt;p&gt;하얀색 그림자를 왼쪽 위에, 검은색 그림자를 오른쪽 아래에 둠으로써 입체감을 느낄 수 있도록 만드는 것이 핵심이다. 막상 해보니 구현은 어렵지 않다. 그럼 이제 버튼 클릭 효과를 구현해보자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;GestureDetector(
+   onTap: () async {
+      setState(() {
+         click = !click;
+      });
+      await Future.delayed(Duration(milliseconds : 80),() {
+         setState(() {
+         click = !click;
+         });
+      });
+   },
+   child: AnimatedContainer(
+      duration: Duration(milliseconds : 80),
+      curve: Curves.fastOutSlowIn,
+      width: 100,
+      height: 100,
+      decoration: BoxDecoration(
+         borderRadius: BorderRadius.circular(50),
+         color: Color(0xFFF2F3F7),
+         boxShadow: click ? null : [
+         BoxShadow(
+            color: Color(0xFFffffff),
+            spreadRadius: 2,
+            blurRadius: 8,
+            offset: Offset(-2, -2),
+         ),
+         BoxShadow(
+            color: Color.fromRGBO(55, 84, 170, 0.1),
+            spreadRadius: 2,
+            blurRadius: 2,
+            offset: Offset(2, 2),
+         ),
+         ],
+      ),
+   ),
+),&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;버튼 클릭 시의 시간은 사용자가 보기 답답하지 않으면서도 들어갔다 나오는 효과를 인지할 수 있도록 80 milliseconds가 적당한것 같다.&lt;/p&gt;
+&lt;p&gt;글래스 모피즘의 경우 pub.dev에 패키지가 몇개 있던데 뉴모피즘은 간단해서 그런지 pub.dev에 없었다. 나중에 클릭효과 반응 속도를 올리거나 logn tap 등의 케이스 처리를 해서 패키지로 만들어 올려도 괜찮을 것 같다.&lt;/p&gt;
+&lt;h4&gt;5. 마치며&lt;/h4&gt;
+&lt;p&gt;개인적으로 디자인에 관심이 많고 이런 새로운 디자인들을 접하고 시도하는걸 좋아하는 편이다.&lt;/p&gt;
+&lt;p&gt;하지만 동시에 사람들이 실제로 사용하기에는 많이 부담스럽고 보기 간편하지 않을 지도 모르겠다는 생각이 든다. 추후 프로젝트에서는 좀 더 디자인 선택을 신중히 해야 할 것 같다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;콘셉트가 형태보다 중요하다. - 리히하르트 후텐(Richhard Houten)&lt;/h3&gt;
+&lt;p&gt;Concept is more important than form&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Flutter 페이지 전환에 대한 고찰]]></title><description><![CDATA[Flutter 페이지 전환에 대한 고찰 현재 운영중인 Fitmate의 네비게이터 구조까지 발전하게된 과정들을 기록해볼까 한다. 현업자분들에게는 당연한 부분일 수 있겠지만 나의 경우 삽질을 하면서 스스로 깨달은 부분중 하나이기에 잊고 싶지 않다.…]]></description><link>https://bosoek.github.io/flutter_page_navigator copy 2/</link><guid isPermaLink="false">https://bosoek.github.io/flutter_page_navigator copy 2/</guid><pubDate>Wed, 10 Aug 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Flutter 페이지 전환에 대한 고찰&lt;/h1&gt;
 &lt;p&gt;현재 운영중인 Fitmate의 네비게이터 구조까지 발전하게된 과정들을 기록해볼까 한다.&lt;/p&gt;
 &lt;p&gt;현업자분들에게는 당연한 부분일 수 있겠지만 나의 경우 삽질을 하면서 스스로 깨달은 부분중 하나이기에 잊고 싶지 않다.&lt;/p&gt;
@@ -115,6 +197,19 @@
 &lt;blockquote&gt;
 &lt;h3&gt;혁신을 시도하다보면 실수를 할 때가 있다. 빨리 실수를 인정하고, 당신의 다른 혁신들을 서둘러 개선해나가야 한다. - 스티브 잡스(Steven Jobs)&lt;/h3&gt;
 &lt;p&gt;Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Flutter 개발 시의 이슈들]]></title><description><![CDATA[Flutter 개발 시의 이슈들 플러터 개발시에 자주 생기는 오류들, 배포시에 발생하는 이슈들을 정리한다 1. Exception caught by widgets library Container 사용시에 decoration을 안쓴다면 바로 color…]]></description><link>https://bosoek.github.io/flutter_issue/</link><guid isPermaLink="false">https://bosoek.github.io/flutter_issue/</guid><pubDate>Mon, 01 Aug 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;h1&gt;Flutter 개발 시의 이슈들&lt;/h1&gt;
+&lt;p&gt;플러터 개발시에 자주 생기는 오류들, 배포시에 발생하는 이슈들을 정리한다&lt;/p&gt;
+&lt;h3&gt;1. Exception caught by widgets library&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Cannot provide both a color and a decoration
+To provide both, use &quot;decoration: BoxDecoration(color: color)&quot;.
+&apos;package:flutter/src/widgets/container.dart&apos;:
+Failed assertion: line 273 pos 15: &apos;color == null || decoration == null&apos;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Container 사용시에 decoration을 안쓴다면 바로 color를 지정해도 되지만 decoration 속성 사용시에는 반드시 decoration 안에 색을 지정해야한다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;나는 실패한 게 아니고, 다만 전구가 안되는 이치를 발견했을 뿐이다. - 토머스 에디슨(Thomas Edison)&lt;/h3&gt;
+&lt;p&gt;I didn’t fail, I just found out that the light bulb didn’t work.&lt;/p&gt;
 &lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Flutter 인터뷰 정리]]></title><description><![CDATA[Flutter 인터뷰 정리 올해 진행된 소프트웨어 마에스트로(SW Maestro.) 과정에 운좋게 선정되었는데 팀 내에서 Flutter 개발을 담당하게 될 것 같아 우선 먼저 Flutter…]]></description><link>https://bosoek.github.io/flutter_interview/</link><guid isPermaLink="false">https://bosoek.github.io/flutter_interview/</guid><pubDate>Fri, 06 May 2022 10:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h1&gt;Flutter 인터뷰 정리&lt;/h1&gt;
 &lt;p&gt;올해 진행된 소프트웨어 마에스트로(SW Maestro.) 과정에 운좋게 선정되었는데 팀 내에서 Flutter 개발을 담당하게 될 것 같아 우선 먼저 Flutter에 대해 공부하려고 한다.&lt;/p&gt;
