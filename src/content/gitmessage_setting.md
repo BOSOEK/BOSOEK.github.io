@@ -60,5 +60,5 @@ i 또는 a를 입력하여 커밋 메시지 작성 후 esc + ```:wq```를 작성
 
 ---
 
-> ### 고객을 ‘유저’라고 부르는 산업은 딱 두 개가 있다. 마약과 IT - 에드워드 터프테
+> ### 고객을 ‘유저’라고 부르는 산업은 딱 두 개가 있다. 마약과 IT -에드워드 터프테
 > There are only two industries that call customers 'users'. Drugs and IT

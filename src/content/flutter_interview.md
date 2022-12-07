@@ -266,5 +266,5 @@ async 메서드가 완료될 때까지 await는 프로세스 흐름을 중단한
 
 ---
 
-> ### 리엑트 네이티브의 장점은 네이티브를 몰라도 앱을 만들 수 있지만, 단점은 네이티브를 알아야 했다는 것이다. - ???
+> ### 리엑트 네이티브의 장점은 네이티브를 몰라도 앱을 만들 수 있지만, 단점은 네이티브를 알아야 했다는 것이다. -???
 > The advantage of React Native is that you can create apps without knowing native, but the downside is that you had to know native.

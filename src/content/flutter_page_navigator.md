@@ -102,9 +102,57 @@ FutureBuilder<List> (
 
 즉, 사용자가 기존에 보는 화면을 스크롤 중이라면, 어플이 새로운 서버 값으로 교체함에 따라 다시 스크롤의 맨 위로 화면이 강제 이동 된다. 결국 근본적으로 페이지 자체를 살려 두는 것이 베스트여서 찾아 보고 ```AutomaticKeepAliveClientMixin``` 등도 사용해봤지만 효과는 없었다.
 
-때문에 또 며칠을 골머리를 앓고 있었는데, 그때 친구가 나한테 회사 과제 구현하는데 도와달라고 했다. 나는 알겠다고 하고 소스코드를 봐주다가 처음으로 PageView라는 것을 알게되었다. 해당 친구가 내가 생각한 방식으로 사용한 것은 아니지만 pageview를 활용하면 처음 생각대로 화면 자체를 저장하는 것이 가능할 것 같았다.
+때문에 또 며칠을 골머리를 앓고 있었는데, 그때 친구가 나한테 회사 과제 구현하는데 도와달라고 했다. 나는 알겠다고 하고 소스코드를 봐주다가 처음으로 PageView라는 것을 알게되었다. 해당 친구가 내가 생각한 방식으로 사용한 것은 아니지만 pageview와 navigator를 활용하면 처음 생각대로 화면 자체를 저장하는 것이 가능할 것 같았다.
 
 때문에 바로 검색을 해봤고 역시나 pageview를 사용해 화면 저장이 가능했고 즉시 pageview를 사용하는 형태로 어플을 수정했다. 왜 이전에 검색시에는 pageview 관련은 아무것도 안나왔는지가.....
+
+코드로 확인하면 다음과 같다.
+
+```
+Scaffold(
+  extendBody: true,
+  body: PageView(
+    controller: pageController,
+    onPageChanged: onPageChanged,
+    children: [
+      페이지 목록들
+    ],
+    physics: NeverScrollableScrollPhysics(), // No sliding
+  ),
+  bottomNavigationBar: child: BottomNavigationBar(
+              elevation: 10,
+              backgroundColor: whiteTheme,
+              showSelectedLabels: false,
+              showUnselectedLabels: false,
+              type: BottomNavigationBarType.fixed,
+              onTap: (int index) {
+                pageController.jumpToPage(index);
+              },
+              currentIndex: _currentIndex,
+              items: [
+                BottomNavigationBarItem(
+                  icon: SvgPicture.asset(
+                          // 5
+                          "${iconSource}home_icon.svg",
+                          width: iconSize,
+                          height: iconSize,
+                        ),
+                  label: 'Home',
+                ),
+                BottomNavigationBarItem(
+                  icon: SvgPicture.asset(
+                          // 5
+                          "${iconSource}chatting_icon.svg",
+                          width: iconSize,
+                          height: iconSize,
+                        ),
+                  label: 'Chatting',
+                ),
+        ]),
+);
+```
+
+페이지 목록들과 BottomNavigationBarItem의 수만 일치시키면 되며, 각 페이지 클래스들은 ```with AutomaticKeepAliveClientMixin``` 를 붙여야한다.
 
 #### 5. 마치며
 
@@ -116,5 +164,5 @@ FutureBuilder<List> (
 
 ---
 
-> ### 혁신을 시도하다보면 실수를 할 때가 있다. 빨리 실수를 인정하고, 당신의 다른 혁신들을 서둘러 개선해나가야 한다. - 스티브 잡스(Steven Jobs)
+> ### 혁신을 시도하다보면 실수를 할 때가 있다. 빨리 실수를 인정하고, 당신의 다른 혁신들을 서둘러 개선해나가야 한다. -스티브 잡스(Steven Jobs)
 > Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.
