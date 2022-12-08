@@ -57,7 +57,7 @@ Container(
 ),
 ```
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a06b8ce9-540e-43c5-a538-f5f9bff3d985/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221206%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221206T084233Z&X-Amz-Expires=86400&X-Amz-Signature=deb4712d0334115c2e531d2fbe9edf8220146b90fe9e8608b5eb04419a62ef17&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject" width="400">
+<img src="https://user-images.githubusercontent.com/68007145/206332809-5fba1b35-9f64-4371-9eea-db02d0337b3c.png" width="400">
 
 핵심은 그림자 두개를 대각선으로 반대되게 배치하는 것이다. 
 
