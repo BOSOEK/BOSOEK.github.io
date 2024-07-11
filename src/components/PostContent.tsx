@@ -15,22 +15,24 @@ const Ast = ({ ast, ...props }: any) => {
   return renderAst(ast);
 };
 
-export interface PostContentProps {
+export type PostContentProps = {
   htmlAst: any;
-}
+};
 
-const PostContent: React.FC<PostContentProps> = ({ htmlAst }) => (
-  <PostFullContent className="post-full-content">
-    <Ast className="post-content" ast={htmlAst} />
-  </PostFullContent>
-);
+function PostContent({ htmlAst }: PostContentProps) {
+  return (
+    <PostFullContent className="post-full-content">
+      <Ast className="post-content" ast={htmlAst} />
+    </PostFullContent>
+  );
+}
 
 export const PostFullContent = styled.section`
   position: relative;
   margin: 0 auto;
   padding: 0 170px 6vw;
   min-height: 230px;
-  font-family: sans-serif, serif;
+  font-family: Georgia, serif;
   font-size: 2rem;
   line-height: 1.6em;
   background: #fff;
@@ -86,7 +88,7 @@ export const PostFullContent = styled.section`
   }
 
   li {
-    word-break: break-word;    
+    word-break: break-word;
   }
 
   li p {

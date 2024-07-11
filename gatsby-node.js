@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/restrict-plus-operands, @typescript-eslint/no-var-requires */
 const path = require('path');
 const _ = require('lodash');
+const readingTime = require('reading-time');
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
@@ -40,6 +41,12 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         name: 'primaryTag',
         value: primaryTag || '',
       });
+
+      createNodeField({
+        node,
+        name: 'readingTime',
+        value: readingTime(node.rawMarkdownBody),
+      });
     }
   }
 };
@@ -47,55 +54,57 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
-  const result = await graphql(`{
-  allMarkdownRemark(
-    limit: 2000
-    sort: {fields: [frontmatter___date], order: ASC}
-    filter: {frontmatter: {draft: {ne: true}}}
-  ) {
-    edges {
-      node {
-        excerpt
-        frontmatter {
-          title
-          tags
-          date
-          draft
-          excerpt
-          image {
-            childImageSharp {
-              gatsbyImageData(placeholder: BLURRED, layout: FULL_WIDTH)
-            }
-          }
-          author {
-            id
-            bio
-            avatar {
-              childImageSharp {
-                gatsbyImageData(placeholder: BLURRED, layout: FULL_WIDTH)
+  const result = await graphql(`
+    {
+      allMarkdownRemark(
+        limit: 2000
+        sort: { frontmatter: { date: DESC } }
+        filter: { frontmatter: { draft: { ne: true } } }
+      ) {
+        edges {
+          node {
+            excerpt
+            frontmatter {
+              title
+              tags
+              date
+              draft
+              excerpt
+              image {
+                childImageSharp {
+                  gatsbyImageData(placeholder: BLURRED, layout: FULL_WIDTH)
+                }
+              }
+              author {
+                name
+                bio
+                avatar {
+                  childImageSharp {
+                    gatsbyImageData(placeholder: BLURRED, layout: FULL_WIDTH)
+                  }
+                }
               }
             }
+            fields {
+              readingTime {
+                text
+              }
+              layout
+              slug
+            }
           }
         }
-        fields {
-          readingTime {
-            text
+      }
+      allAuthorYaml {
+        edges {
+          node {
+            id
+            name
           }
-          layout
-          slug
         }
       }
     }
-  }
-  allAuthorYaml {
-    edges {
-      node {
-        id
-      }
-    }
-  }
-}
-`);
+  `);
 
   if (result.errors) {
     console.error(result.errors);
@@ -134,7 +143,6 @@ exports.createPages = async ({ graphql, actions }) => {
       // `layout` frontmatter in the Markdown.
       //
       // Feel free to set any `layout` as you'd like in the frontmatter, as
-      // Feel free to set any `layout` as you'd like in the frontmatter, as
       // long as the corresponding template file exists in src/templates.
       // If no template is set, it will fall back to the default `post`
       // template.
@@ -155,7 +163,9 @@ exports.createPages = async ({ graphql, actions }) => {
   const tagTemplate = path.resolve('./src/templates/tags.tsx');
   const tags = _.uniq(
     _.flatten(
-      result.data.allMarkdownRemark.edges.map(edge => _.castArray(_.get(edge, 'node.frontmatter.tags', []))),
+      result.data.allMarkdownRemark.edges.map(edge =>
+        _.castArray(_.get(edge, 'node.frontmatter.tags', [])),
+      ),
     ),
   );
   tags.forEach(tag => {
@@ -172,10 +182,10 @@ exports.createPages = async ({ graphql, actions }) => {
   const authorTemplate = path.resolve('./src/templates/author.tsx');
   result.data.allAuthorYaml.edges.forEach(edge => {
     createPage({
-      path: `/author/${_.kebabCase(edge.node.id)}/`,
+      path: `/author/${_.kebabCase(edge.node.name)}/`,
       component: authorTemplate,
       context: {
-        author: edge.node.id,
+        author: edge.node.name,
       },
     });
   });
