@@ -179,18 +179,6 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                 >
                   <FaLinkedinIn />
                 </a>
-              )},
-              {config.kaggle && (
-                <a
-                  className="social-link-fb"
-                  css={[SocialLink, SocialLinkFb]}
-                  href={config.kaggle}
-                  target="_blank"
-                  title="Kaggle"
-                  rel="noopener noreferrer"
-                >
-                  <SiKaggle />
-                </a>
               )}
             </SocialLinks>
             {config.showSubscribe && (

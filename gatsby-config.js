@@ -8,7 +8,7 @@ module.exports = {
     siteUrl: 'https://bosoek.github.io', // full path to blog - no ending slash
   },
   mapping: {
-    'MarkdownRemark.frontmatter.author': 'AuthorYaml',
+    'MarkdownRemark.frontmatter.author': 'AuthorYaml.name',
   },
   plugins: [
     'gatsby-plugin-sitemap',
@@ -40,7 +40,6 @@ module.exports = {
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
           'gatsby-remark-smartypants',
-          'gatsby-remark-reading-time',
           {
             resolve: 'gatsby-remark-images',
             options: {
@@ -80,19 +79,20 @@ module.exports = {
         `,
         feeds: [
           {
-            serialize: ({ query: { site, allMarkdownRemark } }) => allMarkdownRemark.edges.map(edge => ({
-              ...edge.node.frontmatter,
-              description: edge.node.excerpt,
-              date: edge.node.frontmatter.date,
-              url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
-              guid: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
-              custom_elements: [{ 'content:encoded': edge.node.html }],
-            })),
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map(edge => ({
+                ...edge.node.frontmatter,
+                description: edge.node.excerpt,
+                date: edge.node.frontmatter.date,
+                url: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+                guid: `${site.siteMetadata.siteUrl}${edge.node.fields.slug}`,
+                custom_elements: [{ 'content:encoded': edge.node.html }],
+              })),
             query: `
               {
                 allMarkdownRemark(
                   filter: { frontmatter: { draft: { ne: true } } }
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { frontmatter: { date: DESC } }
                 ) {
                   edges {
                     node {
@@ -109,7 +109,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: 'Ghost\'s Blog',
+            title: "Ghost's Blog",
             match: '^/blog/',
           },
         ],

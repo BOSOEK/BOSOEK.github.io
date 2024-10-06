@@ -24,9 +24,10 @@ import {
   SiteHeaderStyles,
 } from '../styles/shared';
 import config from '../website-config';
-import { PageContext } from './post';
+import type { PageContext } from './post';
 
-export interface IndexProps {
+export type IndexProps = {
+  children: React.ReactNode;
   pageContext: {
     currentPage: number;
     numPages: number;
@@ -40,9 +41,9 @@ export interface IndexProps {
       }>;
     };
   };
-}
+};
 
-const IndexPage: React.FC<IndexProps> = props => {
+function IndexPage(props: IndexProps) {
   const width = getImage(props.data.header)?.width;
   const height = getImage(props.data.header)?.height;
 
@@ -90,7 +91,7 @@ const IndexPage: React.FC<IndexProps> = props => {
               <SiteTitle className="site-title">
                 {props.data.logo ? (
                   <img
-                    style={{ maxHeight: '55px' }}
+                    style={{ maxHeight: '55px', height: '55px' }}
                     src={getSrc(props.data.logo)}
                     alt={config.title}
                   />
@@ -105,14 +106,13 @@ const IndexPage: React.FC<IndexProps> = props => {
         <main id="site-main" css={[SiteMain, outer]}>
           <div css={[inner, Posts]}>
             <div css={[PostFeed]}>
-              {props.data.allMarkdownRemark.edges.map((post, index) =>
-                // filter out drafts in production
-                (
-                  (post.node.frontmatter.draft !== true
-                    || process.env.NODE_ENV !== 'production') && (
-                    <PostCard key={post.node.fields.slug} post={post.node} large={index === 0} />
-                  )
-                ),
+              {props.data.allMarkdownRemark.edges.map(
+                (post, index) =>
+                  // filter out drafts in production
+                  (post.node.frontmatter.draft !== true ||
+                    process.env.NODE_ENV !== 'production') && (
+                    <PostCard key={post.node.fields.slug} post={post.node} isLarge={index === 0} />
+                  ),
               )}
             </div>
           </div>
@@ -128,7 +128,7 @@ const IndexPage: React.FC<IndexProps> = props => {
       </Wrapper>
     </IndexLayout>
   );
-};
+}
 
 export const pageQuery = graphql`
   query blogPageQuery($skip: Int!, $limit: Int!) {
@@ -137,13 +137,13 @@ export const pageQuery = graphql`
         gatsbyImageData(layout: FIXED)
       }
     }
-    header: file(relativePath: { eq: "img/banner4.png" }) {
+    header: file(relativePath: { eq: "img/blog-cover.png" }) {
       childImageSharp {
-        gatsbyImageData(width: 2000, quality: 100, layout: FIXED)
+        gatsbyImageData(width: 2000, quality: 100, layout: FIXED, formats: [AUTO, WEBP, AVIF])
       }
     }
     allMarkdownRemark(
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { frontmatter: { date: DESC } }
       filter: { frontmatter: { draft: { ne: true } } }
       limit: $limit
       skip: $skip
@@ -158,11 +158,11 @@ export const pageQuery = graphql`
             excerpt
             image {
               childImageSharp {
-                gatsbyImageData(layout: FULL_WIDTH)
+                gatsbyImageData(layout: FULL_WIDTH, formats: [AUTO, WEBP, AVIF])
               }
             }
             author {
-              id
+              name
               bio
               avatar {
                 childImageSharp {
